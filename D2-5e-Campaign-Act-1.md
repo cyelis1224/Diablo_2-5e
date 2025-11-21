@@ -167,6 +167,273 @@ Remember that this is a game, and fun comes first. If something isn't working, c
 
 \page
 
+{{wide
+# Quest 5: Tools of the Trade
+
+{{imageMaskEdge1,--offset:-33%,--rotation:0
+  ![](https://i.redd.it/1firp67htpd61.png){position:absolute,bottom:0,left:-200px,height:100%,opacity:0.6}
+}}
+
+::::::
+*This quest drags the party through the shattered Monastery complex to steal back the Horadric Malus from The Smith. It blends infiltration, hostage rescue, and a bruising boss fight that sets up the march on Andariel.*
+{color:#C9AD6A}
+{background:#00000090,text-align:center}
+}}
+
+{{descriptive,wide
+##### Charsi's Plea
+
+Returning from the Forgotten Tower, the heroes find Charsi pacing beside her forge, soot-stained ledgers from the Countess’ vault spread across the anvil. The parchment details shipment schedules, demonic alloys, and one line circled over and over: *"Horadric Malus relocated to Barracks forge."* Charsi’s hands shake—not from fear, but from the realization that her teachers’ masterpiece still exists, even if it’s been twisted to serve Andariel.
+
+She explains that the Horadric Malus was the Sisterhood’s sacred hammer, a focus that lets her fold runes into steel, awaken latent sockets, and break the enchantments binding demonic alloys. Without it, she can only patch armor and pray. With it, she can arm the camp for the inevitable push into the Monastery. The quest is personal, but it is also strategic—the final assault on Andariel will fail if the heroes can’t keep pace with the weapons coming out of the corrupted forge.
+}}
+
+{{descriptive,wide
+##### Meeting Charsi
+
+When players speak with Charsi after Quest 4, she addresses them with anxious determination:
+
+**Charsi:** *"The Countess’ ledgers talked about a demon they just call The Smith. He hauled our Horadric Malus back into the Barracks and has been forging weapons for Andariel ever since. If we don’t steal it back, everything we do out there is just patchwork."*
+
+If players ask how to reach the Barracks:
+
+**Charsi:** *"Follow the Tamoe Highland to the Monastery Gate, push through the Outer Cloister, and you’ll smell the forge before you see it. The Barracks connect straight into the Jail—we used to move arms between them. Now they’re crawling with corrupted Rogues and Goatmen enforcers."*
+
+If players probe for tactical advice:
+
+**Charsi:** *"Those ledgers mention alarm gongs on every landing. Move quiet, kill the shamans first, and watch for pressure plates near the armories. If they ring that bell, The Smith will know you’re coming."*
+
+If players ask what she can do with the Malus:
+
+**Charsi:** *"Bring it home and I’ll rework one of your weapons or suits of armor for free. After that, every rune you find turns into something real—sockets, runewords, fire-hardened edges. I swear it."*
+
+**Charsi (Early Return without the Malus):** *"I know it’s a deathtrap. I also know we won’t survive Andariel without that hammer. Catch your breath if you need to, but we have to go back in there."*
+}}
+
+{{descriptive,wide
+##### Other NPCs’ Comments (After Initiating Quest)
+
+**Deckard Cain:** *"The Horadric Malus is more than a craftsperson’s tool. It channels patterns first taught to us by the angels. Beware The Smith—he was a mortal once, but the forge remade him into something that knows only pain."*
+
+**Akara:** *"The Barracks and Jail are soaked in the blood of my sisters. Cleanse that place if you can—free the captives, sanctify the armories, and bring the Malus back to hands that honor it."*
+
+**Kashya:** *"I can spare a scout to guide you through the Tamoe Highland, but once you breach the Cloister you’re on your own. Drop the gate chains or light a green flare if you need extraction. Otherwise, finish the job."*
+
+**Gheed:** *"I hear demons pay top coin for enchanted steel. If you find any... surplus... I know buyers. And if you happen across The Smith’s ledger, I’d pay handsomely for a look."*
+
+**Warriv:** *"The path east is narrower than ever. The Highland cliffs will funnel you straight to the gate—expect ambushes on the ridge, and don’t linger when the bells start ringing."*
+
+**Kashya (Early Return):** *"Every hour that hammer stays in demon hands is another hour they forge blades for our throats. Re-arm and get back in there."*
+}}
+
+{{descriptive,wide
+##### Quest Objectives
+
+**Quest Giver:** Charsi (Rogue Encampment)
+
+**Location Chain:** Rogue Encampment → Tamoe Highland → Monastery Gate → Outer Cloister → Barracks → Jail (Level 1) → Smith’s Forge Hall
+
+**Objective:** Retrieve the Horadric Malus from The Smith so Charsi can restore advanced crafting to the encampment.
+
+**Completion Requirements:**
+- Travel through the Tamoe Highland and breach the Monastery Gate (see page XX for area details)
+- Infiltrate or clear the Outer Cloister to reach the Barracks entrance
+- Navigate the Barracks workshops and adjoining Jail corridors while managing alarms and patrols
+- Defeat The Smith inside the forge hall and recover the Horadric Malus
+- Return the Malus to Charsi in the Rogue Encampment
+
+**Rewards:**
+- 300 XP per character
+- Horadric Malus unlocked: Charsi can now socket items, apply masterwork upgrades, and craft rune-enhanced gear (see below)
+- One free masterwork upgrade or socket per character
+- Access to demonsteel ingots, schematics, and unique loot from The Smith
+- Encampment morale boost: Kashya’s mercenaries gain +1 damage on their first attack in the next quest (optional rule)
+
+**Recommended Party Level:** 5 (after completing The Forgotten Tower)
+
+**Estimated Duration:** 3–4 hours of play (longer if the party sweeps every cell block)
+}}
+
+{{descriptive,wide
+##### The Road to the Monastery
+
+The trek from the Rogue Encampment to the Monastery is longer than any previous excursion. The party must:
+- Cross the **Black Marsh** or loop through the **Dark Wood** to reach the **Tamoe Highland**. Use the Highland encounter table (see page XX) to emphasize exposed ridgelines, goatman ambushes, and bitter winds that impose **DC 13 Constitution saves** every hour or suffer one level of exhaustion (optional).
+- Approach the **Monastery Gate** where corrupted Rogues have re-rigged the ballistae. A **DC 15 Dexterity (Stealth)** check lets the party bypass the gatehouse; failure triggers a volley (3d10 piercing, Dexterity save half) and raises the first alarm tick.
+- Navigate the **Outer Cloister**, now an open-air killing field. Treat each quadrant as difficult terrain filled with collapsed masonry and burning braziers. Secret postern doors (DC 15 Investigation) can drop the party directly into the Barracks mezzanine, rewarding scouting and use of Rogue allies.
+
+Encourage the heroes to secure fallback routes: jamming the gate chains, toppling siege ladders, or leaving chalk symbols for Kashya’s scouts grants advantage on future checks to retreat or bring reinforcements.
+}}
+
+{{descriptive,wide
+##### Barracks & Jail Crawl
+
+| Segment | Key Features & Hazards | Sample Encounters |
+|:--|:--|:--|
+| **Outer Cloister Entry** | Two-story walkways, arrow slits, alarm gongs on chains (DC 14 Thieves’ Tools to disarm). Difficult terrain from collapsed arches, brazier smoke imposes lightly obscured condition. | 2d4 **Corrupt Rogues** (mix melee/archer), 1 **Goatman Spearman**, 1 **Fallen Shaman** ringing the gong. |
+| **Barracks Workshops** | Rows of weapon racks, quenching troughs that vent scalding steam every other round (Dex save DC 13 or 2d6 fire). Pressure plates (DC 15 Perception) drop portcullises that split the party. | 1 **Corrupt Captain** with 1d4 **Rogue Trainees**, 1 **Gargantuan Beast** chained to the forge. |
+| **Forge Gallery** | Central hall leading to The Smith. Lava channels provide soft cover but deal 1d10 fire to creatures that start their turn adjacent. Cranes swing suspended blades (can be commandeered with DC 14 Strength). | 1 **Corrupt Sorceress**, 2d4 **Skeleton Smelters** (use skeleton stat block with fire damage), environmental hazard wave (falling chimney, etc.). |
+| **Upper Jail (Cells & Kennels)** | Rows of barred cells containing terrified refugees or corrupted prisoners. Unlocking cells (DC 14 Thieves’ Tools) without silencing wailing survivors raises alarm. Healing supplies stashed in infirmary (2d4 potions). | 1 **Dark Archer Warden**, 1d4 **Spike Fiends**, optional **Unique Prisoner** (ally or side quest). |
+| **Deep Cells & Arsenal** | Spiral stair to forge hall, rune-scribed doors, chanting from Hell-forged apprentices. Weapon racks grant +1 weapons for the encounter if claimed. Alarm lever beside the door triggers reinforcements every other round. | 2 **Burning Dead**, 1 **Corrupt Sorceress**, 1 **Hellforge Acolyte** (use acolyte with fire spells). |
+}}
+
+{{descriptive,wide
+##### Optional Goals & Complications
+
+- **Rescue Captives:** Freeing at least three imprisoned Rogues grants the party advantage on one future Stealth or Survival check inside the Monastery. Survivors also deliver intelligence for Quest 6.
+- **Sabotage the Forge:** A **DC 16 Intelligence (Arcana) or Strength (Athletics)** check disables the rune-powered bellows, imposing disadvantage on demon attack rolls for the rest of this quest and reducing Andariel’s reinforcements later.
+- **Secure Supply Caches:** Barracks arsenals hold 2d6 bundles of alchemist’s fire, tanglefoot bags, or holy water. Each cache requires a **DC 13 Investigation** to locate before they’re spirited deeper into the Jail.
+- **Silent Approach:** Tracking alarm ticks creates tension. After three alarms, reinforcements equal to 2d4 Corrupt Rogues arrive each round until the party reaches the forge. Reward clever timing, illusions, or disguises that keep the alarm below that threshold.
+- **Ledger Snatch:** The Smith’s desk contains manifests naming Andariel’s lieutenants. Delivering these to Deckard Cain grants advantage on lore checks in Quest 6 and unlocks bonus downtime rumors.
+}}
+
+{{descriptive,wide
+##### The Horadric Malus
+
+The Malus is a massive adamant hammer carved with ocular runes. When a hero lifts it from The Smith’s anvil, cold light flashes and every brazier in the forge gutters. Carrying it halves the weight of any nonmagical gear the bearer holds (holy buoyancy) but also makes them shed faint sparks—useful for tracking or dramatic lighting.
+
+**Workshop Benefits (after returning the Malus to Charsi):**
+- **Masterwork Temper (1/character):** Each hero chooses one weapon or suit of armor. Charsi upgrades it to a +1 item or adds a bespoke property (flaming, serrated, radiant, etc.) appropriate to the character’s concept.
+- **Socketcraft:** Charsi can now add one socket to any weapon/armor/shield per downtime week. Filling a socket requires runes or gems (see page XX for rune tables).
+- **Rune Fusion:** Combining at least two runes lets Charsi attempt proto-runewords. Spending 50 gp in materials and succeeding on a **DC 15 Smith’s Tools** check (rolled by the DM) grants an additional minor property.
+- **Commissioned Projects:** Future quests may require special gear (holy water grenades, blessed bolts, etc.). With the Malus, Charsi can craft such items at half cost and in half the downtime, giving the party a tangible edge heading into Quest 6.
+}}
+
+{{descriptive,wide
+##### The Smith Encounter
+
+The forge hall is a vaulted chamber where molten metal pours through rune-lined channels. The Smith stands at the center, chained to the anvil by choice, each swing sending shockwaves across the floor. When the party enters, read or paraphrase:
+
+*“Heat slams into you like a wall. Chains rattle overhead, glowing rivulets of metal trace sigils in the air, and a hulking figure turns to face you. Flesh fused with iron. Eyes like forge coals. In his fist, the Horadric Malus—perverted, yet still holy. The Smith bellows, and the walls answer.”*
+
+**Battlefield Features:**
+- **Molten Channels:** Difficult terrain; creatures that fall prone adjacent to a channel take 7 (2d6) fire damage.
+- **Hanging Chains:** Medium or smaller creatures can swing across the hall (DC 13 Athletics) to avoid lava or reach balconies. The Smith can rip a chain free as a legendary action.
+- **Runic Bellows:** A console near the entrance can be sabotaged (DC 15 Intelligence (Arcana)) to impose disadvantage on The Smith’s fire attacks for the rest of the fight.
+- **Weapon Racks:** Grabbing a blessed glaive or shield grants +1 to attack or AC for the encounter but takes an action.
+
+**Combat Phases:**
+- **Phase 1 – Slam Shock:** The Smith focuses on frontline characters, using Molten Rush to close gaps and knock foes prone. Reinforcement waves of 1d4 Burning Dead pour in every other round if the alarm was triggered.
+- **Phase 2 – Bellows Burst (below 60% HP):** He shatters the Malus’ bindings, causing magma splashes (Dex save DC 15 or 3d8 fire). He also begins hurling Cinderbursts down the length of the forge.
+- **Phase 3 – Enraged Tempest (below 30% HP):** The Smith ignites, gaining temporary hit points and attempting to grapple a character, dragging them toward the anvil for a coup de grâce. Destroying the rune pillars lining the walls (AC 15, 25 HP) ends this frenzy.
+
+Defeating him without destroying the Malus requires called shots (declare nonlethal intent) or a **DC 16 Dexterity (Sleight of Hand)** check at the start of the final blow to wrest the hammer away mid-swing.
+}}
+
+{{monster,frame,wide
+## The Smith
+*Large fiend (demon), chaotic evil*
+___
+**Armor Class** :: 17 (*hellforged plate*)  
+**Hit Points** :: 152 (16d10 + 64)  
+**Speed** :: 30 ft.
+___
+| STR | DEX | CON | INT | WIS | CHA |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| 23 (+6) | 12 (+1) | 18 (+4) | 9 (−1) | 14 (+2) | 15 (+2) |
+___
+**Saving Throws** :: Str +11, Con +8, Wis +6  
+**Skills** :: Athletics +11, Intimidation +6, Perception +6  
+**Damage Resistances** :: cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks  
+**Damage Immunities** :: poison  
+**Condition Immunities** :: charmed, frightened, poisoned  
+**Senses** :: darkvision 120 ft., passive Perception 16  
+**Languages** :: Common, Infernal  
+**Challenge** :: 7 (2,900 XP) {{bonus **Proficiency Bonus** +3}}
+___
+### Traits
+***Forge-Bound Hide.*** When The Smith takes fire damage, he gains 5 temporary hit points (stacking to a maximum of 20).  
+:
+***Molten Rush.*** When The Smith moves at least 15 feet straight toward a creature and hits it with a Great Maul attack on the same turn, the target must succeed on a DC 16 Strength saving throw or be knocked prone and take an extra 7 (2d6) fire damage.  
+:
+***Unstoppable.*** Difficult terrain doesn’t cost The Smith extra movement, and he can move through the space of a hostile creature that is Medium or smaller.
+
+___
+### Actions
+***Multiattack.*** The Smith makes two *Great Maul* attacks, or one *Great Maul* attack and one *Chain Drag* attack.  
+:
+***Great Maul.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) bludgeoning damage plus 7 (2d6) fire damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone.  
+:
+***Chain Drag (Recharge 5–6).*** The Smith lashes out with a hooked chain. One creature within 20 feet must make a DC 16 Strength saving throw. On a failed save, the creature is pulled up to 15 feet toward The Smith and takes 13 (3d8) slashing damage; on a success, the creature takes half damage and isn’t moved.  
+:
+***Cinderburst (Recharge 5–6).*** The Smith hurls molten slag in a 30-foot cone. Each creature in the area must make a DC 16 Dexterity saving throw, taking 27 (6d8) fire damage on a failed save, or half as much on a success. A creature that fails also catches fire, taking 5 (1d10) fire damage at the start of each of its turns until it or another creature uses an action to douse the flames.  
+:
+***Ignite the Bellows (1/Day).*** The Smith slams the anvil, empowering his forge. He gains 20 temporary hit points and each enemy within 10 feet must succeed on a DC 16 Constitution saving throw or be stunned until the end of their next turn.
+
+___
+### Legendary Actions
+The Smith can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The Smith regains spent legendary actions at the start of his turn.
+
+***Trample.*** The Smith moves up to 10 feet without provoking opportunity attacks.  
+***Backhand.*** The Smith makes one *Great Maul* attack.  
+***Rip Chain (Costs 2 Actions).*** The Smith tears a hanging chain loose. Each creature within 10 feet of that chain must make a DC 16 Dexterity saving throw or take 9 (2d8) bludgeoning damage and be restrained until the start of The Smith’s next turn.
+}}
+
+{{descriptive,wide
+##### Completion & Rewards
+
+When the party pries the Malus from demon hands, the forge keens like a bell. Flames flicker out, alarms fall silent, and any surviving prisoners bow in stunned relief. Carrying the hammer imposes disadvantage on Stealth checks (it hums audibly), but grants advantage on saving throws against fear effects as long as it is borne openly.
+
+Back in the Rogue Encampment, the reception is immediate:
+
+**Charsi:** *"I can feel the forge breathe again. Lay your gear out—I’ll start with the worst dents and work my way to miracles."*
+
+**Deckard Cain:** *"The Horadrim would be proud. With this tool restored, we can inscribe the runic blessings Andariel fears most."*
+
+**Akara:** *"The Monastery trembles; I can feel it. This is the turning point. Prepare yourselves—the Cathedral will not surrender easily."*
+
+**Kashya:** *"With those weapons, my Rogues might stand a chance in the Cloister halls. Say the word and we march on the Inner Cloister."*
+
+**Gheed:** *"Newly-forged steel floods the market? Music to my ears. If Charsi needs rare reagents, tell her Gheed knows people."*
+
+**Warriv:** *"Hope is a dangerous thing—but I’ll take danger over despair. When you head east, my caravan will be ready."*
+
+**Quest Rewards Recap:**
+- 300 XP per character
+- Horadric Malus returned; each hero receives one free upgrade or socket from Charsi
+- Access to new crafting menus: masterwork tempering, socketing, rune fusion (as described above)
+- Loot from The Smith’s forge: 3d6 x 10 gp in demonsteel bars, 1d4 potions of fire resistance, 25% chance of a unique weapon such as **The Smith’s Brand** (see magic items section)
+- Rescued prisoners provide intelligence that grants advantage on the first skill check made inside the Monastery during Quest 6
+
+With the forge reclaimed, Kashya and Akara formally brief the party on **Quest 6: Sisters to the Slaughter**, the assault on the Inner Cloister, Catacombs, and Andariel herself.
+}}
+
+{{descriptive,wide
+##### Game Master Notes
+
+**Quest Difficulty:** Hard (attrition-based gauntlet plus a CR 7 boss). Expect 4–6 medium encounters before The Smith.
+
+**Scaling Tips:**
+- Remove one patrol or legendary action for smaller/less-optimized parties.
+- Allow Kashya to loan a Rogue scout (use the *Scout* stat block) if the group lacks stealth or trap skills.
+- For hardened parties, add a second Hellforge Acolyte in the forge hall and increase The Smith’s hit points to 180.
+
+**Teaching Moments:**
+- Highlight infiltration vs. assault by tracking alarm ticks openly.
+- Showcase environmental hazards (lava, chains, pressure plates) to encourage creative tactics.
+- Introduce crafting as a reward loop: success unlocks new downtime options, failure keeps the party under-geared.
+
+**Loot Suggestions:**
+- **The Smith’s Brand:** +1 great maul that deals an extra 1d6 fire damage and casts *heat metal* (1/day).
+- **Runed Shackles:** Restrains a fiend for 1 minute (DC 15 Strength to break); invaluable for Andariel’s lieutenants.
+- **Demonsteel Ingots:** Each ingot counts as 75 gp worth of crafting materials when presented to Charsi.
+
+**Fail Forward:**
+- If the party retreats, increase the alarm level next time; reinforcements arrive sooner and The Smith gains advantage on initiative.
+- If the Malus is damaged, Akara can lead a purification ritual (skill challenge) that delays crafting but still moves the story forward.
+
+**Transition to Quest 6:**
+- Kashya convenes a war council once Charsi begins forging upgraded gear.
+- Akara senses Andariel’s anguish beneath the Cathedral, pointing the heroes toward the Catacombs.
+- Deckard Cain translates manifests recovered from the Barracks, providing tactical intel for the final assault.
+
+Completing Quest 5 should feel like flipping the campaign’s momentum—the heroes finally control the forge, and Sanctuary’s last defenders are ready to strike back.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
 {{partCover}}
 
 # I
