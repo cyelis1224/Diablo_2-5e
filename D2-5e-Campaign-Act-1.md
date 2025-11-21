@@ -1035,7 +1035,7 @@ After clearing the Den of Evil, Akara directs the heroes to speak with Kashya. T
 
 When players speak with Kashya after completing Quest 1, she addresses them with urgency:
 
-**Kashya:** *"My Rogue scouts have just reported an abomination in the Monastery graveyard!"* Her voice is sharp, urgent, the voice of someone reporting an immediate threat. *"Apparently, Andariel is not content to take only our living. Blood Raven, one of our finest captains in the battle against Diablo at Tristram, was also one of the first to be corrupted by Andariel. Now, you'll find her in the Monastery graveyard raising our dead as zombies! We cannot abide this defilement! If you are truly our ally, you will help us destroy her."*
+**Kashya:** *"My Rogue scouts have just reported an abomination in the Burial Grounds!"* Her voice is sharp, urgent, the voice of someone reporting an immediate threat. *"Apparently, Andariel is not content to take only our living. Blood Raven, one of our finest captains in the battle against Diablo at Tristram, was also one of the first to be corrupted by Andariel. Now, you'll find her in the Burial Grounds raising our dead as zombies! We cannot abide this defilement! If you are truly our ally, you will help us destroy her."*
 
 If players ask for more information about Blood Raven:
 
