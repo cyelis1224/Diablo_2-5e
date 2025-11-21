@@ -55,7 +55,7 @@ This campaign guide is organized to facilitate both preparation and play. The st
 
 But hope is in short supply these days. The Prime Evils—Diablo, Mephisto, and Baal—have returned, their influence spreading across the land like a plague. Where they walk, corruption follows. The dead rise, demons pour forth from the depths, and even the land itself sickens and dies. It is a time of darkness, and those who would stand against it are few and desperate.
 
-**The Sisterhood of the Sightless Eye** was once a bastion of order and protection. The Rogue encampment was their home, a monastery fortress that stood watch over the western lands. But Andariel, the Maiden of Anguish, came. She corrupted them from within, twisted their purpose, turned sister against sister. Most fell. Some were transformed into monsters. A few escaped, fleeing to a makeshift encampment in the wilderness, where they cling to survival even as their world collapses around them.
+**The Sisterhood of the Sightless Eye** was once a bastion of order and protection. Their home was the Monastery, a fortress that stood watch over the western lands. But Andariel, the Maiden of Anguish, came. She corrupted them from within, twisted their purpose, turned sister against sister. Most fell. Some were transformed into monsters. A few escaped, fleeing to a makeshift encampment in the wilderness, where they cling to survival even as their world collapses around them.
 
 This is where your story begins. In the shadow of a lost home, surrounded by corruption, with the darkness closing in. The heroes who answer the call are all that stands between Sanctuary and damnation. But whether they can stem the tide—whether they can even survive—remains to be seen.
 
@@ -411,13 +411,15 @@ She finally pauses, wiping sweat from her brow with the back of her hand. *"I wa
 
 *"If you've got weapons that need repair, armor that needs patching, I can help. I've also got a few things I made—simple stuff, but solid. And if you bring me special materials, I can do more. Make weapons that actually matter against these creatures."*
 
-**Quest 4 Dialogue (The Forgotten Tower):**
+**Quest 4 Hook (The Forgotten Tower):**
 
-**Charsi:** *"I heard something that might interest you. There's a tower in the Black Marsh—the Forgotten Tower, they call it. Abandoned, supposedly haunted. But the stories say there's a noble who took up residence there, and she collected... things. Rare items. Artifacts."*
+The quest formally begins when the heroes discover the **Moldy Tome** in the Stony Field. The tome recounts how a noblewoman—the Countess—was burned beneath her tower in the Black Marsh and points readers toward the ruins in search of her treasure. After the party reads the tome, Charsi reinforces the legend:
 
-Her eyes light up with something like hunger. *"If you're going out that way, it might be worth checking. I could use materials like that—gems, rare metals, maybe even runes if you're lucky. The things I could make with proper materials..."*
+**Charsi:** *"So you found that old Moldy Tome, huh? Then you know about the tower in the Black Marsh—the Forgotten Tower. Abandoned, supposedly haunted. The stories say the Countess hoarded all kinds of things: rare items, artifacts, maybe even runes."*
 
-She shakes herself. *"Just be careful. Places like that aren't abandoned by accident. Whatever drove people away is probably still there."*
+Her eyes light up with something like hunger. *"If you're going out that way, it might be worth checking. I could use materials like that—gems, rare metals, anything special. The things I could make with proper materials..."*
+
+She shakes herself. *"Just be careful. Places like that aren't abandoned by accident. Whatever drove people away is probably still there—and probably angrier than ever."*
 
 **Quest 5 Dialogue (Tools of the Trade):**
 
@@ -600,7 +602,7 @@ After his rescue from Tristram, Cain establishes himself in the encampment. He s
 {{descriptive,wide
 **Rescue Dialogue (Quest 3 - In Tristram):**
 
-**Cain:** *"You... you came. I didn't think anyone would come."* His voice is hoarse, strained from captivity. He's been locked in a cage in the old church, surrounded by the undead, but his spirit hasn't been broken. *"I am Deckard Cain, last of the Horadrim. I've been here for... for too long. The undead keep coming, but they haven't killed me. They seem to be waiting for something."*
+**Cain:** *"You... you came. I didn't think anyone would come."* His voice is hoarse, strained from captivity. He's been locked in an iron gibbet beside Tristram's ruined well, surrounded by the undead, but his spirit hasn't been broken. *"I am Deckard Cain, last of the Horadrim. I've been here for... for too long. The undead keep coming, but they haven't killed me. They seem to be waiting for something."*
 
 *"You must get me out of here. There are things I need to tell you, things you need to know. The Prime Evils are returning, and if we don't act soon, it will be too late. Please, get me out of this place."*
 
