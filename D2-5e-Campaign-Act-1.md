@@ -749,7 +749,7 @@ The Den of Evil is home to:
 - **Fallen** (the primary threat)
 - **Fallen Shaman** (can resurrect Fallen companions—priority target)
 - **Zombies** (undead horrors)
-- **Gargantuan Beasts** (if using these creatures—see page XX for stats)
+- **Gargantuan Beasts** (see page XX for stats)
 
 **Strategy Note:** At this early stage of the adventure, the party should be cautious and well-prepared. The Fallen Shamans are particularly dangerous, as they can resurrect their Fallen companions. Parties should prioritize eliminating the shamans before engaging their minions, lest the fallen enemies rise again to fight once more.
 
@@ -771,6 +771,7 @@ The Den of Evil is home to:
 
 **Deep Chamber (Final Room):**
 - **3-4 Fallen** with **1 Fallen Shaman** and **1-2 Zombies**
+- **1 Gargantuan Beast** (see page XX for stats) - a massive creature that serves as the primary threat in this chamber
 - This is the largest concentration of enemies, making target prioritization crucial
 - **Corpsefire:** A powerful undead horror known as **Corpsefire** guards the deepest reaches of the Den, usually located at the end opposite the entrance (see stat block below). If the Game Master includes Corpsefire, he replaces or supplements the standard encounter here.
 - **Hidden Cache:** A careful search (DC 15 Investigation check) reveals a small cache hidden behind loose stones or within a crevice. It contains minor loot: 2d6 gold pieces, 1d4 potions of healing, and possibly a minor magic item (25% chance)
@@ -1348,7 +1349,7 @@ If players ask how to get to Tristram:
 
 *"You must find the sacred Tree of Inifuss and bring back its bark—or rather, a scroll carved from its bark. I will translate the runes to unlock the Stones' mystic pattern."*
 
-**Akara continues:** *"The Tree of Inifuss is located in the Dark Wood, which can be reached through the Underground Passage. The passage can be accessed from either the Cold Plains or the Stony Field. The tree is guarded by a powerful creature—Treehead Woodfist, they call him. A corrupted skeleton of immense strength. You'll need to defeat him to obtain the scroll."*
+**Akara continues:** *"The Tree of Inifuss is located in the Dark Wood, which can be reached through the Underground Passage. The passage can be accessed from either the Cold Plains or the Stony Field. The tree is guarded by a powerful creature—Treehead Woodfist, they call him. A Gargantuan Beast of immense strength. You'll need to defeat him to obtain the scroll."*
 
 *"Once you have the scroll, bring it to me. I can read the ancient runes and tell you the order in which to touch the Cairn Stones. Without that order, the portal cannot be opened."*
 
@@ -1380,8 +1381,8 @@ If players ask how to get to Tristram:
 - Locate the Tree of Inifuss and defeat Treehead Woodfist to obtain the Scroll of Inifuss
 - Return to the Rogue Encampment and give the scroll to Akara for translation
 - Return to the Stony Field and locate the Cairn Stones
+- Defeat Rakanishu, the Carver guardian of the Cairn Stones
 - Touch the Cairn Stones in the correct order (from Akara's translation) to open the portal
-- (Optional) Defeat Rakanishu, a powerful Super Unique Fallen Shaman who may be encountered in the Stony Field
 - Navigate Tristram's ruins and reach Deckard Cain near the well
 - Rescue Deckard Cain (guarded by Champion monsters)
 - Return to the Rogue Encampment with Cain
@@ -1408,7 +1409,7 @@ The Underground Passage leads to the **Dark Wood**, a forest corrupted by demoni
 
 **Finding the Tree of Inifuss:**
 
-The Tree of Inifuss stands in the heart of the Dark Wood, a massive, gnarled tree that seems to pulse with dark energy. Its bark is black and twisted, and its branches reach out like claws. At its base, a figure stands guard—Treehead Woodfist, a corrupted skeleton warrior of immense power.
+The Tree of Inifuss stands in the heart of the Dark Wood, a massive, gnarled tree that seems to pulse with dark energy. Its bark is black and twisted, and its branches reach out like claws. At its base, a massive creature stands guard—Treehead Woodfist, a Gargantuan Beast of immense power.
 
 The tree itself is marked with ancient symbols, and a scroll is embedded in its trunk, protected by dark magic. The scroll can only be removed by defeating Treehead Woodfist, who has been bound to protect it.
 }}
@@ -1418,7 +1419,7 @@ The tree itself is marked with ancient symbols, and a scroll is embedded in its 
 
 As the party approaches the Tree of Inifuss, read or paraphrase the following:
 
-*The Tree of Inifuss looms before you, a monument to corruption and despair. It stands alone in a clearing, its branches reaching toward a sky it can no longer see. The ground around it is bare and blackened, as if nothing can grow in its shadow. At the base of the tree, a figure stands motionless—a skeleton, but larger than any you've seen before. Its bones are blackened and fused together in places, and it holds a massive weapon that seems to be made of the same twisted wood as the tree itself. As you approach, the skeleton's head turns, empty eye sockets fixing on you with malevolent intent. Treehead Woodfist has noticed you.*
+*The Tree of Inifuss looms before you, a monument to corruption and despair. It stands alone in a clearing, its branches reaching toward a sky it can no longer see. The ground around it is bare and blackened, as if nothing can grow in its shadow. At the base of the tree, a massive creature stands motionless—a Gargantuan Beast, larger than any you've seen before. Its hide is thick and gnarled like tree bark, and it holds a massive weapon that seems to be made of the same twisted wood as the tree itself. As you approach, the beast's head turns, its eyes fixing on you with malevolent intent. Treehead Woodfist has noticed you.*
 
 **Initial Encounter:**
 
@@ -1429,7 +1430,7 @@ Before reaching Treehead Woodfist, the party must deal with his minions:
 
 **The Boss Arena:**
 
-Treehead Woodfist stands at the base of the Tree of Inifuss, surrounded by his undead minions:
+Treehead Woodfist stands at the base of the Tree of Inifuss, surrounded by his minions:
 - **Treehead Woodfist** (see stat block below)
 - **1d4 Skeletons** positioned around the tree
 - **1d3 Zombies** emerging from the ground
@@ -1449,10 +1450,10 @@ artwork here
 
 {{monster,frame,wide
 ## Treehead Woodfist
-*Medium undead, chaotic evil*
+*Large beast, chaotic evil*
 ___
 **Armor Class** :: 17 (*natural armor*)  
-**Hit Points** :: 95 (10d8 + 50)  
+**Hit Points** :: 95 (10d10 + 50)  
 **Speed** :: 30 ft.
 ___
 || STR | DEX | CON | INT | WIS | CHA |
@@ -1461,21 +1462,21 @@ ___
 ___
 **Saving Throws** :: Str +8, Con +8  
 **Skills** :: Athletics +8, Intimidation +2  
-**Damage Resistances** :: necrotic; bludgeoning, piercing, and slashing from nonmagical attacks  
+**Damage Resistances** :: cold; bludgeoning, piercing, and slashing from nonmagical attacks  
 **Damage Immunities** :: poison  
-**Condition Immunities** :: charmed, exhaustion, frightened, poisoned  
+**Condition Immunities** :: poisoned  
 **Senses** :: darkvision 60 ft., passive Perception 10  
 **Languages** :: understands Common but can't speak  
 **Challenge** :: 4 (1,100 XP) {{bonus **Proficiency Bonus** +2}}
 ___
 ### Traits
-***Undead Fortitude.*** If damage reduces Treehead Woodfist to 0 hit points, he must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, Treehead Woodfist drops to 1 hit point instead.  
+***Unnatural Endurance.*** When Treehead Woodfist is reduced below half his hit points, he gains 10 temporary hit points.
 :
-***Treebound.*** Treehead Woodfist is bound to the Tree of Inifuss. While within 30 feet of the tree, he has advantage on saving throws and regains 5 hit points at the start of each of his turns.  
+***Treebound.*** Treehead Woodfist is bound to the Tree of Inifuss. While within 30 feet of the tree, he has advantage on saving throws and regains 5 hit points at the start of each of his turns.
 :
-***Poisonous Strike.*** Treehead Woodfist's weapon attacks deal additional poison damage, and creatures hit by his attacks must make a DC 15 Constitution saving throw or be poisoned for 1 minute.  
+***Poisonous Strike.*** Treehead Woodfist's weapon attacks deal additional poison damage, and creatures hit by his attacks must make a DC 15 Constitution saving throw or be poisoned for 1 minute.
 :
-***Summon Undead.*** As a bonus action, Treehead Woodfist can cause 1d3 Skeletons to rise from the ground in unoccupied spaces within 30 feet of him. He can use this ability three times per day.  
+***Summon Minions.*** As a bonus action, Treehead Woodfist can cause 1d3 Skeletons to rise from the ground in unoccupied spaces within 30 feet of him. He can use this ability three times per day.
 ___
 ### Actions
 ***Multiattack.*** Treehead Woodfist makes two *Wooden Club* attacks.  
@@ -1494,7 +1495,7 @@ Treehead Woodfist can take 2 legendary actions, choosing from the options below.
 
 ***Strike.*** Treehead Woodfist makes one Wooden Club attack.
 
-***Command Undead.*** Treehead Woodfist uses his Summon Undead ability.
+***Command Minions.*** Treehead Woodfist uses his Summon Minions ability.
 }}
 
 {{pageNumber,auto}}
@@ -1536,7 +1537,7 @@ Once Treehead Woodfist is defeated, the dark magic protecting the tree fades. A 
 
 The party must return to the Rogue Encampment with the scroll. When they present it to Akara, she examines it carefully.
 
-**Akara:** *"Ah, very good. I have translated the runes on this scroll."* She unrolls the scroll, her fingers tracing the ancient symbols. *"You must find the Cairn Stones and touch them in the order that I have written."* She provides the party with a translated sequence—a specific order in which the stones must be touched. *"The Cairn Stones are located in the Stony Field, somewhere among the broken rocks and twisted earth. They form a circle, ancient and powerful. Be careful—the Stony Field is dangerous, and you may encounter powerful enemies like Rakanishu, a lightning-infused Fallen Shaman, while searching for the stones. But the stones themselves are not guarded—you can access them once you find them."*
+**Akara:** *"Ah, very good. I have translated the runes on this scroll."* She unrolls the scroll, her fingers tracing the ancient symbols. *"You must find the Cairn Stones and touch them in the order that I have written."* She provides the party with a translated sequence—a specific order in which the stones must be touched. *"The Cairn Stones are located in the Stony Field, somewhere among the broken rocks and twisted earth. They form a circle, ancient and powerful. But be warned—the stones are guarded. Rakanishu, a lightning-infused Carver, protects them. You'll need to defeat him before you can access the stones."*
 }}
 
 {{descriptive,wide
@@ -1544,16 +1545,15 @@ The party must return to the Rogue Encampment with the scroll. When they present
 
 After obtaining Akara's translation, the party must return to the **Stony Field** and locate the **Cairn Stones**—a circle of ancient standing stones marked with runes similar to those on the scroll. The stones stand in a clearing, arranged in a perfect circle, their surfaces covered in weathered inscriptions.
 
-**Rakanishu's Encounter (Optional):**
+**Rakanishu's Encounter:**
 
-While searching the Stony Field for the Cairn Stones, the party may encounter **Rakanishu**, a Super Unique Carver infused with lightning magic. He is not specifically guarding the Cairn Stones, but rather patrols the Stony Field with his warband. This is an optional encounter—players can find and use the Cairn Stones without ever encountering Rakanishu, though defeating him provides valuable experience and loot.
+As the party approaches the Cairn Stones, they'll notice a figure moving among the rocks—a Carver larger and more dangerous than any they've encountered before. This is **Rakanishu**, a Super Unique Carver infused with lightning magic. He and his warband guard the stones, preventing anyone from accessing the portal.
 
-**If Rakanishu is Encountered:**
-- **Rakanishu** (see stat block on next page) may be found anywhere in the Stony Field, not necessarily near the Cairn Stones
+**Initial Encounter:**
+- **Rakanishu** (see stat block on next page) stands near the center of the stone circle
 - **2d4 Fallen** warriors surround him
 - **1d2 Fallen Shamans** assist with revival magic
 - The warband attacks immediately upon seeing the party
-- **Note:** The Game Master can place Rakanishu anywhere in the Stony Field, or choose not to include him at all if desired
 }}
 
 {{imageMaskEdge6,--offset:0%,--rotation:180
@@ -1566,7 +1566,7 @@ While searching the Stony Field for the Cairn Stones, the party may encounter **
 
 {{monster,frame,wide
 ## Rakanishu
-*Small fiend (demon), chaotic evil*
+*Small fiend (demon, carver), chaotic evil*
 ___
 **Armor Class** :: 15 (*natural armor*)  
 **Hit Points** :: 65 (10d6 + 30)  
@@ -1588,20 +1588,18 @@ ___
 ### Traits
 ***Lightning Enchanted.*** Rakanishu's weapon attacks deal additional lightning damage. In addition, when Rakanishu takes lightning damage, he can use his reaction to gain resistance to that damage and deal 7 (2d6) lightning damage to each creature within 5 feet of him.  
 :
-***Shamanic Revivification.*** As an action, Rakanishu can attempt to revive a dead Fallen within 30 feet of him. The Fallen returns to life with 1 hit point and acts immediately on Rakanishu's turn. Rakanishu can use this ability once per turn.  
+***Lightning Nova (Recharge 5–6).*** As an action, Rakanishu creates a burst of lightning energy. Each creature within 15 feet of him must make a DC 14 Dexterity saving throw, taking 14 (4d6) lightning damage on a failed save, or half as much on a success.
 :
-***Lightning Nova (Recharge 5–6).*** As an action, Rakanishu creates a burst of lightning energy. Each creature within 15 feet of him must make a DC 14 Dexterity saving throw, taking 14 (4d6) lightning damage on a failed save, or half as much on a success.  
-:
-***Teleport (3/Day).*** As a bonus action, Rakanishu can teleport up to 30 feet to an unoccupied space he can see.  
+***Teleport (3/Day).*** As a bonus action, Rakanishu can teleport up to 30 feet to an unoccupied space he can see.
 ___
 ### Actions
-***Multiattack.*** Rakanishu makes two melee attacks or two ranged attacks.  
+***Multiattack.*** Rakanishu makes two melee attacks.
 :
-***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage plus 7 (2d6) lightning damage.  
+***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage plus 7 (2d6) lightning damage.
 :
-***Lightning Bolt.*** *Ranged Spell Attack:* +6 to hit, range 60 ft., one target. *Hit:* 10 (3d6) lightning damage.  
+***Throwing Spear.*** *Ranged Weapon Attack:* +6 to hit, range 20/60 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage plus 7 (2d6) lightning damage.
 :
-***Summon Fallen (1/Day).*** Rakanishu calls forth 2d4 **Fallen** in unoccupied spaces within 30 feet of him. The Fallen act immediately after Rakanishu in the initiative order and are under his control.  
+***Summon Fallen (1/Day).*** Rakanishu calls forth 2d4 **Fallen** in unoccupied spaces within 30 feet of him. The Fallen act immediately after Rakanishu in the initiative order and are under his control.
 ___
 ### Legendary Actions
 
@@ -1609,9 +1607,9 @@ Rakanishu can take 2 legendary actions, choosing from the options below. Only on
 
 ***Move.*** Rakanishu moves up to his speed without provoking opportunity attacks, or uses his Teleport ability.
 
-***Strike.*** Rakanishu makes one claw attack or Lightning Bolt attack.
+***Strike.*** Rakanishu makes one claw attack or Throwing Spear attack.
 
-***Command Fallen.*** Rakanishu uses his Shamanic Revivification trait or commands all Fallen within 30 feet to move up to their speed and make one attack.
+***Command Fallen.*** Rakanishu commands all Fallen within 30 feet to move up to their speed and make one attack.
 }}
 
 {{pageNumber,auto}}
@@ -1659,7 +1657,7 @@ At low health, Rakanishu becomes reckless:
 {{descriptive,wide
 ##### Opening the Portal:
 
-Once the party locates the Cairn Stones (whether or not they've encountered Rakanishu), they can use Akara's translation to touch each stone in the correct order. The Game Master should provide the sequence based on Akara's instructions. For a more interactive experience, the GM can require players to follow the translated sequence carefully, with incorrect touches causing minor effects (small sparks, a sense of wrongness) before they get it right.
+Once Rakanishu and his warband are defeated, the party can access the Cairn Stones. Using Akara's translation, they must touch each stone in the correct order. The Game Master should provide the sequence based on Akara's instructions. For a more interactive experience, the GM can require players to follow the translated sequence carefully, with incorrect touches causing minor effects (small sparks, a sense of wrongness) before they get it right.
 
 When touched in the correct order, read or paraphrase:
 
@@ -2714,7 +2712,7 @@ ___
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 {{monster,frame,wide
-## Wendigo
+## Gargantuan Beast
 *Large beast, unaligned*
 ___
 **Armor Class** :: 14 (*natural armor*)  
@@ -2735,20 +2733,20 @@ ___
 **Challenge** :: 4 (1,100 XP) {{bonus **Proficiency Bonus** +2}}
 ___
 ### Traits
-***Rampaging Beast.*** When the wendigo reduces a creature to 0 hit points, it can move up to half its speed and make one claw attack as a bonus action.  
+***Rampaging Beast.*** When the Gargantuan Beast reduces a creature to 0 hit points, it can move up to half its speed and make one claw attack as a bonus action.
 :
-***Unnatural Endurance.*** When the wendigo is reduced below half its hit points, it gains 10 temporary hit points.  
+***Unnatural Endurance.*** When the Gargantuan Beast is reduced below half its hit points, it gains 10 temporary hit points.
 :
-***Magic Hide.*** The wendigo has advantage on saving throws against spells and magical effects.  
+***Magic Hide.*** The Gargantuan Beast has advantage on saving throws against spells and magical effects.
 ___
 ### Actions
-***Multiattack.*** The wendigo makes two attacks: one with its *Bite* and one with its *Claw.*  
+***Multiattack.*** The Gargantuan Beast makes two attacks: one with its *Bite* and one with its *Claw.*
 :
-***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage.  
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage.
 :
-***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (1d10 + 4) slashing damage.  
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (1d10 + 4) slashing damage.
 :
-***Crushing Leap (Recharge 5–6).*** The wendigo leaps up to 20 feet and slams down. Each creature within 10 feet must make a DC 14 Dexterity saving throw, taking 21 (6d6) bludgeoning damage on a failed save, or half as much on a success.  
+***Crushing Leap (Recharge 5–6).*** The Gargantuan Beast leaps up to 20 feet and slams down. Each creature within 10 feet must make a DC 14 Dexterity saving throw, taking 21 (6d6) bludgeoning damage on a failed save, or half as much on a success.
 }}
 
 {{pageNumber,auto}}
