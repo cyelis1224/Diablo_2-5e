@@ -430,6 +430,250 @@ With the forge reclaimed, Kashya and Akara formally brief the party on **Quest 6
 Completing Quest 5 should feel like flipping the campaign’s momentum—the heroes finally control the forge, and Sanctuary’s last defenders are ready to strike back.
 }}
 
+{{wide
+# Quest 6: Sisters to the Slaughter
+
+{{imageMaskEdge1,--offset:-33%,--rotation:0
+  ![](https://i.imgur.com/ODVfHRd.jpeg){position:absolute,bottom:0,left:-160px,height:100%,opacity:0.65}
+}}
+
+::::::
+*The final push into the Monastery forces the party through ruined cloisters and blood-soaked catacombs to confront Andariel, the Maiden of Anguish. This quest closes Act I and launches the caravan east.*
+{color:#C9AD6A}
+{background:#00000090,text-align:center}
+}}
+
+{{descriptive,wide
+##### War Council
+
+With the Horadric Malus restored, the Rogue Encampment convenes its first true war council since the fall of the Monastery. Kashya spreads hand-sketched floor plans across Charsi’s anvil while Akara places holy sigils at each choke point. Deckard Cain recites everything he remembers about Andariel’s rituals, and Charsi’s newly empowered forge spits sparks that feel like omens.
+
+The plan is simple only on paper: breach the Outer Cloister, secure the Inner Cloister courtyard, descend through Jail Levels 2–3 into the Inner Cloister proper, and then press through the Catacombs until Andariel’s sanctum is breached. Warriv offers his caravan as a mobile infirmary, backing it against the palisade so that wounded Rogues can be dragged away and those bound for Lut Gholein will have a ready transport.
+}}
+
+{{descriptive,wide
+##### Meeting the Leaders
+
+When players report in after Quest 5, run the following exchanges to set tone and stakes:
+
+**Akara:** *"The Maiden of Anguish festers beneath the Cathedral. She feeds on every loss we have suffered. Cleanse the catacombs and sever her link to the Hells. I will consecrate the altar once you are done."*
+
+**Kashya:** *"My scouts will keep the gate open, but we can’t hold it forever. Drop signal flares if you clear a level—we move forward only when you say it’s safe."*
+
+**Charsi:** *"I tempered your weapons to bite deep. Take these distilled oils—coat your blades before you enter the Catacombs and they’ll burn through demon flesh."* *(Each character gains two vials of Holy Oil; as a bonus action, apply to a weapon to add +1d4 radiant damage for 1 minute.)*
+
+**Deckard Cain:** *"Andariel is a creature of torment. Expect illusions, whispers, promises. Steel your minds as well as your bodies. I will be waiting at the gate to identify whatever relics you recover."*
+
+**Warriv:** *"Once she falls, we ride east. My caravan leaves with the dawn—you’ll have seats of honor."*
+}}
+
+{{descriptive,wide
+##### Quest Objectives
+
+**Quest Trigger:** Completion of Quest 5 (Tools of the Trade) and briefing with Akara and Kashya
+
+**Quest Givers:** Akara (spiritual mandate), Kashya (military objective), Deckard Cain (lore support)
+
+**Location Chain:** Rogue Encampment → Monastery Gate (already breached) → Outer Cloister → Jail Levels 2–3 → Inner Cloister → Cathedral → Catacombs Levels 1–4 → Andariel’s Lair
+
+**Objective:** Kill Andariel and purge the Catacombs so the Sisterhood can reclaim the Monastery and Sanctuary can breathe again.
+
+**Completion Requirements:**
+- Secure the Outer Cloister so Kashya’s forces can establish a forward camp
+- Clear a path through the Jail and Inner Cloister to reach the Cathedral nave
+- Descend through Catacombs Levels 1–4, neutralizing ritual hotspots and venom vats
+- Defeat Andariel in her lair and consecrate the corrupted altar
+- Return to the Rogue Encampment, report success, and decide whether to travel east with Warriv
+
+**Rewards:**
+- 500 XP per character (plus Andariel’s XP value)
+- Access to Act II (travel to Lut Gholein via Warriv)
+- Unique loot from Andariel’s treasury (see Completion & Rewards)
+- Permanent morale bonus: Rogues at the Encampment gain +2 to attack rolls during any future defense scenes
+- Each character gains a **Favor of the Sisterhood** charm (grants advantage on one saving throw of the player’s choice during Act II)
+
+**Recommended Party Level:** 5–6
+
+**Estimated Duration:** 4–6 hours of play (multi-session finale)
+}}
+
+{{descriptive,wide
+##### Assault Blueprint
+
+The heroes can choose between a full-on assault (loud, fast, overwhelming) or a stealthy infiltration (slow, surgical, dependent on Recon tokens earned in previous quests). Track an **Alarm Meter** as in Quest 5; once it hits 3, Andariel becomes aware of the party and begins corrupting terrain in deeper levels (poison vents activate, reinforcements ripple through). Encourage players to spend downtime prepping traps, holy water, or alliances with rescued Rogues—each meaningful preparation can reduce the initial alarm by 1 or grant advantage on the first encounter of a floor.
+
+- **Outer Cloister:** Ruined courtyard with collapsing colonnades. Treat the area as difficult terrain until players secure it (Skill Challenge: Athletics, Acrobatics, Survival DC 14). Once cleared, Kashya station guards here, giving the party a safe short-rest node.
+- **Jail Levels 2–3:** Narrow corridors filled with torture implements turned into summoning foci. Environmental hazard: screaming walls impose Wisdom saves vs. fright each hour unless sanctified (Religion DC 15).
+- **Inner Cloister & Cathedral:** Sanctified once, now defiled. Desecrated fonts burst with poison if not sealed (Arcana or Medicine DC 14). Choir loft archers (Corrupt Rogues) pin the party unless dealt with quickly.
+- **Catacombs:** Four stacked dungeon levels, each thematically sharper (bones, fungus, slime, obsidian).
+}}
+
+{{descriptive,wide
+##### Catacomb Encounter Ladder
+
+| Level | Features & Hazards | Sample Encounters |
+|:--|:--|:--|
+| **Catacombs 1 – Reliquary** | Flickering braziers, fallen statues, holy relics coated in bile. Desecrated altars impose disadvantage on Wisdom saves until purified. | 1 **Corrupt Zealot Captain**, 2d4 **Skeleton Archers**, 1 **Wraith** phasing between pews. |
+| **Catacombs 2 – Venom Vats** | Pools of green toxin; each round, roll d6 to see if vapors surge (Con save DC 14 or take 2d6 poison). Destroy vats (30 HP each) to weaken Andariel. | 1 **Venom Sorceress**, 2 **Poison Spitters** (use *Giant Spider* template), hazard: rupturing vats. |
+| **Catacombs 3 – Web Galleries** | Ceiling-high webs, cocoons holding prisoners (some alive). Webs count as difficult terrain and restrain on failed Dex save DC 13. | 2d4 **Plague Crawlers**, 1 **Unique Mini-boss: Sister Lycandra** (revenant rogue), plus random captive rescue event. |
+| **Catacombs 4 – The Bearing Crypts** | Pillars carved with screaming faces; runes pulse with green fire. Lair wards empower demons (+2 AC) until four pylons destroyed. | 1 **Pit Lord Echo** (use *Barbed Devil*), 1 **Corrupt High Priestess**, environmental pillar explosions. |
+}}
+
+{{descriptive,wide
+##### Optional Operations
+
+- **Purify Altars:** Each level contains a desecrated altar. Spending 10 minutes and succeeding on a DC 15 Religion check removes a point from the Alarm Meter or grants a d4 Inspiration die usable in the Catacombs.
+- **Rescue Survivors:** Cocoons and cells contain surviving Rogues, artisans, or townsfolk. Freeing at least five grants the party a permanent +1 bonus to Persuasion checks with Sisterhood NPCs in future acts.
+- **Disable Venom Vats:** Destroying vats on Catacombs 2 reduces Andariel’s Poison Nova damage by 1d6 per vat.
+- **Secure War Spoils:** Locked reliquaries hold scrolls, holy water, and unique arrows. For every two reliquaries opened (Dex DC 14 or knock spell), Charsi can craft an additional masterwork upgrade during Act II downtime.
+- **Scout Exit Routes:** A DC 15 Survival check per level identifies safe retreat paths. If the party needs to withdraw, they gain advantage on initiative while fleeing and avoid getting trapped by collapsing tunnels.
+}}
+
+{{descriptive,wide
+##### Andariel’s Sanctum
+
+The final chamber is a cavernous cistern beneath the Cathedral. Webs stretch between obsidian columns. Rivers of poison drip from the ceiling into blood-filled fonts. Four rune-lit braziers empower Andariel; each can be extinguished with holy water or a DC 15 Athletics check to topple it (deals 3d6 fire damage to adjacent creatures). The floor forms a sigil-channel; crossing the lines without neutralizing them deals 1d6 psychic damage per square.
+
+Read or paraphrase:
+
+*"The air itself tastes bitter. Green vapors coil around a towering silhouette—four arms, barbed legs, a crown of horns slick with venom. Her voice is a whisper across your skin: 'Anguish will teach you obedience.' The braziers flare, and the Maiden of Anguish strikes."*
+}}
+
+{{monster,frame,wide
+## Andariel, Maiden of Anguish
+*Large fiend (demon), chaotic evil*
+___
+**Armor Class** :: 19 (*chitinous hide*)  
+**Hit Points** :: 230 (20d10 + 120)  
+**Speed** :: 40 ft., climb 30 ft.
+___
+| STR | DEX | CON | INT | WIS | CHA |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| 22 (+6) | 18 (+4) | 22 (+6) | 16 (+3) | 16 (+3) | 20 (+5) |
+___
+**Saving Throws** :: Dex +9, Con +11, Wis +8, Cha +10  
+**Skills** :: Insight +8, Intimidation +10, Perception +8, Religion +8  
+**Damage Resistances** :: cold, fire, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks  
+**Damage Immunities** :: poison  
+**Condition Immunities** :: charmed, frightened, poisoned  
+**Senses** :: truesight 60 ft., darkvision 120 ft., passive Perception 18  
+**Languages** :: Abyssal, Common, telepathy 120 ft.  
+**Challenge** :: 11 (7,200 XP) {{bonus **Proficiency Bonus** +4}}
+___
+### Traits
+***Aura of Anguish.*** Creatures that start their turn within 20 feet of Andariel must succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened until the end of their turn. A creature that succeeds is immune to the aura for 24 hours.  
+:
+***Spider Queen.*** Andariel can move through webs without impediment and climb difficult surfaces, including upside down, without needing to make an ability check.  
+:
+***Venomous Blood.*** When a creature within 5 feet hits Andariel with a melee attack, it takes 5 (1d10) poison damage.  
+:
+***Limited Magic Resistance.*** Andariel has advantage on saving throws against spells, and she forces disadvantage on concentration checks triggered by her damage.
+
+___
+### Actions
+***Multiattack.*** Andariel makes two *Poison Lance* attacks or one *Poison Lance* attack and one *Tail Impale*.  
+:
+***Poison Lance.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8 + 6) piercing damage plus 14 (4d6) poison damage, and the target must succeed on a DC 17 Constitution saving throw or become poisoned for 1 minute. While poisoned this way, the target also takes 7 (2d6) poison damage at the start of each of its turns. The target can repeat the save at the end of each of its turns, ending the effect on a success.  
+:
+***Tail Impale.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 13 (2d6 + 6) piercing damage plus 9 (2d8) psychic damage, and the target must succeed on a DC 17 Strength saving throw or be restrained (escape DC 17).  
+:
+***Poison Nova (Recharge 5–6).*** Andariel releases a 40-foot-radius burst of toxic mist. Each creature in the area must make a DC 17 Constitution saving throw, taking 35 (10d6) poison damage on a failed save, or half as much on a success. Creatures that fail are also poisoned until the end of their next turn.  
+:
+***Summon Tormented (1/Day).*** Andariel summons 1d4 *Tormented Souls* (use Wraith stat block) in unoccupied spaces within 30 feet. The souls act on her initiative, immediately after her turn.
+
+___
+### Legendary Actions
+Andariel can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. She regains spent legendary actions at the start of her turn.
+
+***Anguished Step.*** Andariel moves up to half her speed without provoking opportunity attacks.  
+***Venom Spray.*** Andariel targets one creature she can see within 30 feet; the target must succeed on a DC 17 Dexterity saving throw or take 9 (2d8) poison damage and be coated in venom, granting advantage to the next attack against it before Andariel’s next turn.  
+***Tail Whip (Costs 2 Actions).*** Andariel makes one *Tail Impale* attack.  
+***Agony Pulse (Costs 3 Actions).*** Each creature of her choice within 20 feet must succeed on a DC 17 Wisdom saving throw or take 11 (2d10) psychic damage and be pushed 10 feet.
+
+___
+### Lair Actions
+On initiative count 20 (losing initiative ties), Andariel can use one of the following lair actions while in her chamber:
+1. **Poison Jets.** Two vents erupt, targeting up to two creatures within 60 feet. Each must make a DC 17 Dexterity saving throw, taking 10 (3d6) poison damage on a failure, or half on a success.  
+2. **Web Snare.** Sticky webs shoot from the ceiling, forcing each creature of Andariel’s choice within 30 feet to make a DC 16 Strength saving throw or be restrained until the end of its next turn.  
+3. **Torment Echo.** Whispering voices fill the lair. Creatures that fail a DC 15 Wisdom saving throw cannot benefit from temporary hit points until the next round.
+}}
+
+{{descriptive,wide
+##### Combat Phases & Tactics
+
+**Phase 1 – Anguish Rising (Full HP to 150 HP):**
+- Andariel controls space with Poison Lance reach, pushing intruders into poisonous rivulets.
+- She focuses on spellcasters and healers, forcing concentration checks via Tail Impale.
+- Braziers grant her +2 AC and resistance to radiant damage until extinguished.
+
+**Phase 2 – Venom Flood (150 HP to 70 HP):**
+- Poison Nova recharges faster (roll with advantage) if at least one venom vat remains intact.
+- Tormented Souls harass backliners; destroying a soul weakens the aura for a round.
+- Web Snare lair action triggers automatically every other round unless the party burned the webs earlier (torch, alchemist’s fire, etc.).
+
+**Phase 3 – Desperation (70 HP and below):**
+- Andariel gains advantage on attacks against frightened targets.
+- She uses Anguished Step to reposition after each legendary Tail Whip, dragging heroes into acid pools.
+- If reduced to 0 HP while at least one braizer is active, she instead explodes into toxic mist, dropping to 1 HP and immediately using Poison Nova (this can happen only once).
+
+**Tactical Advice:**
+- Encourage players to coordinate: extinguish braziers, destroy pylons, and use holy water to suppress Aura of Anguish (grants advantage vs. the aura for 1 round).
+- Remind them that the Alarm Meter influences reinforcement waves; high alarm might add extra Tormented Souls each round.
+}}
+
+{{descriptive,wide
+##### Completion & Rewards
+
+When Andariel dies, her body collapses into ash and tar. The braziers gutter out, and the catacombs’ oppressive pressure releases in a roar of wind. Akara arrives with a contingent of Rogues to sanctify the altar—if the party purified altars earlier, the ritual completes in minutes; otherwise it becomes a longer downtime scene (opportunity for roleplay and skill checks).
+
+**Loot Suggestions:**
+- **Rogue’s Vengeance (Unique Bow):** +1 longbow; once per short rest, its wielder can add 2d6 poison or radiant damage to a hit.
+- **Veil of Anguish (Crown):** Grants resistance to psychic damage and advantage on saving throws against frightened, but imposes disadvantage on Wisdom (Insight) checks while worn.
+- **Blood of the Maiden (Potion):** As *heroism* spell plus immunity to poison for 1 hour.
+- Treasure hoard worth 1,000 gp in gold, gems, and relics suitable for Act II trade; roll twice on the Magic Item Table F for additional rewards.
+
+**NPC Reactions:**
+- **Akara:** *"Your courage has restored the Sisterhood’s heart. We will keep this ground holy in your absence."*
+- **Kashya:** *"Andariel’s head will hang above our gate, a warning to every demon that still breathes."*
+- **Charsi:** *"With the forge and the catacombs cleansed, we can start rebuilding. I’ll keep crafting while you’re gone."*
+- **Deckard Cain:** *"Sanctuary endures another day. Now we must face what lies beyond the desert."*
+- **Warriv:** *"Pack your belongings. The caravan rolls at dawn."*
+}}
+
+{{descriptive,wide
+##### Epilogue: Warriv’s Caravan
+
+After a night of solemn celebration, Warriv assembles the caravan at the Encampment gate. Wagons creak under the weight of salvaged weapons, rescued refugees, and the hopes of an entire region. Run the following beats:
+
+- **Farewell Feast:** Rogues share smoked venison and watered wine. Each NPC offers a final toast or personal request (Akara asks the party to send word if they find surviving sisters in the East; Charsi begs for exotic metals; Kashya promises to hold the Monastery).
+- **Warriv’s Oath:** *"The road to Lut Gholein is long, treacherous, and full of stories. While you ride with me, you ride under my protection. Once we reach the jewel of the desert, your war continues—just with new enemies."*
+- **Travel Hook:** The caravan departs at sunrise. Describe the party looking back at the Rogue Encampment, now lit with fresh braziers and hopeful banners, before turning east toward the deserts. End Act I here, or fast-forward to the Lut Gholein docking area to open Act II.
+}}
+
+{{descriptive,wide
+##### Game Master Notes
+
+**Quest Difficulty:** Deadly. Expect multiple long rests across safe nodes or return trips to camp.
+
+**Scaling Tips:**
+- For weaker parties, reduce Poison Nova damage (8d6) and remove one lair action option.
+- For veteran tables, add scripted reinforcements every 3 rounds (1d4 Corrupt Zealots) and increase Andariel’s HP to 260.
+- Allow players to leverage previous side quests—freed prisoners, captured intel, or alliances can negate certain hazards entirely.
+
+**Teaching Moments:**
+- **Resource Exhaustion:** Long dungeon gauntlets test rationing of spells, hit dice, and consumables.
+- **Environmental Combat:** Braziers, poison vats, and webs emphasize objective-based fights.
+- **Narrative Payoff:** This quest should resolve NPC arcs (Charsi’s guilt, Kashya’s leadership, Akara’s faith) while seeding Act II mysteries.
+
+**Failure States:**
+- If the party retreats, Andariel fortifies the catacombs (new traps, higher alarm). Provide story consequences: more refugees die, Kashya loses scouts, etc., but keep the quest winnable.
+- If Andariel escapes (she can plane shift at 25 HP if the GM wishes), she becomes a recurring nemesis in Act II+.
+
+**Transition to Act II:**
+- Warriv’s caravan takes 10 days to reach Lut Gholein. Use the journey for downtime scenes, travel encounters, or Act II foreshadowing (visions from Deckard, rogue desert scouts, rumors of Tal Rasha).
+- Begin Act II with the caravan cresting the dunes and the glittering city coming into view, or with the party already in Lut Gholein’s bazaar receiving their next hook.
+}}
+
 {{pageNumber,auto}}
 
 \page
