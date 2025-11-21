@@ -55,7 +55,7 @@ This campaign guide is organized to facilitate both preparation and play. The st
 
 But hope is in short supply these days. The Prime Evils—Diablo, Mephisto, and Baal—have returned, their influence spreading across the land like a plague. Where they walk, corruption follows. The dead rise, demons pour forth from the depths, and even the land itself sickens and dies. It is a time of darkness, and those who would stand against it are few and desperate.
 
-**The Sisterhood of the Sightless Eye** was once a bastion of order and protection. The Rogue encampment was their home, a monastery fortress that stood watch over the western lands. But Andariel, the Maiden of Anguish, came. She corrupted them from within, twisted their purpose, turned sister against sister. Most fell. Some were transformed into monsters. A few escaped, fleeing to a makeshift encampment in the wilderness, where they cling to survival even as their world collapses around them.
+**The Sisterhood of the Sightless Eye** was once a bastion of order and protection. Their home was the Monastery, a fortress that stood watch over the western lands. But Andariel, the Maiden of Anguish, came. She corrupted them from within, twisted their purpose, turned sister against sister. Most fell. Some were transformed into monsters. A few escaped, fleeing to a makeshift encampment in the wilderness, where they cling to survival even as their world collapses around them.
 
 This is where your story begins. In the shadow of a lost home, surrounded by corruption, with the darkness closing in. The heroes who answer the call are all that stands between Sanctuary and damnation. But whether they can stem the tide—whether they can even survive—remains to be seen.
 
@@ -411,13 +411,15 @@ She finally pauses, wiping sweat from her brow with the back of her hand. *"I wa
 
 *"If you've got weapons that need repair, armor that needs patching, I can help. I've also got a few things I made—simple stuff, but solid. And if you bring me special materials, I can do more. Make weapons that actually matter against these creatures."*
 
-**Quest 4 Dialogue (The Forgotten Tower):**
+**Quest 4 Hook (The Forgotten Tower):**
 
-**Charsi:** *"I heard something that might interest you. There's a tower in the Black Marsh—the Forgotten Tower, they call it. Abandoned, supposedly haunted. But the stories say there's a noble who took up residence there, and she collected... things. Rare items. Artifacts."*
+The quest formally begins when the heroes discover the **Moldy Tome** in the Stony Field. The tome recounts how a noblewoman—the Countess—was burned beneath her tower in the Black Marsh and points readers toward the ruins in search of her treasure. After the party reads the tome, Charsi reinforces the legend:
 
-Her eyes light up with something like hunger. *"If you're going out that way, it might be worth checking. I could use materials like that—gems, rare metals, maybe even runes if you're lucky. The things I could make with proper materials..."*
+**Charsi:** *"So you found that old Moldy Tome, huh? Then you know about the tower in the Black Marsh—the Forgotten Tower. Abandoned, supposedly haunted. The stories say the Countess hoarded all kinds of things: rare items, artifacts, maybe even runes."*
 
-She shakes herself. *"Just be careful. Places like that aren't abandoned by accident. Whatever drove people away is probably still there."*
+Her eyes light up with something like hunger. *"If you're going out that way, it might be worth checking. I could use materials like that—gems, rare metals, anything special. The things I could make with proper materials..."*
+
+She shakes herself. *"Just be careful. Places like that aren't abandoned by accident. Whatever drove people away is probably still there—and probably angrier than ever."*
 
 **Quest 5 Dialogue (Tools of the Trade):**
 
@@ -600,7 +602,7 @@ After his rescue from Tristram, Cain establishes himself in the encampment. He s
 {{descriptive,wide
 **Rescue Dialogue (Quest 3 - In Tristram):**
 
-**Cain:** *"You... you came. I didn't think anyone would come."* His voice is hoarse, strained from captivity. He's been locked in a cage in the old church, surrounded by the undead, but his spirit hasn't been broken. *"I am Deckard Cain, last of the Horadrim. I've been here for... for too long. The undead keep coming, but they haven't killed me. They seem to be waiting for something."*
+**Cain:** *"You... you came. I didn't think anyone would come."* His voice is hoarse, strained from captivity. He's been locked in an iron gibbet beside Tristram's ruined well, surrounded by the undead, but his spirit hasn't been broken. *"I am Deckard Cain, last of the Horadrim. I've been here for... for too long. The undead keep coming, but they haven't killed me. They seem to be waiting for something."*
 
 *"You must get me out of here. There are things I need to tell you, things you need to know. The Prime Evils are returning, and if we don't act soon, it will be too late. Please, get me out of this place."*
 
@@ -1930,6 +1932,212 @@ Cain establishes himself in the encampment, setting up a small tent near Akara's
 - Encourage exploration of the areas traveled through (Dark Wood, Underground Passage, Stony Field) for additional encounters and discoveries
 - Players should have gained sufficient experience from this quest to be ready for more challenging content ahead
 - Cain can provide information about the Countess and the Forgotten Tower if asked, offering valuable lore and tactical advice
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{wide
+# Quest 4: The Forgotten Tower
+
+:::::::
+*This quest pivots the campaign from rescue operations to treasure hunting and infiltration. The Moldy Tome pushes the party deeper into hostile territory, culminating in a multi-level dungeon crawl against the immortal Countess and her rune-hoarding cult.*{color:#C9AD6A}
+{background:#00000090,text-align:center}
+}}
+
+{{descriptive,wide
+##### Discovering the Moldy Tome
+
+The party stumbles on the **Moldy Tome** while exploring the Stony Field (see area description). The book sits atop a stone pedestal, its pages fused with age and damp. When opened, runes flare briefly and the following inscription speaks aloud in a hollow whisper:
+
+*"A once-noble Countess was buried alive beneath the tower she had defiled with forbidden rites. Immolated by peasants, yet never slain, she and her treasure remain beneath the Black Marsh, waiting for the brave—or the foolish."*
+
+The tome crumbles into ash after being read, leaving behind a faint ember that points toward the Black Marsh. When the heroes return to camp, the Rogues react quickly.
+
+**Charsi:** *"So the stories are true. The Countess and her tower still stand out in the Black Marsh. If you're heading that way, keep an eye out for runes or strange alloys—I can work wonders with that stuff."*
+
+**Deckard Cain (after Quest 3):** *"Ah, the Moldy Tome. I remember when that legend was just a fireside tale. If the Countess endures, so too does her hoard of runes. Tread carefully—the very stones of that tower hunger for blood."*
+}}
+
+{{descriptive,wide
+##### Quest Objectives
+
+**Quest Trigger:** Reading the Moldy Tome (Stony Field)
+
+**Quest Givers:** Lore prompt (Moldy Tome), reinforced by Charsi and Deckard Cain
+
+**Location Chain:** Rogue Encampment → Stony Field (Moldy Tome site) → Dark Wood/Black Marsh border → Forgotten Tower → Tower Levels 1–5 → Countess’ Lair
+
+**Objectives:**
+- Follow the Moldy Tome’s guidance to locate the Forgotten Tower in the Black Marsh
+- Descend through five procedurally dangerous levels, neutralizing demonic forces and corrupted Rogues
+- Confront and slay the **Countess** within the lowest chamber
+- Claim the **Runic Cache** and return with whatever intel or materials the Rogues can use
+
+**Completion Rewards:**
+- 250 XP per character
+- **Runic Cache:** 1d4+1 common runes (see Rune Alcove table), 1 uncommon rune, assorted gold (6d10 each), and a 25% chance for a unique item tied to the Countess
+- **Charsi’s Favor:** Access to a one-time free weapon/armor improvement (counts toward later Horadric Malus upgrades once Quest 5 is complete)
+- Deckard Cain gains new lore topics about runewords and Zakarum history
+
+**Recommended Party Level:** 4–5
+
+**Estimated Duration:** 3–4 hours (longer if each tower level is fully explored)
+}}
+
+{{descriptive,wide
+##### Journey to the Black Marsh
+
+Leaving the Stony Field, the party must navigate the **Dark Wood** or **Cold Plains → Underground Passage → Black Marsh** chain. Emphasize worsening weather, ankle-deep mire, and demonic totems marking the Countess’ territory. Use the Black Marsh encounter table to wear down the party before they even see the tower.
+
+When the tower finally comes into view, read or paraphrase:
+
+*The tower rises like a shattered fang from the marsh. Its stones bleed tar-black water, and faint orange light flickers inside the arrow slits. A massive iron door stands ajar, groaning with every sway of the wind. The smell of burnt hair and incense rolls out to meet you. Whatever ritual began here never truly ended.*
+
+**Approach Notes:**
+- Random patrols of **Corrupt Rogues** (1d4 archers) and **Goatmen** (1d3) circle the tower
+- A collapsed wagon outside still holds 2d4 alchemist’s fire vials and a half-burned map (advantage on checks to avoid getting lost inside)
+- Players examining the exterior (DC 14 Investigation) find a narrow breach that allows stealthy entry onto Level 2, bypassing the entry hall but alerting any sentries there
+}}
+
+{{descriptive,wide
+##### Inside the Forgotten Tower
+
+Each floor combines cramped hallways, ritual chambers, and vertical choke points. Use the following guidance to structure the crawl:
+
+| Level | Features & Hazards | Sample Encounters |
+|-------|--------------------|-------------------|
+| **Level 1 – Entry Hall** | Twin staircases, collapsing chandeliers (Dex save DC 13 or take 2d6 bludgeoning), blood runes that flare when crossed | 2d4 Corrupt Rogues, 1d2 Goatman Spearmen |
+| **Level 2 – Barracks** | Rows of ruined cots; explosive rune traps (Perception DC 14); locked armories (DC 12 Thieves’ Tools) | 1d4 Rogues + 1 Rogue Captain, 1d3 Gargantuan Beasts chained to pillars |
+| **Level 3 – Laboratory** | Alchemical vats, screaming spirits bottled in glass (break = wail attack), volatile gases (fire damage triggers mini-explosions) | 1 Corrupt Sorceress (see page XX), 2d4 Skeleton Alchemists, swarm of Ash Rats |
+| **Level 4 – Ritual Floor** | Pentagram mosaics granting disadvantage on Wis saves, summoning circles that spawn Fallen each round unless disrupted, secret elevator to L5 | 1d4+1 Fallen Shamans, 1d3 Wraiths, optional miniboss **Ghost of the Seneschal** |
+| **Level 5 – Countess’ Lair** | Vault door etched with runes (series of checks or brute force), lava gutters, elevated platforms, rune pillars empowering the Countess | The Countess (see stat block) plus 2d4 Burning Dead and 1d2 Corrupt Sorceresses |
+
+**General Dungeon Rules:**
+- **Alarm State:** If any floor’s alarm is triggered, add +1 enemy group to the next floor
+- **Resting:** Short rests attract a 50% chance of patrols unless players barricade doors (DC 15 Survival)
+- **Rune Pillars:** Destroying a pillar (AC 15, 30 HP, immunity to poison/psychic) weakens the Countess, removing one of her Legendary Actions per pillar destroyed
+}}
+
+{{descriptive,wide
+##### Countess Encounter Setup
+
+The final chamber is circular, with molten channels forming a pentagram around a central dais. Four rune pillars hum with infernal energy while charred coffins line the walls. The Countess begins atop the dais, blades drawn, robes trailing embers.
+
+*“I burned for forgiving the wicked. Now I burn for eternity—and so will you.”*
+
+**Battlefield Features:**
+- **Rune Pillars (4):** While at least one stands, the Countess gains +2 AC and resists cold/fire. Destroying a pillar deals 10 fire damage to all creatures within 10 feet (Dex save DC 14 half) and removes those benefits
+- **Molten Channels:** Treat as difficult terrain; creatures that start their turn in the channel take 5 (1d10) fire damage
+- **Shadow Balcony:** A raised, broken balcony (20 ft up) from which archers (if any survived) can pester the party
+}}
+
+{{monster,frame,wide
+## The Countess
+*Medium undead (tiefling), lawful evil*
+___
+**Armor Class** :: 18 (*Runic Ward*)  
+**Hit Points** :: 120 (16d8 + 48)  
+**Speed** :: 30 ft.
+___
+| STR | DEX | CON | INT | WIS | CHA |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| 14 (+2) | 18 (+4) | 16 (+3) | 16 (+3) | 14 (+2) | 18 (+4) |
+___
+**Saving Throws** :: Dex +8, Wis +6, Cha +8  
+**Skills** :: Arcana +7, Insight +6, Perception +6, Stealth +8  
+**Damage Resistances** :: cold, fire, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks  
+**Damage Immunities** :: poison  
+**Condition Immunities** :: charmed, frightened, poisoned  
+**Senses** :: darkvision 120 ft., passive Perception 16  
+**Languages** :: Common, Infernal, Abyssal  
+**Challenge** :: 6 (2,300 XP) {{bonus **Proficiency Bonus** +3}}
+___
+### Traits
+***Infernal Rune Mastery.*** The Countess adds +2 to spell attack rolls and save DCs while at least one rune pillar stands. Additionally, when she casts a spell that deals fire damage, she can change it to cold or lightning damage.
+
+***Rune-Linked Teleport.*** As a bonus action, the Countess can teleport up to 30 feet to another rune inscribed surface she can see.
+
+***Blood for Fire.*** When the Countess scores a critical hit, the target takes an extra 7 (2d6) fire damage and must succeed on a DC 15 Wisdom saving throw or be frightened of her until the end of their next turn.
+___
+### Actions
+***Multiattack.*** The Countess makes two *Rune Dagger* attacks or casts a spell and makes one *Rune Dagger* attack.
+
+***Rune Dagger.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d6 + 5) piercing damage plus 10 (3d6) fire damage.
+
+***Runic Bolt.*** *Ranged Spell Attack:* +8 to hit, range 90 ft., one target. *Hit:* 13 (3d8) cold or lightning damage.
+
+***Hellfire Torrent (Recharge 5–6).*** The Countess unleashes a 30-foot-long, 5-foot-wide line of searing flame. Each creature in the line must make a DC 16 Dexterity saving throw, taking 27 (6d8) fire damage on a failed save, or half as much on a success. Creatures that fail ignite (5 fire damage at the start of their turns until they take an action to extinguish the flames).
+___
+### Bonus Actions
+***Rune Ward (2/Day).*** The Countess gains 20 temporary hit points and advantage on saving throws until the start of her next turn.
+___
+### Legendary Actions
+The Countess can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The Countess regains spent legendary actions at the start of her turn.
+
+***Quick Step.*** The Countess moves up to half her speed without provoking opportunity attacks.
+
+***Runic Lash.*** The Countess makes one Rune Dagger attack.
+
+***Rune Flare (Costs 2 Actions).*** The Countess detonates latent runes. Each creature of her choice within 15 feet must succeed on a DC 16 Dexterity saving throw or take 9 (2d8) fire damage and be pushed 10 feet.
+}}
+
+{{descriptive,wide
+##### Looting the Runic Vault
+
+Once the Countess falls, the runic pillars dim and a hidden alcove grinds open. Inside rests the **Runic Cache**—stone shelves piled with coins, gemstones, and rune-marked tablets.
+
+**Runic Cache Table (roll 1d6 twice or choose):**
+1. **El Rune** and **Eld Rune** embedded in dagger hilts (treat as spell focuses)  
+2. **Tir Rune** granting once-per-day *guiding bolt* when socketed  
+3. **Nef Rune** that can be crushed to cast *repelling blast* variant once  
+4. 300 gp in Horadric-minted coins and a **Scroll of Fire Shield**  
+5. **Countess' Signet** (ring granting fire resistance for 1 minute, 1/day)  
+6. **The Tower Map** (advantage on navigation checks in future catacombs)
+
+Allow players to harvest rare reagents (alchemical ash, demon ichor) worth 50 gp each for crafting. Charsi can turn runes into socketed items later, foreshadowing the Horadric Malus quest.
+}}
+
+{{descriptive,wide
+##### Completion & Aftermath
+
+Returning to the Rogue Encampment with news of the tower’s cleansing lifts morale. Kashya posts additional sentries at the outer walls now that the Black Marsh is safer. Charsi immediately examines any runes, promising breakthroughs once she has the Horadric Malus again.
+
+**Charsi:** *"You actually survived that deathtrap? Incredible. Let me see those runes—I can already tell they'll pair beautifully with the Malus once we recover it."*
+
+**Deckard Cain:** *"The Countess’ obsession with runes nearly doomed an entire province. Let us hope her fall teaches others the cost of unchecked ambition."*
+
+**New Leads:** The tower’s ledgers implicate a demonic smith forging weapons in the Monastery Barracks—the very hook for **Quest 5: Tools of the Trade**.
+}}
+
+{{descriptive,wide
+##### Game Master Notes
+
+**Quest Difficulty:** Moderate–Hard (attrition-based dungeon crawl)
+
+**Recommended Level:** 4–5 (adjust by trimming encounters on upper floors for weaker parties)
+
+**Scaling Tips:**
+- Reduce alarm responses or remove one mini-boss if the party lacks magical damage
+- Increase rune pillar hit points or add arcane locks for higher-level groups
+- Replace some Corrupt Rogues with **Hell Lancers** if you want more melee pressure
+
+**Teaching Moments:**
+- **Dungeon Resource Drain:** Demonstrates how multiple short combats tax spell slots and hit dice
+- **Trap Awareness:** Encourages marching order, passive Perception, and creative bypasses
+- **Boss Mechanics:** Breaking rune pillars gives tangible benefits, reinforcing objective-based combat
+- **Treasure Variety:** Introduces runes as a new loot type, setting expectations for Act I’s back half
+
+**Atmosphere & Tone:**
+- Lean into crackling firelight, echoing screams from below, and the smell of burnt cloves
+- Describe how the tower seems to sigh whenever a door opens, as if exhaling centuries of heat
+- Use the Countess’ dialogue to parallel Andariel’s corruption—this is what happens when mortals seek infernal bargains
+
+**Transition to Quest 5:**
+- The ledgers and smithing notes point directly to the **Horadric Malus** in the Barracks
+- Charsi formally requests the party retrieve the hammer once she sees what runes can do
+- Cain warns that the Monastery’s smith, now called **The Smith**, is forging weapons for Andariel—seeding the next major objective
 }}
 
 {{pageNumber,auto}}
