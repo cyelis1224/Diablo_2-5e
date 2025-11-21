@@ -84,7 +84,7 @@ The western lands have been overrun by demonic forces. The **Blood Moor**, once 
 
 **The Threat:**
 
-**Andariel**, the Maiden of Anguish, rules from the depths beneath the Monastery. A Prime Evil in service to the Lord of Terror, she specializes in breaking the spirit, in showing her victims everything they've lost. Under her influence, the corrupted lands spawn endless horrors—Fallen demons, risen dead, corrupted beasts, and worse.
+**Andariel**, the Maiden of Anguish, rules from the depths beneath the Monastery. One of the Lesser Evils who answered Diablo's call, she specializes in breaking the spirit—showing her victims everything they've lost. Under her influence, the corrupted lands spawn endless horrors—Fallen demons, risen dead, corrupted beasts, and worse.
 
 **The Heroes' Mission:**
 
@@ -423,7 +423,7 @@ She shakes herself. *"Just be careful. Places like that aren't abandoned by acci
 
 **Charsi:** *"There's something I need. Something from the Monastery—or what's left of it. It's called the Horadric Malus. It's... it was a tool of my teachers, a hammer blessed by the Horadrim. They used it for their greatest works, for weapons that could strike at demons themselves."*
 
-Her voice is tight with emotion. *"If it still exists, it might be in the workshops—in The Hole or The Pit, beneath the Highland. The demons probably haven't destroyed it; they wouldn't know what it is. But it would mean everything to have it back."*
+Her voice is tight with emotion. *"If it still exists, it should still be in the Monastery Barracks—past the Outer Cloister, in the heart of what used to be our stronghold. The Smith, a hulking demon that now forges weapons for Andariel, was last seen hauling it back there. He probably doesn't even understand what he's guarding, but he won't give it up without a fight."*
 
 *"Bring it to me, and I'll use it to craft you something real. A weapon worthy of heroes. Something that can actually hurt these creatures, not just scratch at them."*
 
@@ -1381,7 +1381,7 @@ If players ask how to get to Tristram:
 - Locate the Tree of Inifuss and defeat Treehead Woodfist to obtain the Scroll of Inifuss
 - Return to the Rogue Encampment and give the scroll to Akara for translation
 - Return to the Stony Field and locate the Cairn Stones
-- Defeat Rakanishu, the Carver guardian of the Cairn Stones
+- (Optional) Defeat Rakanishu, a lightning-infused Carver who often prowls near the Cairn Stones
 - Touch the Cairn Stones in the correct order (from Akara's translation) to open the portal
 - Navigate Tristram's ruins and reach Deckard Cain near the well
 - Rescue Deckard Cain (guarded by Champion monsters)
@@ -1537,7 +1537,7 @@ Once Treehead Woodfist is defeated, the dark magic protecting the tree fades. A 
 
 The party must return to the Rogue Encampment with the scroll. When they present it to Akara, she examines it carefully.
 
-**Akara:** *"Ah, very good. I have translated the runes on this scroll."* She unrolls the scroll, her fingers tracing the ancient symbols. *"You must find the Cairn Stones and touch them in the order that I have written."* She provides the party with a translated sequence—a specific order in which the stones must be touched. *"The Cairn Stones are located in the Stony Field, somewhere among the broken rocks and twisted earth. They form a circle, ancient and powerful. But be warned—the stones are guarded. Rakanishu, a lightning-infused Carver, protects them. You'll need to defeat him before you can access the stones."*
+**Akara:** *"Ah, very good. I have translated the runes on this scroll."* She unrolls the scroll, her fingers tracing the ancient symbols. *"You must find the Cairn Stones and touch them in the order that I have written."* She provides the party with a translated sequence—a specific order in which the stones must be touched. *"The Cairn Stones are located in the Stony Field, somewhere among the broken rocks and twisted earth. They form a circle, ancient and powerful. Rakanishu, a lightning-infused Carver, is often drawn to their energies—if he appears, dispatch him quickly before he disrupts the ritual."*
 }}
 
 {{descriptive,wide
@@ -1547,7 +1547,7 @@ After obtaining Akara's translation, the party must return to the **Stony Field*
 
 **Rakanishu's Encounter:**
 
-As the party approaches the Cairn Stones, they'll notice a figure moving among the rocks—a Carver larger and more dangerous than any they've encountered before. This is **Rakanishu**, a Super Unique Carver infused with lightning magic. He and his warband guard the stones, preventing anyone from accessing the portal.
+As the party approaches the Cairn Stones, they may notice a figure moving among the rocks—a Carver larger and more dangerous than any they've encountered before. This is **Rakanishu**, a Super Unique Carver infused with lightning magic. He and his warband sometimes descend on the stones to ambush travelers, forcing anyone attempting the ritual to fend them off while the portal hums to life. This encounter is optional; the stones function regardless, but defeating Rakanishu grants extra loot and a memorable miniboss fight.
 
 **Initial Encounter:**
 - **Rakanishu** (see stat block on next page) stands near the center of the stone circle
@@ -1659,7 +1659,7 @@ At low health, Rakanishu becomes reckless:
 {{descriptive,wide
 ##### Opening the Portal:
 
-Once Rakanishu and his warband are defeated, the party can access the Cairn Stones. Using Akara's translation, they must touch each stone in the correct order. The Game Master should provide the sequence based on Akara's instructions. For a more interactive experience, the GM can require players to follow the translated sequence carefully, with incorrect touches causing minor effects (small sparks, a sense of wrongness) before they get it right.
+Once the party secures the clearing—defeating Rakanishu and his warband if they appear—they can focus on the Cairn Stones. Using Akara's translation, they must touch each stone in the correct order. The Game Master should provide the sequence based on Akara's instructions. For a more interactive experience, the GM can require players to follow the translated sequence carefully, with incorrect touches causing minor effects (small sparks, a sense of wrongness) before they get it right.
 
 When touched in the correct order, read or paraphrase:
 
@@ -1696,7 +1696,7 @@ Deckard Cain can be found near the **well** in the center of Tristram. The well 
 
 **Griswold** can be found in or near the old church/cathedral. He is Tristram's former blacksmith, now an undead horror. He stands hammering at an anvil that no longer exists, lost in the memory of his former life. The party may encounter him while searching for Cain, but he is not required to be defeated to rescue Cain.
 
-**Wirt** may also be found in Tristram—a corpse merchant who sells rare items for exorbitant prices. He's already dead but still conducts business with dark humor. (The GM can include Wirt as an optional encounter if desired.)
+**Wirt** can be found near his old pen—long dead, his small body slumped beside the ashes of his campfire. He no longer bargains; instead, searching his remains yields **Wirt's Leg** (useful for future rituals) and a stash of gold hidden beneath his corpse. This grim discovery should reinforce how completely Tristram fell.
 }}
 
 \page
@@ -1879,19 +1879,19 @@ Cain establishes himself in the encampment, setting up a small tent near Akara's
 **Encounter Balancing:**
 - Adjust Treehead Woodfist's minion count based on party size (add 1-2 skeletons per party member beyond 4)
 - For smaller parties (2-3), reduce Treehead Woodfist's legendary actions to 1 instead of 2
-- Rakanishu's warband should be adjusted based on party size (add 1 Fallen per party member beyond 4)
+- If you include the Rakanishu encounter, adjust his warband based on party size (add 1 Fallen per party member beyond 4)
 - For smaller parties (2-3), reduce Rakanishu's legendary actions to 1 instead of 2
 - Champion monsters guarding Cain can be adjusted—use 3-4 for a party of 4, add 1-2 per additional party member
 - Griswold is an optional encounter; consider allowing players to bypass him if they're clever (stealth, distraction, etc.)
 - If players struggle, reduce the number of undead in Tristram, or allow Cain to provide some assistance
-- Consider giving players advantage on attacks against Rakanishu if they use lightning-resistant tactics or ground him to prevent teleportation
+- If Rakanishu appears, consider giving players advantage on attacks if they use lightning-resistant tactics or ground him to prevent teleportation
 
 **Teaching Moments:**
 - **Multi-Area Travel:** This quest introduces the concept of traveling through multiple areas to reach an objective, teaching players to prepare for extended journeys
 - **Return to Base:** Players must return to the encampment for translation, introducing the concept of using the encampment as a hub for resupply, information, and quest progression
 - **Puzzle Mechanics:** The Cairn Stones sequence teaches players to follow instructions carefully and solve puzzles through observation and interaction
 - **Portal Magic:** Players learn about portal mechanics and how to use magical items and sequences to access new areas, expanding their understanding of the world's magical properties
-- **Boss Variety:** Treehead Woodfist, Rakanishu, and optional Griswold have different combat styles, teaching players to adapt their tactics to different enemy types
+- **Boss Variety:** Treehead Woodfist, optional Rakanishu, and optional Griswold have different combat styles, teaching players to adapt their tactics to different enemy types
 - **NPC Protection:** Players must protect Cain during the escape from Tristram, introducing the challenges and rewards of protecting a non-combatant during dangerous situations
 - **Resource Management:** This is a long quest with multiple encounters; players must manage spell slots, hit points, and abilities carefully across an extended adventure
 
@@ -1899,7 +1899,7 @@ Cain establishes himself in the encampment, setting up a small tent near Akara's
 - Akara's request shows her wisdom and desperation—she recognizes they need Cain's knowledge
 - Warriv's comment about Cain being "half-mad" adds mystery and tension
 - The translation sequence allows for interaction with Akara and showcases her role as translator/guide
-- Rakanishu's lightning-infused nature provides opportunities for environmental storytelling (lightning storms, crackling stones)
+- If you stage the Rakanishu encounter, his lightning-infused nature provides opportunities for environmental storytelling (lightning storms, crackling stones)
 - Griswold's tragic backstory can be explored through environmental storytelling (optional encounter)
 - Cain's rescue provides opportunities for exposition about the larger threat
 - Other NPCs react to Cain's arrival with hope and curiosity
@@ -1911,7 +1911,7 @@ Cain establishes himself in the encampment, setting up a small tent near Akara's
 ##### Game Master Notes (Continued)
 **Loot Suggestions:**
 - **Treehead Woodfist:** 5d10 gold pieces from his remains, 1d4 potions of healing, rare magic item (30% chance) found among his effects, gem or rune (20% chance) discovered nearby
-- **Rakanishu:** Weapons that deal lightning damage, 5d10 gold pieces, 1d3 potions of healing, rare magic item (25% chance), gem or rune (15% chance)
+- **Rakanishu (optional encounter):** Weapons that deal lightning damage, 5d10 gold pieces, 1d3 potions of healing, rare magic item (25% chance), gem or rune (15% chance)
 - **Champion Monsters (guarding Cain):** Each drops 2d10 gold pieces, 20% chance for a potion of healing, 10% chance for a magic item among their remains
 - **Griswold (optional):** Griswold's Edge (unique longsword—see page XX for full stats), 10d10 gold pieces, 2d4 potions of healing, rare magic item (40% chance), crafting materials suitable for smithing
 - **Tristram Exploration:** 3d10 gold pieces per building thoroughly searched, 1d2 potions of healing found in abandoned homes, chance for magic items (15% per building searched)
