@@ -1348,7 +1348,7 @@ If players ask how to get to Tristram:
 
 *"You must find the sacred Tree of Inifuss and bring back its bark—or rather, a scroll carved from its bark. I will translate the runes to unlock the Stones' mystic pattern."*
 
-**Akara continues:** *"The Tree of Inifuss is located in the Dark Wood, which in turn is accessible only through the Underground Passage in the Stony Field. The tree is guarded by a powerful creature—Treehead Woodfist, they call him. A corrupted skeleton of immense strength. You'll need to defeat him to obtain the scroll."*
+**Akara continues:** *"The Tree of Inifuss is located in the Dark Wood, which can be reached through the Underground Passage. The passage can be accessed from either the Cold Plains or the Stony Field. The tree is guarded by a powerful creature—Treehead Woodfist, they call him. A corrupted skeleton of immense strength. You'll need to defeat him to obtain the scroll."*
 
 *"Once you have the scroll, bring it to me. I can read the ancient runes and tell you the order in which to touch the Cairn Stones. Without that order, the portal cannot be opened."*
 
@@ -1370,18 +1370,18 @@ If players ask how to get to Tristram:
 
 **Quest Giver:** Akara (Rogue Encampment)
 
-**Location:** Stony Field → Underground Passage → Dark Wood → Rogue Encampment (translation) → Stony Field (Cairn Stones portal) → Tristram
+**Location:** (Cold Plains OR Stony Field) → Underground Passage → Dark Wood → Rogue Encampment (translation) → Stony Field (Cairn Stones portal) → Tristram
 
 **Objective:** Rescue Deckard Cain from the cursed town of Tristram by finding the Tree of Inifuss scroll, having it translated by Akara, activating the Cairn Stones portal, and fighting through the undead to reach him.
 
 **Completion Requirements:**
-- Travel through the Stony Field to the Underground Passage
+- Travel to the Underground Passage (accessible from either the Cold Plains or the Stony Field)
 - Journey through the Underground Passage to reach the Dark Wood
 - Locate the Tree of Inifuss and defeat Treehead Woodfist to obtain the Scroll of Inifuss
 - Return to the Rogue Encampment and give the scroll to Akara for translation
 - Return to the Stony Field and locate the Cairn Stones
-- Defeat Rakanishu (guardian of the Cairn Stones)
 - Touch the Cairn Stones in the correct order (from Akara's translation) to open the portal
+- (Optional) Defeat Rakanishu, a powerful Super Unique Fallen Shaman who may be encountered in the Stony Field
 - Navigate Tristram's ruins and reach Deckard Cain near the well
 - Rescue Deckard Cain (guarded by Champion monsters)
 - Return to the Rogue Encampment with Cain
@@ -1400,9 +1400,9 @@ If players ask how to get to Tristram:
 {{descriptive,wide
 ##### The Journey to Dark Wood
 
-The path to the Dark Wood begins in the **Stony Field**, a desolate landscape of broken rock and twisted earth. The journey itself is dangerous—monsters roam freely, and the terrain is treacherous. See page XX for the Stony Field encounter table and area description.
+The path to the Dark Wood can be reached through the **Underground Passage**, which can be accessed from either the **Cold Plains** or the **Stony Field**. Both areas are dangerous—monsters roam freely, and the terrain is treacherous. See page XX for the Cold Plains and Stony Field encounter tables and area descriptions.
 
-From the Stony Field, the party must find the entrance to the **Underground Passage**, a network of tunnels that connects different areas. The passage is dark, claustrophobic, and filled with dangers. See page XX for the Underground Passage area description.
+The party must find the entrance to the **Underground Passage**, a network of tunnels that connects different areas. The passage is dark, claustrophobic, and filled with dangers. See page XX for the Underground Passage area description.
 
 The Underground Passage leads to the **Dark Wood**, a forest corrupted by demonic influence. The trees are twisted into unnatural shapes, and the canopy blocks out almost all light. The air is heavy with the smell of decay and corruption. See page XX for the Dark Wood area description.
 
@@ -1536,7 +1536,7 @@ Once Treehead Woodfist is defeated, the dark magic protecting the tree fades. A 
 
 The party must return to the Rogue Encampment with the scroll. When they present it to Akara, she examines it carefully.
 
-**Akara:** *"Ah, very good. I have translated the runes on this scroll."* She unrolls the scroll, her fingers tracing the ancient symbols. *"You must find the Cairn Stones and touch them in the order that I have written."* She provides the party with a translated sequence—a specific order in which the stones must be touched. *"The Cairn Stones are located in the Stony Field, somewhere among the broken rocks and twisted earth. They form a circle, ancient and powerful. But be warned—the stones are guarded. Rakanishu, a lightning-infused Fallen Shaman, protects them. You'll need to defeat him before you can access the stones."*
+**Akara:** *"Ah, very good. I have translated the runes on this scroll."* She unrolls the scroll, her fingers tracing the ancient symbols. *"You must find the Cairn Stones and touch them in the order that I have written."* She provides the party with a translated sequence—a specific order in which the stones must be touched. *"The Cairn Stones are located in the Stony Field, somewhere among the broken rocks and twisted earth. They form a circle, ancient and powerful. Be careful—the Stony Field is dangerous, and you may encounter powerful enemies like Rakanishu, a lightning-infused Fallen Shaman, while searching for the stones. But the stones themselves are not guarded—you can access them once you find them."*
 }}
 
 {{descriptive,wide
@@ -1544,15 +1544,16 @@ The party must return to the Rogue Encampment with the scroll. When they present
 
 After obtaining Akara's translation, the party must return to the **Stony Field** and locate the **Cairn Stones**—a circle of ancient standing stones marked with runes similar to those on the scroll. The stones stand in a clearing, arranged in a perfect circle, their surfaces covered in weathered inscriptions.
 
-**Rakanishu's Encounter:**
+**Rakanishu's Encounter (Optional):**
 
-As the party approaches the Cairn Stones, they'll notice a figure moving among the rocks—a Fallen Shaman larger and more dangerous than any they've encountered before. This is **Rakanishu**, a Super Unique Carver infused with lightning magic. He and his warband guard the stones, preventing anyone from accessing the portal.
+While searching the Stony Field for the Cairn Stones, the party may encounter **Rakanishu**, a Super Unique Carver infused with lightning magic. He is not specifically guarding the Cairn Stones, but rather patrols the Stony Field with his warband. This is an optional encounter—players can find and use the Cairn Stones without ever encountering Rakanishu, though defeating him provides valuable experience and loot.
 
-**Initial Encounter:**
-- **Rakanishu** (see stat block on next page) stands near the center of the stone circle
+**If Rakanishu is Encountered:**
+- **Rakanishu** (see stat block on next page) may be found anywhere in the Stony Field, not necessarily near the Cairn Stones
 - **2d4 Fallen** warriors surround him
 - **1d2 Fallen Shamans** assist with revival magic
 - The warband attacks immediately upon seeing the party
+- **Note:** The Game Master can place Rakanishu anywhere in the Stony Field, or choose not to include him at all if desired
 }}
 
 {{imageMaskEdge6,--offset:0%,--rotation:180
@@ -1658,7 +1659,7 @@ At low health, Rakanishu becomes reckless:
 {{descriptive,wide
 ##### Opening the Portal:
 
-Once Rakanishu and his warband are defeated, the party can access the Cairn Stones. Using Akara's translation, they must touch each stone in the correct order. The Game Master should provide the sequence based on Akara's instructions. For a more interactive experience, the GM can require players to follow the translated sequence carefully, with incorrect touches causing minor effects (small sparks, a sense of wrongness) before they get it right.
+Once the party locates the Cairn Stones (whether or not they've encountered Rakanishu), they can use Akara's translation to touch each stone in the correct order. The Game Master should provide the sequence based on Akara's instructions. For a more interactive experience, the GM can require players to follow the translated sequence carefully, with incorrect touches causing minor effects (small sparks, a sense of wrongness) before they get it right.
 
 When touched in the correct order, read or paraphrase:
 
