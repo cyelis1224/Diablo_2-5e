@@ -1593,11 +1593,13 @@ ___
 ***Teleport (3/Day).*** As a bonus action, Rakanishu can teleport up to 30 feet to an unoccupied space he can see.
 ___
 ### Actions
-***Multiattack.*** Rakanishu makes two melee attacks.
+***Multiattack.*** Rakanishu makes two melee attacks or two ranged attacks.
 :
 ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage plus 7 (2d6) lightning damage.
 :
 ***Throwing Spear.*** *Ranged Weapon Attack:* +6 to hit, range 20/60 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage plus 7 (2d6) lightning damage.
+:
+***Lightning Bolt.*** *Ranged Spell Attack:* +6 to hit, range 60 ft., one target. *Hit:* 10 (3d6) lightning damage.
 :
 ***Summon Fallen (1/Day).*** Rakanishu calls forth 2d4 **Fallen** in unoccupied spaces within 30 feet of him. The Fallen act immediately after Rakanishu in the initiative order and are under his control.
 ___
@@ -1607,7 +1609,7 @@ Rakanishu can take 2 legendary actions, choosing from the options below. Only on
 
 ***Move.*** Rakanishu moves up to his speed without provoking opportunity attacks, or uses his Teleport ability.
 
-***Strike.*** Rakanishu makes one claw attack or Throwing Spear attack.
+***Strike.*** Rakanishu makes one claw attack, Throwing Spear attack, or Lightning Bolt attack.
 
 ***Command Fallen.*** Rakanishu commands all Fallen within 30 feet to move up to their speed and make one attack.
 }}
