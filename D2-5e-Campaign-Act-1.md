@@ -167,516 +167,6 @@ Remember that this is a game, and fun comes first. If something isn't working, c
 
 \page
 
-{{wide
-# Quest 5: Tools of the Trade
-
-{{imageMaskEdge1,--offset:-33%,--rotation:0
-  ![](https://i.redd.it/1firp67htpd61.png){position:absolute,bottom:0,left:-200px,height:100%,opacity:0.6}
-}}
-
-::::::
-*This quest drags the party through the shattered Monastery complex to steal back the Horadric Malus from The Smith. It blends infiltration, hostage rescue, and a bruising boss fight that sets up the march on Andariel.*
-{color:#C9AD6A}
-{background:#00000090,text-align:center}
-}}
-
-{{descriptive,wide
-##### Charsi's Plea
-
-Returning from the Forgotten Tower, the heroes find Charsi pacing beside her forge, soot-stained ledgers from the Countess’ vault spread across the anvil. The parchment details shipment schedules, demonic alloys, and one line circled over and over: *"Horadric Malus relocated to Barracks forge."* Charsi’s hands shake—not from fear, but from the realization that her teachers’ masterpiece still exists, even if it’s been twisted to serve Andariel.
-
-She explains that the Horadric Malus was the Sisterhood’s sacred hammer, a focus that lets her fold runes into steel, awaken latent sockets, and break the enchantments binding demonic alloys. Without it, she can only patch armor and pray. With it, she can arm the camp for the inevitable push into the Monastery. The quest is personal, but it is also strategic—the final assault on Andariel will fail if the heroes can’t keep pace with the weapons coming out of the corrupted forge.
-}}
-
-{{descriptive,wide
-##### Meeting Charsi
-
-When players speak with Charsi after Quest 4, she addresses them with anxious determination:
-
-**Charsi:** *"The Countess’ ledgers talked about a demon they just call The Smith. He hauled our Horadric Malus back into the Barracks and has been forging weapons for Andariel ever since. If we don’t steal it back, everything we do out there is just patchwork."*
-
-If players ask how to reach the Barracks:
-
-**Charsi:** *"Follow the Tamoe Highland to the Monastery Gate, push through the Outer Cloister, and you’ll smell the forge before you see it. The Barracks connect straight into the Jail—we used to move arms between them. Now they’re crawling with corrupted Rogues and Goatmen enforcers."*
-
-If players probe for tactical advice:
-
-**Charsi:** *"Those ledgers mention alarm gongs on every landing. Move quiet, kill the shamans first, and watch for pressure plates near the armories. If they ring that bell, The Smith will know you’re coming."*
-
-If players ask what she can do with the Malus:
-
-**Charsi:** *"Bring it home and I’ll rework one of your weapons or suits of armor for free. After that, every rune you find turns into something real—sockets, runewords, fire-hardened edges. I swear it."*
-
-**Charsi (Early Return without the Malus):** *"I know it’s a deathtrap. I also know we won’t survive Andariel without that hammer. Catch your breath if you need to, but we have to go back in there."*
-}}
-
-{{descriptive,wide
-##### Other NPCs’ Comments (After Initiating Quest)
-
-**Deckard Cain:** *"The Horadric Malus is more than a craftsperson’s tool. It channels patterns first taught to us by the angels. Beware The Smith—he was a mortal once, but the forge remade him into something that knows only pain."*
-
-**Akara:** *"The Barracks and Jail are soaked in the blood of my sisters. Cleanse that place if you can—free the captives, sanctify the armories, and bring the Malus back to hands that honor it."*
-
-**Kashya:** *"I can spare a scout to guide you through the Tamoe Highland, but once you breach the Cloister you’re on your own. Drop the gate chains or light a green flare if you need extraction. Otherwise, finish the job."*
-
-**Gheed:** *"I hear demons pay top coin for enchanted steel. If you find any... surplus... I know buyers. And if you happen across The Smith’s ledger, I’d pay handsomely for a look."*
-
-**Warriv:** *"The path east is narrower than ever. The Highland cliffs will funnel you straight to the gate—expect ambushes on the ridge, and don’t linger when the bells start ringing."*
-
-**Kashya (Early Return):** *"Every hour that hammer stays in demon hands is another hour they forge blades for our throats. Re-arm and get back in there."*
-}}
-
-{{descriptive,wide
-##### Quest Objectives
-
-**Quest Giver:** Charsi (Rogue Encampment)
-
-**Location Chain:** Rogue Encampment → Tamoe Highland → Monastery Gate → Outer Cloister → Barracks → Jail (Level 1) → Smith’s Forge Hall
-
-**Objective:** Retrieve the Horadric Malus from The Smith so Charsi can restore advanced crafting to the encampment.
-
-**Completion Requirements:**
-- Travel through the Tamoe Highland and breach the Monastery Gate (see page XX for area details)
-- Infiltrate or clear the Outer Cloister to reach the Barracks entrance
-- Navigate the Barracks workshops and adjoining Jail corridors while managing alarms and patrols
-- Defeat The Smith inside the forge hall and recover the Horadric Malus
-- Return the Malus to Charsi in the Rogue Encampment
-
-**Rewards:**
-- 300 XP per character
-- Horadric Malus unlocked: Charsi can now socket items, apply masterwork upgrades, and craft rune-enhanced gear (see below)
-- One free masterwork upgrade or socket per character
-- Access to demonsteel ingots, schematics, and unique loot from The Smith
-- Encampment morale boost: Kashya’s mercenaries gain +1 damage on their first attack in the next quest (optional rule)
-
-**Recommended Party Level:** 5 (after completing The Forgotten Tower)
-
-**Estimated Duration:** 3–4 hours of play (longer if the party sweeps every cell block)
-}}
-
-{{descriptive,wide
-##### The Road to the Monastery
-
-The trek from the Rogue Encampment to the Monastery is longer than any previous excursion. The party must:
-- Cross the **Black Marsh** or loop through the **Dark Wood** to reach the **Tamoe Highland**. Use the Highland encounter table (see page XX) to emphasize exposed ridgelines, goatman ambushes, and bitter winds that impose **DC 13 Constitution saves** every hour or suffer one level of exhaustion (optional).
-- Approach the **Monastery Gate** where corrupted Rogues have re-rigged the ballistae. A **DC 15 Dexterity (Stealth)** check lets the party bypass the gatehouse; failure triggers a volley (3d10 piercing, Dexterity save half) and raises the first alarm tick.
-- Navigate the **Outer Cloister**, now an open-air killing field. Treat each quadrant as difficult terrain filled with collapsed masonry and burning braziers. Secret postern doors (DC 15 Investigation) can drop the party directly into the Barracks mezzanine, rewarding scouting and use of Rogue allies.
-
-Encourage the heroes to secure fallback routes: jamming the gate chains, toppling siege ladders, or leaving chalk symbols for Kashya’s scouts grants advantage on future checks to retreat or bring reinforcements.
-}}
-
-{{descriptive,wide
-##### Barracks & Jail Crawl
-
-| Segment | Key Features & Hazards | Sample Encounters |
-|:--|:--|:--|
-| **Outer Cloister Entry** | Two-story walkways, arrow slits, alarm gongs on chains (DC 14 Thieves’ Tools to disarm). Difficult terrain from collapsed arches, brazier smoke imposes lightly obscured condition. | 2d4 **Corrupt Rogues** (mix melee/archer), 1 **Goatman Spearman**, 1 **Fallen Shaman** ringing the gong. |
-| **Barracks Workshops** | Rows of weapon racks, quenching troughs that vent scalding steam every other round (Dex save DC 13 or 2d6 fire). Pressure plates (DC 15 Perception) drop portcullises that split the party. | 1 **Corrupt Captain** with 1d4 **Rogue Trainees**, 1 **Gargantuan Beast** chained to the forge. |
-| **Forge Gallery** | Central hall leading to The Smith. Lava channels provide soft cover but deal 1d10 fire to creatures that start their turn adjacent. Cranes swing suspended blades (can be commandeered with DC 14 Strength). | 1 **Corrupt Sorceress**, 2d4 **Skeleton Smelters** (use skeleton stat block with fire damage), environmental hazard wave (falling chimney, etc.). |
-| **Upper Jail (Cells & Kennels)** | Rows of barred cells containing terrified refugees or corrupted prisoners. Unlocking cells (DC 14 Thieves’ Tools) without silencing wailing survivors raises alarm. Healing supplies stashed in infirmary (2d4 potions). | 1 **Dark Archer Warden**, 1d4 **Spike Fiends**, optional **Unique Prisoner** (ally or side quest). |
-| **Deep Cells & Arsenal** | Spiral stair to forge hall, rune-scribed doors, chanting from Hell-forged apprentices. Weapon racks grant +1 weapons for the encounter if claimed. Alarm lever beside the door triggers reinforcements every other round. | 2 **Burning Dead**, 1 **Corrupt Sorceress**, 1 **Hellforge Acolyte** (use acolyte with fire spells). |
-}}
-
-{{descriptive,wide
-##### Optional Goals & Complications
-
-- **Rescue Captives:** Freeing at least three imprisoned Rogues grants the party advantage on one future Stealth or Survival check inside the Monastery. Survivors also deliver intelligence for Quest 6.
-- **Sabotage the Forge:** A **DC 16 Intelligence (Arcana) or Strength (Athletics)** check disables the rune-powered bellows, imposing disadvantage on demon attack rolls for the rest of this quest and reducing Andariel’s reinforcements later.
-- **Secure Supply Caches:** Barracks arsenals hold 2d6 bundles of alchemist’s fire, tanglefoot bags, or holy water. Each cache requires a **DC 13 Investigation** to locate before they’re spirited deeper into the Jail.
-- **Silent Approach:** Tracking alarm ticks creates tension. After three alarms, reinforcements equal to 2d4 Corrupt Rogues arrive each round until the party reaches the forge. Reward clever timing, illusions, or disguises that keep the alarm below that threshold.
-- **Ledger Snatch:** The Smith’s desk contains manifests naming Andariel’s lieutenants. Delivering these to Deckard Cain grants advantage on lore checks in Quest 6 and unlocks bonus downtime rumors.
-}}
-
-{{descriptive,wide
-##### The Horadric Malus
-
-The Malus is a massive adamant hammer carved with ocular runes. When a hero lifts it from The Smith’s anvil, cold light flashes and every brazier in the forge gutters. Carrying it halves the weight of any nonmagical gear the bearer holds (holy buoyancy) but also makes them shed faint sparks—useful for tracking or dramatic lighting.
-
-**Workshop Benefits (after returning the Malus to Charsi):**
-- **Masterwork Temper (1/character):** Each hero chooses one weapon or suit of armor. Charsi upgrades it to a +1 item or adds a bespoke property (flaming, serrated, radiant, etc.) appropriate to the character’s concept.
-- **Socketcraft:** Charsi can now add one socket to any weapon/armor/shield per downtime week. Filling a socket requires runes or gems (see page XX for rune tables).
-- **Rune Fusion:** Combining at least two runes lets Charsi attempt proto-runewords. Spending 50 gp in materials and succeeding on a **DC 15 Smith’s Tools** check (rolled by the DM) grants an additional minor property.
-- **Commissioned Projects:** Future quests may require special gear (holy water grenades, blessed bolts, etc.). With the Malus, Charsi can craft such items at half cost and in half the downtime, giving the party a tangible edge heading into Quest 6.
-}}
-
-{{descriptive,wide
-##### The Smith Encounter
-
-The forge hall is a vaulted chamber where molten metal pours through rune-lined channels. The Smith stands at the center, chained to the anvil by choice, each swing sending shockwaves across the floor. When the party enters, read or paraphrase:
-
-*“Heat slams into you like a wall. Chains rattle overhead, glowing rivulets of metal trace sigils in the air, and a hulking figure turns to face you. Flesh fused with iron. Eyes like forge coals. In his fist, the Horadric Malus—perverted, yet still holy. The Smith bellows, and the walls answer.”*
-
-**Battlefield Features:**
-- **Molten Channels:** Difficult terrain; creatures that fall prone adjacent to a channel take 7 (2d6) fire damage.
-- **Hanging Chains:** Medium or smaller creatures can swing across the hall (DC 13 Athletics) to avoid lava or reach balconies. The Smith can rip a chain free as a legendary action.
-- **Runic Bellows:** A console near the entrance can be sabotaged (DC 15 Intelligence (Arcana)) to impose disadvantage on The Smith’s fire attacks for the rest of the fight.
-- **Weapon Racks:** Grabbing a blessed glaive or shield grants +1 to attack or AC for the encounter but takes an action.
-
-**Combat Phases:**
-- **Phase 1 – Slam Shock:** The Smith focuses on frontline characters, using Molten Rush to close gaps and knock foes prone. Reinforcement waves of 1d4 Burning Dead pour in every other round if the alarm was triggered.
-- **Phase 2 – Bellows Burst (below 60% HP):** He shatters the Malus’ bindings, causing magma splashes (Dex save DC 15 or 3d8 fire). He also begins hurling Cinderbursts down the length of the forge.
-- **Phase 3 – Enraged Tempest (below 30% HP):** The Smith ignites, gaining temporary hit points and attempting to grapple a character, dragging them toward the anvil for a coup de grâce. Destroying the rune pillars lining the walls (AC 15, 25 HP) ends this frenzy.
-
-Defeating him without destroying the Malus requires called shots (declare nonlethal intent) or a **DC 16 Dexterity (Sleight of Hand)** check at the start of the final blow to wrest the hammer away mid-swing.
-}}
-
-{{monster,frame,wide
-## The Smith
-*Large fiend (demon), chaotic evil*
-___
-**Armor Class** :: 17 (*hellforged plate*)  
-**Hit Points** :: 152 (16d10 + 64)  
-**Speed** :: 30 ft.
-___
-| STR | DEX | CON | INT | WIS | CHA |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| 23 (+6) | 12 (+1) | 18 (+4) | 9 (−1) | 14 (+2) | 15 (+2) |
-___
-**Saving Throws** :: Str +11, Con +8, Wis +6  
-**Skills** :: Athletics +11, Intimidation +6, Perception +6  
-**Damage Resistances** :: cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks  
-**Damage Immunities** :: poison  
-**Condition Immunities** :: charmed, frightened, poisoned  
-**Senses** :: darkvision 120 ft., passive Perception 16  
-**Languages** :: Common, Infernal  
-**Challenge** :: 7 (2,900 XP) {{bonus **Proficiency Bonus** +3}}
-___
-### Traits
-***Forge-Bound Hide.*** When The Smith takes fire damage, he gains 5 temporary hit points (stacking to a maximum of 20).  
-:
-***Molten Rush.*** When The Smith moves at least 15 feet straight toward a creature and hits it with a Great Maul attack on the same turn, the target must succeed on a DC 16 Strength saving throw or be knocked prone and take an extra 7 (2d6) fire damage.  
-:
-***Unstoppable.*** Difficult terrain doesn’t cost The Smith extra movement, and he can move through the space of a hostile creature that is Medium or smaller.
-
-___
-### Actions
-***Multiattack.*** The Smith makes two *Great Maul* attacks, or one *Great Maul* attack and one *Chain Drag* attack.  
-:
-***Great Maul.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) bludgeoning damage plus 7 (2d6) fire damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone.  
-:
-***Chain Drag (Recharge 5–6).*** The Smith lashes out with a hooked chain. One creature within 20 feet must make a DC 16 Strength saving throw. On a failed save, the creature is pulled up to 15 feet toward The Smith and takes 13 (3d8) slashing damage; on a success, the creature takes half damage and isn’t moved.  
-:
-***Cinderburst (Recharge 5–6).*** The Smith hurls molten slag in a 30-foot cone. Each creature in the area must make a DC 16 Dexterity saving throw, taking 27 (6d8) fire damage on a failed save, or half as much on a success. A creature that fails also catches fire, taking 5 (1d10) fire damage at the start of each of its turns until it or another creature uses an action to douse the flames.  
-:
-***Ignite the Bellows (1/Day).*** The Smith slams the anvil, empowering his forge. He gains 20 temporary hit points and each enemy within 10 feet must succeed on a DC 16 Constitution saving throw or be stunned until the end of their next turn.
-
-___
-### Legendary Actions
-The Smith can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The Smith regains spent legendary actions at the start of his turn.
-
-***Trample.*** The Smith moves up to 10 feet without provoking opportunity attacks.  
-***Backhand.*** The Smith makes one *Great Maul* attack.  
-***Rip Chain (Costs 2 Actions).*** The Smith tears a hanging chain loose. Each creature within 10 feet of that chain must make a DC 16 Dexterity saving throw or take 9 (2d8) bludgeoning damage and be restrained until the start of The Smith’s next turn.
-}}
-
-{{descriptive,wide
-##### Completion & Rewards
-
-When the party pries the Malus from demon hands, the forge keens like a bell. Flames flicker out, alarms fall silent, and any surviving prisoners bow in stunned relief. Carrying the hammer imposes disadvantage on Stealth checks (it hums audibly), but grants advantage on saving throws against fear effects as long as it is borne openly.
-
-Back in the Rogue Encampment, the reception is immediate:
-
-**Charsi:** *"I can feel the forge breathe again. Lay your gear out—I’ll start with the worst dents and work my way to miracles."*
-
-**Deckard Cain:** *"The Horadrim would be proud. With this tool restored, we can inscribe the runic blessings Andariel fears most."*
-
-**Akara:** *"The Monastery trembles; I can feel it. This is the turning point. Prepare yourselves—the Cathedral will not surrender easily."*
-
-**Kashya:** *"With those weapons, my Rogues might stand a chance in the Cloister halls. Say the word and we march on the Inner Cloister."*
-
-**Gheed:** *"Newly-forged steel floods the market? Music to my ears. If Charsi needs rare reagents, tell her Gheed knows people."*
-
-**Warriv:** *"Hope is a dangerous thing—but I’ll take danger over despair. When you head east, my caravan will be ready."*
-
-**Quest Rewards Recap:**
-- 300 XP per character
-- Horadric Malus returned; each hero receives one free upgrade or socket from Charsi
-- Access to new crafting menus: masterwork tempering, socketing, rune fusion (as described above)
-- Loot from The Smith’s forge: 3d6 x 10 gp in demonsteel bars, 1d4 potions of fire resistance, 25% chance of a unique weapon such as **The Smith’s Brand** (see magic items section)
-- Rescued prisoners provide intelligence that grants advantage on the first skill check made inside the Monastery during Quest 6
-
-With the forge reclaimed, Kashya and Akara formally brief the party on **Quest 6: Sisters to the Slaughter**, the assault on the Inner Cloister, Catacombs, and Andariel herself.
-}}
-
-{{descriptive,wide
-##### Game Master Notes
-
-**Quest Difficulty:** Hard (attrition-based gauntlet plus a CR 7 boss). Expect 4–6 medium encounters before The Smith.
-
-**Scaling Tips:**
-- Remove one patrol or legendary action for smaller/less-optimized parties.
-- Allow Kashya to loan a Rogue scout (use the *Scout* stat block) if the group lacks stealth or trap skills.
-- For hardened parties, add a second Hellforge Acolyte in the forge hall and increase The Smith’s hit points to 180.
-
-**Teaching Moments:**
-- Highlight infiltration vs. assault by tracking alarm ticks openly.
-- Showcase environmental hazards (lava, chains, pressure plates) to encourage creative tactics.
-- Introduce crafting as a reward loop: success unlocks new downtime options, failure keeps the party under-geared.
-
-**Loot Suggestions:**
-- **The Smith’s Brand:** +1 great maul that deals an extra 1d6 fire damage and casts *heat metal* (1/day).
-- **Runed Shackles:** Restrains a fiend for 1 minute (DC 15 Strength to break); invaluable for Andariel’s lieutenants.
-- **Demonsteel Ingots:** Each ingot counts as 75 gp worth of crafting materials when presented to Charsi.
-
-**Fail Forward:**
-- If the party retreats, increase the alarm level next time; reinforcements arrive sooner and The Smith gains advantage on initiative.
-- If the Malus is damaged, Akara can lead a purification ritual (skill challenge) that delays crafting but still moves the story forward.
-
-**Transition to Quest 6:**
-- Kashya convenes a war council once Charsi begins forging upgraded gear.
-- Akara senses Andariel’s anguish beneath the Cathedral, pointing the heroes toward the Catacombs.
-- Deckard Cain translates manifests recovered from the Barracks, providing tactical intel for the final assault.
-
-Completing Quest 5 should feel like flipping the campaign’s momentum—the heroes finally control the forge, and Sanctuary’s last defenders are ready to strike back.
-}}
-
-{{wide
-# Quest 6: Sisters to the Slaughter
-
-{{imageMaskEdge1,--offset:-33%,--rotation:0
-  ![](https://i.imgur.com/ODVfHRd.jpeg){position:absolute,bottom:0,left:-160px,height:100%,opacity:0.65}
-}}
-
-::::::
-*The final push into the Monastery forces the party through ruined cloisters and blood-soaked catacombs to confront Andariel, the Maiden of Anguish. This quest closes Act I and launches the caravan east.*
-{color:#C9AD6A}
-{background:#00000090,text-align:center}
-}}
-
-{{descriptive,wide
-##### War Council
-
-With the Horadric Malus restored, the Rogue Encampment convenes its first true war council since the fall of the Monastery. Kashya spreads hand-sketched floor plans across Charsi’s anvil while Akara places holy sigils at each choke point. Deckard Cain recites everything he remembers about Andariel’s rituals, and Charsi’s newly empowered forge spits sparks that feel like omens.
-
-The plan is simple only on paper: breach the Outer Cloister, secure the Inner Cloister courtyard, descend through Jail Levels 2–3 into the Inner Cloister proper, and then press through the Catacombs until Andariel’s sanctum is breached. Warriv offers his caravan as a mobile infirmary, backing it against the palisade so that wounded Rogues can be dragged away and those bound for Lut Gholein will have a ready transport.
-}}
-
-{{descriptive,wide
-##### Meeting the Leaders
-
-When players report in after Quest 5, run the following exchanges to set tone and stakes:
-
-**Akara:** *"The Maiden of Anguish festers beneath the Cathedral. She feeds on every loss we have suffered. Cleanse the catacombs and sever her link to the Hells. I will consecrate the altar once you are done."*
-
-**Kashya:** *"My scouts will keep the gate open, but we can’t hold it forever. Drop signal flares if you clear a level—we move forward only when you say it’s safe."*
-
-**Charsi:** *"I tempered your weapons to bite deep. Take these distilled oils—coat your blades before you enter the Catacombs and they’ll burn through demon flesh."* *(Each character gains two vials of Holy Oil; as a bonus action, apply to a weapon to add +1d4 radiant damage for 1 minute.)*
-
-**Deckard Cain:** *"Andariel is a creature of torment. Expect illusions, whispers, promises. Steel your minds as well as your bodies. I will be waiting at the gate to identify whatever relics you recover."*
-
-**Warriv:** *"Once she falls, we ride east. My caravan leaves with the dawn—you’ll have seats of honor."*
-}}
-
-{{descriptive,wide
-##### Quest Objectives
-
-**Quest Trigger:** Completion of Quest 5 (Tools of the Trade) and briefing with Akara and Kashya
-
-**Quest Givers:** Akara (spiritual mandate), Kashya (military objective), Deckard Cain (lore support)
-
-**Location Chain:** Rogue Encampment → Monastery Gate (already breached) → Outer Cloister → Jail Levels 2–3 → Inner Cloister → Cathedral → Catacombs Levels 1–4 → Andariel’s Lair
-
-**Objective:** Kill Andariel and purge the Catacombs so the Sisterhood can reclaim the Monastery and Sanctuary can breathe again.
-
-**Completion Requirements:**
-- Secure the Outer Cloister so Kashya’s forces can establish a forward camp
-- Clear a path through the Jail and Inner Cloister to reach the Cathedral nave
-- Descend through Catacombs Levels 1–4, neutralizing ritual hotspots and venom vats
-- Defeat Andariel in her lair and consecrate the corrupted altar
-- Return to the Rogue Encampment, report success, and decide whether to travel east with Warriv
-
-**Rewards:**
-- 500 XP per character (plus Andariel’s XP value)
-- Access to Act II (travel to Lut Gholein via Warriv)
-- Unique loot from Andariel’s treasury (see Completion & Rewards)
-- Permanent morale bonus: Rogues at the Encampment gain +2 to attack rolls during any future defense scenes
-- Each character gains a **Favor of the Sisterhood** charm (grants advantage on one saving throw of the player’s choice during Act II)
-
-**Recommended Party Level:** 5–6
-
-**Estimated Duration:** 4–6 hours of play (multi-session finale)
-}}
-
-{{descriptive,wide
-##### Assault Blueprint
-
-The heroes can choose between a full-on assault (loud, fast, overwhelming) or a stealthy infiltration (slow, surgical, dependent on Recon tokens earned in previous quests). Track an **Alarm Meter** as in Quest 5; once it hits 3, Andariel becomes aware of the party and begins corrupting terrain in deeper levels (poison vents activate, reinforcements ripple through). Encourage players to spend downtime prepping traps, holy water, or alliances with rescued Rogues—each meaningful preparation can reduce the initial alarm by 1 or grant advantage on the first encounter of a floor.
-
-- **Outer Cloister:** Ruined courtyard with collapsing colonnades. Treat the area as difficult terrain until players secure it (Skill Challenge: Athletics, Acrobatics, Survival DC 14). Once cleared, Kashya station guards here, giving the party a safe short-rest node.
-- **Jail Levels 2–3:** Narrow corridors filled with torture implements turned into summoning foci. Environmental hazard: screaming walls impose Wisdom saves vs. fright each hour unless sanctified (Religion DC 15).
-- **Inner Cloister & Cathedral:** Sanctified once, now defiled. Desecrated fonts burst with poison if not sealed (Arcana or Medicine DC 14). Choir loft archers (Corrupt Rogues) pin the party unless dealt with quickly.
-- **Catacombs:** Four stacked dungeon levels, each thematically sharper (bones, fungus, slime, obsidian).
-}}
-
-{{descriptive,wide
-##### Catacomb Encounter Ladder
-
-| Level | Features & Hazards | Sample Encounters |
-|:--|:--|:--|
-| **Catacombs 1 – Reliquary** | Flickering braziers, fallen statues, holy relics coated in bile. Desecrated altars impose disadvantage on Wisdom saves until purified. | 1 **Corrupt Zealot Captain**, 2d4 **Skeleton Archers**, 1 **Wraith** phasing between pews. |
-| **Catacombs 2 – Venom Vats** | Pools of green toxin; each round, roll d6 to see if vapors surge (Con save DC 14 or take 2d6 poison). Destroy vats (30 HP each) to weaken Andariel. | 1 **Venom Sorceress**, 2 **Poison Spitters** (use *Giant Spider* template), hazard: rupturing vats. |
-| **Catacombs 3 – Web Galleries** | Ceiling-high webs, cocoons holding prisoners (some alive). Webs count as difficult terrain and restrain on failed Dex save DC 13. | 2d4 **Plague Crawlers**, 1 **Unique Mini-boss: Sister Lycandra** (revenant rogue), plus random captive rescue event. |
-| **Catacombs 4 – The Bearing Crypts** | Pillars carved with screaming faces; runes pulse with green fire. Lair wards empower demons (+2 AC) until four pylons destroyed. | 1 **Pit Lord Echo** (use *Barbed Devil*), 1 **Corrupt High Priestess**, environmental pillar explosions. |
-}}
-
-{{descriptive,wide
-##### Optional Operations
-
-- **Purify Altars:** Each level contains a desecrated altar. Spending 10 minutes and succeeding on a DC 15 Religion check removes a point from the Alarm Meter or grants a d4 Inspiration die usable in the Catacombs.
-- **Rescue Survivors:** Cocoons and cells contain surviving Rogues, artisans, or townsfolk. Freeing at least five grants the party a permanent +1 bonus to Persuasion checks with Sisterhood NPCs in future acts.
-- **Disable Venom Vats:** Destroying vats on Catacombs 2 reduces Andariel’s Poison Nova damage by 1d6 per vat.
-- **Secure War Spoils:** Locked reliquaries hold scrolls, holy water, and unique arrows. For every two reliquaries opened (Dex DC 14 or knock spell), Charsi can craft an additional masterwork upgrade during Act II downtime.
-- **Scout Exit Routes:** A DC 15 Survival check per level identifies safe retreat paths. If the party needs to withdraw, they gain advantage on initiative while fleeing and avoid getting trapped by collapsing tunnels.
-}}
-
-{{descriptive,wide
-##### Andariel’s Sanctum
-
-The final chamber is a cavernous cistern beneath the Cathedral. Webs stretch between obsidian columns. Rivers of poison drip from the ceiling into blood-filled fonts. Four rune-lit braziers empower Andariel; each can be extinguished with holy water or a DC 15 Athletics check to topple it (deals 3d6 fire damage to adjacent creatures). The floor forms a sigil-channel; crossing the lines without neutralizing them deals 1d6 psychic damage per square.
-
-Read or paraphrase:
-
-*"The air itself tastes bitter. Green vapors coil around a towering silhouette—four arms, barbed legs, a crown of horns slick with venom. Her voice is a whisper across your skin: 'Anguish will teach you obedience.' The braziers flare, and the Maiden of Anguish strikes."*
-}}
-
-{{monster,frame,wide
-## Andariel, Maiden of Anguish
-*Large fiend (demon), chaotic evil*
-___
-**Armor Class** :: 19 (*chitinous hide*)  
-**Hit Points** :: 230 (20d10 + 120)  
-**Speed** :: 40 ft., climb 30 ft.
-___
-| STR | DEX | CON | INT | WIS | CHA |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| 22 (+6) | 18 (+4) | 22 (+6) | 16 (+3) | 16 (+3) | 20 (+5) |
-___
-**Saving Throws** :: Dex +9, Con +11, Wis +8, Cha +10  
-**Skills** :: Insight +8, Intimidation +10, Perception +8, Religion +8  
-**Damage Resistances** :: cold, fire, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks  
-**Damage Immunities** :: poison  
-**Condition Immunities** :: charmed, frightened, poisoned  
-**Senses** :: truesight 60 ft., darkvision 120 ft., passive Perception 18  
-**Languages** :: Abyssal, Common, telepathy 120 ft.  
-**Challenge** :: 11 (7,200 XP) {{bonus **Proficiency Bonus** +4}}
-___
-### Traits
-***Aura of Anguish.*** Creatures that start their turn within 20 feet of Andariel must succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened until the end of their turn. A creature that succeeds is immune to the aura for 24 hours.  
-:
-***Spider Queen.*** Andariel can move through webs without impediment and climb difficult surfaces, including upside down, without needing to make an ability check.  
-:
-***Venomous Blood.*** When a creature within 5 feet hits Andariel with a melee attack, it takes 5 (1d10) poison damage.  
-:
-***Limited Magic Resistance.*** Andariel has advantage on saving throws against spells, and she forces disadvantage on concentration checks triggered by her damage.
-
-___
-### Actions
-***Multiattack.*** Andariel makes two *Poison Lance* attacks or one *Poison Lance* attack and one *Tail Impale*.  
-:
-***Poison Lance.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8 + 6) piercing damage plus 14 (4d6) poison damage, and the target must succeed on a DC 17 Constitution saving throw or become poisoned for 1 minute. While poisoned this way, the target also takes 7 (2d6) poison damage at the start of each of its turns. The target can repeat the save at the end of each of its turns, ending the effect on a success.  
-:
-***Tail Impale.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 13 (2d6 + 6) piercing damage plus 9 (2d8) psychic damage, and the target must succeed on a DC 17 Strength saving throw or be restrained (escape DC 17).  
-:
-***Poison Nova (Recharge 5–6).*** Andariel releases a 40-foot-radius burst of toxic mist. Each creature in the area must make a DC 17 Constitution saving throw, taking 35 (10d6) poison damage on a failed save, or half as much on a success. Creatures that fail are also poisoned until the end of their next turn.  
-:
-***Summon Tormented (1/Day).*** Andariel summons 1d4 *Tormented Souls* (use Wraith stat block) in unoccupied spaces within 30 feet. The souls act on her initiative, immediately after her turn.
-
-___
-### Legendary Actions
-Andariel can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. She regains spent legendary actions at the start of her turn.
-
-***Anguished Step.*** Andariel moves up to half her speed without provoking opportunity attacks.  
-***Venom Spray.*** Andariel targets one creature she can see within 30 feet; the target must succeed on a DC 17 Dexterity saving throw or take 9 (2d8) poison damage and be coated in venom, granting advantage to the next attack against it before Andariel’s next turn.  
-***Tail Whip (Costs 2 Actions).*** Andariel makes one *Tail Impale* attack.  
-***Agony Pulse (Costs 3 Actions).*** Each creature of her choice within 20 feet must succeed on a DC 17 Wisdom saving throw or take 11 (2d10) psychic damage and be pushed 10 feet.
-
-___
-### Lair Actions
-On initiative count 20 (losing initiative ties), Andariel can use one of the following lair actions while in her chamber:
-1. **Poison Jets.** Two vents erupt, targeting up to two creatures within 60 feet. Each must make a DC 17 Dexterity saving throw, taking 10 (3d6) poison damage on a failure, or half on a success.  
-2. **Web Snare.** Sticky webs shoot from the ceiling, forcing each creature of Andariel’s choice within 30 feet to make a DC 16 Strength saving throw or be restrained until the end of its next turn.  
-3. **Torment Echo.** Whispering voices fill the lair. Creatures that fail a DC 15 Wisdom saving throw cannot benefit from temporary hit points until the next round.
-}}
-
-{{descriptive,wide
-##### Combat Phases & Tactics
-
-**Phase 1 – Anguish Rising (Full HP to 150 HP):**
-- Andariel controls space with Poison Lance reach, pushing intruders into poisonous rivulets.
-- She focuses on spellcasters and healers, forcing concentration checks via Tail Impale.
-- Braziers grant her +2 AC and resistance to radiant damage until extinguished.
-
-**Phase 2 – Venom Flood (150 HP to 70 HP):**
-- Poison Nova recharges faster (roll with advantage) if at least one venom vat remains intact.
-- Tormented Souls harass backliners; destroying a soul weakens the aura for a round.
-- Web Snare lair action triggers automatically every other round unless the party burned the webs earlier (torch, alchemist’s fire, etc.).
-
-**Phase 3 – Desperation (70 HP and below):**
-- Andariel gains advantage on attacks against frightened targets.
-- She uses Anguished Step to reposition after each legendary Tail Whip, dragging heroes into acid pools.
-- If reduced to 0 HP while at least one braizer is active, she instead explodes into toxic mist, dropping to 1 HP and immediately using Poison Nova (this can happen only once).
-
-**Tactical Advice:**
-- Encourage players to coordinate: extinguish braziers, destroy pylons, and use holy water to suppress Aura of Anguish (grants advantage vs. the aura for 1 round).
-- Remind them that the Alarm Meter influences reinforcement waves; high alarm might add extra Tormented Souls each round.
-}}
-
-{{descriptive,wide
-##### Completion & Rewards
-
-When Andariel dies, her body collapses into ash and tar. The braziers gutter out, and the catacombs’ oppressive pressure releases in a roar of wind. Akara arrives with a contingent of Rogues to sanctify the altar—if the party purified altars earlier, the ritual completes in minutes; otherwise it becomes a longer downtime scene (opportunity for roleplay and skill checks).
-
-**Loot Suggestions:**
-- **Rogue’s Vengeance (Unique Bow):** +1 longbow; once per short rest, its wielder can add 2d6 poison or radiant damage to a hit.
-- **Veil of Anguish (Crown):** Grants resistance to psychic damage and advantage on saving throws against frightened, but imposes disadvantage on Wisdom (Insight) checks while worn.
-- **Blood of the Maiden (Potion):** As *heroism* spell plus immunity to poison for 1 hour.
-- Treasure hoard worth 1,000 gp in gold, gems, and relics suitable for Act II trade; roll twice on the Magic Item Table F for additional rewards.
-
-**NPC Reactions:**
-- **Akara:** *"Your courage has restored the Sisterhood’s heart. We will keep this ground holy in your absence."*
-- **Kashya:** *"Andariel’s head will hang above our gate, a warning to every demon that still breathes."*
-- **Charsi:** *"With the forge and the catacombs cleansed, we can start rebuilding. I’ll keep crafting while you’re gone."*
-- **Deckard Cain:** *"Sanctuary endures another day. Now we must face what lies beyond the desert."*
-- **Warriv:** *"Pack your belongings. The caravan rolls at dawn."*
-}}
-
-{{descriptive,wide
-##### Epilogue: Warriv’s Caravan
-
-After a night of solemn celebration, Warriv assembles the caravan at the Encampment gate. Wagons creak under the weight of salvaged weapons, rescued refugees, and the hopes of an entire region. Run the following beats:
-
-- **Farewell Feast:** Rogues share smoked venison and watered wine. Each NPC offers a final toast or personal request (Akara asks the party to send word if they find surviving sisters in the East; Charsi begs for exotic metals; Kashya promises to hold the Monastery).
-- **Warriv’s Oath:** *"The road to Lut Gholein is long, treacherous, and full of stories. While you ride with me, you ride under my protection. Once we reach the jewel of the desert, your war continues—just with new enemies."*
-- **Travel Hook:** The caravan departs at sunrise. Describe the party looking back at the Rogue Encampment, now lit with fresh braziers and hopeful banners, before turning east toward the deserts. End Act I here, or fast-forward to the Lut Gholein docking area to open Act II.
-}}
-
-{{descriptive,wide
-##### Game Master Notes
-
-**Quest Difficulty:** Deadly. Expect multiple long rests across safe nodes or return trips to camp.
-
-**Scaling Tips:**
-- For weaker parties, reduce Poison Nova damage (8d6) and remove one lair action option.
-- For veteran tables, add scripted reinforcements every 3 rounds (1d4 Corrupt Zealots) and increase Andariel’s HP to 260.
-- Allow players to leverage previous side quests—freed prisoners, captured intel, or alliances can negate certain hazards entirely.
-
-**Teaching Moments:**
-- **Resource Exhaustion:** Long dungeon gauntlets test rationing of spells, hit dice, and consumables.
-- **Environmental Combat:** Braziers, poison vats, and webs emphasize objective-based fights.
-- **Narrative Payoff:** This quest should resolve NPC arcs (Charsi’s guilt, Kashya’s leadership, Akara’s faith) while seeding Act II mysteries.
-
-**Failure States:**
-- If the party retreats, Andariel fortifies the catacombs (new traps, higher alarm). Provide story consequences: more refugees die, Kashya loses scouts, etc., but keep the quest winnable.
-- If Andariel escapes (she can plane shift at 25 HP if the GM wishes), she becomes a recurring nemesis in Act II+.
-
-**Transition to Act II:**
-- Warriv’s caravan takes 10 days to reach Lut Gholein. Use the journey for downtime scenes, travel encounters, or Act II foreshadowing (visions from Deckard, rogue desert scouts, rumors of Tal Rasha).
-- Begin Act II with the caravan cresting the dunes and the glittering city coming into view, or with the party already in Lut Gholein’s bazaar receiving their next hook.
-}}
-
-{{pageNumber,auto}}
-
-\page
 
 {{partCover}}
 
@@ -698,9 +188,11 @@ The last gasp of civilization—canvas tents flapping in a cold, uncanny wind, w
 {{pageNumber,auto}}
 
 \page
+
 {{wide
 ### Act 1 - The Sisterhood of the Sightless Eye
 }}
+
 {{imageMaskEdge5,--offset:-5%,--rotation:0
   ![](https://i.redd.it/1firp67htpd61.png){position:absolute,bottom:0,left:-350px,height:100%,opacity:0.6}
 }}
@@ -737,6 +229,12 @@ Despite their losses, the encampment is home to a handful of key figures, each p
 
 These few, along with the handful of other Rogues who escaped the Monastery, are all that remain of what was once a proud and powerful order. Each has lost friends, family, everything they held dear. But they refuse to surrender, and in that refusal, there is strength—and perhaps, hope.
 }}
+
+{{pageNumber,auto}}
+
+\page
+
+(Artwork needed for this page.)
 
 {{pageNumber,auto}}
 
@@ -1164,8 +662,6 @@ ___
 
 \page
 
-\page
-
 {{partCover}}
 
 # II
@@ -1262,7 +758,7 @@ The Den of Evil is home to:
 - **Fallen** (the primary threat)
 - **Fallen Shaman** (can resurrect Fallen companions—priority target)
 - **Zombies** (undead horrors)
-- **Gargantuan Beasts** (see page XX for stats)
+- **Gargantuan Beasts** (if using these creatures—see page XX for stats)
 
 **Strategy Note:** At this early stage of the adventure, the party should be cautious and well-prepared. The Fallen Shamans are particularly dangerous, as they can resurrect their Fallen companions. Parties should prioritize eliminating the shamans before engaging their minions, lest the fallen enemies rise again to fight once more.
 
@@ -1284,7 +780,6 @@ The Den of Evil is home to:
 
 **Deep Chamber (Final Room):**
 - **3-4 Fallen** with **1 Fallen Shaman** and **1-2 Zombies**
-- **1 Gargantuan Beast** (see page XX for stats) - a massive creature that serves as the primary threat in this chamber
 - This is the largest concentration of enemies, making target prioritization crucial
 - **Corpsefire:** A powerful undead horror known as **Corpsefire** guards the deepest reaches of the Den, usually located at the end opposite the entrance (see stat block below). If the Game Master includes Corpsefire, he replaces or supplements the standard encounter here.
 - **Hidden Cache:** A careful search (DC 15 Investigation check) reveals a small cache hidden behind loose stones or within a crevice. It contains minor loot: 2d6 gold pieces, 1d4 potions of healing, and possibly a minor magic item (25% chance)
@@ -1549,7 +1044,7 @@ After clearing the Den of Evil, Akara directs the heroes to speak with Kashya. T
 
 When players speak with Kashya after completing Quest 1, she addresses them with urgency:
 
-**Kashya:** *"My Rogue scouts have just reported an abomination in the Burial Grounds!"* Her voice is sharp, urgent, the voice of someone reporting an immediate threat. *"Apparently, Andariel is not content to take only our living. Blood Raven, one of our finest captains in the battle against Diablo at Tristram, was also one of the first to be corrupted by Andariel. Now, you'll find her in the Burial Grounds raising our dead as zombies! We cannot abide this defilement! If you are truly our ally, you will help us destroy her."*
+**Kashya:** *"My Rogue scouts have just reported an abomination in the Monastery graveyard!"* Her voice is sharp, urgent, the voice of someone reporting an immediate threat. *"Apparently, Andariel is not content to take only our living. Blood Raven, one of our finest captains in the battle against Diablo at Tristram, was also one of the first to be corrupted by Andariel. Now, you'll find her in the Monastery graveyard raising our dead as zombies! We cannot abide this defilement! If you are truly our ally, you will help us destroy her."*
 
 If players ask for more information about Blood Raven:
 
@@ -1740,6 +1235,8 @@ If Blood Raven drops below 25 HP and has a clear escape route, she attempts to f
 - **Concealment:** Mausoleum and monuments provide full cover from ranged attacks
 }}
 
+{{pageNumber,auto}}
+
 \page
 
 {{descriptive,wide
@@ -1830,6 +1327,10 @@ She gestures to a group of Rogues nearby, all of them watching with solemn respe
 
 \page
 
+{{imageMaskEdge1,--offset:-33%,--rotation:0
+  ![](https://i.redd.it/1firp67htpd61.png){position:absolute,bottom:0,left:-200px,height:100%,opacity:0.6}
+}}
+
 {{wide
 # Quest 3: The Search for Cain
 
@@ -1862,7 +1363,7 @@ If players ask how to get to Tristram:
 
 *"You must find the sacred Tree of Inifuss and bring back its bark—or rather, a scroll carved from its bark. I will translate the runes to unlock the Stones' mystic pattern."*
 
-**Akara continues:** *"The Tree of Inifuss is located in the Dark Wood, which can be reached through the Underground Passage. The passage can be accessed from either the Cold Plains or the Stony Field. The tree is guarded by a powerful creature—Treehead Woodfist, they call him. A Gargantuan Beast of immense strength. You'll need to defeat him to obtain the scroll."*
+**Akara continues:** *"The Tree of Inifuss is located in the Dark Wood, which in turn is accessible only through the Underground Passage in the Stony Field. The tree is guarded by a powerful creature—Treehead Woodfist, they call him. A corrupted skeleton of immense strength. You'll need to defeat him to obtain the scroll."*
 
 *"Once you have the scroll, bring it to me. I can read the ancient runes and tell you the order in which to touch the Cairn Stones. Without that order, the portal cannot be opened."*
 
@@ -1877,6 +1378,8 @@ If players ask how to get to Tristram:
 **Warriv:** *"Months ago, I came across a few survivors from Tristram. They said that Cain had gone half-mad and could no longer distinguish fact from fantasy."*
 }}
 
+{{pageNumber,auto}}
+
 \page
 
 {{descriptive,wide
@@ -1884,17 +1387,17 @@ If players ask how to get to Tristram:
 
 **Quest Giver:** Akara (Rogue Encampment)
 
-**Location:** (Cold Plains OR Stony Field) → Underground Passage → Dark Wood → Rogue Encampment (translation) → Stony Field (Cairn Stones portal) → Tristram
+**Location:** Stony Field → Underground Passage → Dark Wood → Rogue Encampment (translation) → Stony Field (Cairn Stones portal) → Tristram
 
 **Objective:** Rescue Deckard Cain from the cursed town of Tristram by finding the Tree of Inifuss scroll, having it translated by Akara, activating the Cairn Stones portal, and fighting through the undead to reach him.
 
 **Completion Requirements:**
-- Travel to the Underground Passage (accessible from either the Cold Plains or the Stony Field)
+- Travel through the Stony Field to the Underground Passage
 - Journey through the Underground Passage to reach the Dark Wood
 - Locate the Tree of Inifuss and defeat Treehead Woodfist to obtain the Scroll of Inifuss
 - Return to the Rogue Encampment and give the scroll to Akara for translation
 - Return to the Stony Field and locate the Cairn Stones
-- (Optional) Defeat Rakanishu, a lightning-infused Carver who often prowls near the Cairn Stones
+- Defeat Rakanishu (guardian of the Cairn Stones)
 - Touch the Cairn Stones in the correct order (from Akara's translation) to open the portal
 - Navigate Tristram's ruins and reach Deckard Cain near the well
 - Rescue Deckard Cain (guarded by Champion monsters)
@@ -1914,15 +1417,15 @@ If players ask how to get to Tristram:
 {{descriptive,wide
 ##### The Journey to Dark Wood
 
-The path to the Dark Wood can be reached through the **Underground Passage**, which can be accessed from either the **Cold Plains** or the **Stony Field**. Both areas are dangerous—monsters roam freely, and the terrain is treacherous. See page XX for the Cold Plains and Stony Field encounter tables and area descriptions.
+The path to the Dark Wood begins in the **Stony Field**, a desolate landscape of broken rock and twisted earth. The journey itself is dangerous—monsters roam freely, and the terrain is treacherous. See page XX for the Stony Field encounter table and area description.
 
-The party must find the entrance to the **Underground Passage**, a network of tunnels that connects different areas. The passage is dark, claustrophobic, and filled with dangers. See page XX for the Underground Passage area description.
+From the Stony Field, the party must find the entrance to the **Underground Passage**, a network of tunnels that connects different areas. The passage is dark, claustrophobic, and filled with dangers. See page XX for the Underground Passage area description.
 
 The Underground Passage leads to the **Dark Wood**, a forest corrupted by demonic influence. The trees are twisted into unnatural shapes, and the canopy blocks out almost all light. The air is heavy with the smell of decay and corruption. See page XX for the Dark Wood area description.
 
 **Finding the Tree of Inifuss:**
 
-The Tree of Inifuss stands in the heart of the Dark Wood, a massive, gnarled tree that seems to pulse with dark energy. Its bark is black and twisted, and its branches reach out like claws. At its base, a massive creature stands guard—Treehead Woodfist, a Gargantuan Beast of immense power.
+The Tree of Inifuss stands in the heart of the Dark Wood, a massive, gnarled tree that seems to pulse with dark energy. Its bark is black and twisted, and its branches reach out like claws. At its base, a figure stands guard—Treehead Woodfist, a corrupted skeleton warrior of immense power.
 
 The tree itself is marked with ancient symbols, and a scroll is embedded in its trunk, protected by dark magic. The scroll can only be removed by defeating Treehead Woodfist, who has been bound to protect it.
 }}
@@ -1932,7 +1435,7 @@ The tree itself is marked with ancient symbols, and a scroll is embedded in its 
 
 As the party approaches the Tree of Inifuss, read or paraphrase the following:
 
-*The Tree of Inifuss looms before you, a monument to corruption and despair. It stands alone in a clearing, its branches reaching toward a sky it can no longer see. The ground around it is bare and blackened, as if nothing can grow in its shadow. At the base of the tree, a massive creature stands motionless—a Gargantuan Beast, larger than any you've seen before. Its hide is thick and gnarled like tree bark, and it holds a massive weapon that seems to be made of the same twisted wood as the tree itself. As you approach, the beast's head turns, its eyes fixing on you with malevolent intent. Treehead Woodfist has noticed you.*
+*The Tree of Inifuss looms before you, a monument to corruption and despair. It stands alone in a clearing, its branches reaching toward a sky it can no longer see. The ground around it is bare and blackened, as if nothing can grow in its shadow. At the base of the tree, a figure stands motionless—a skeleton, but larger than any you've seen before. Its bones are blackened and fused together in places, and it holds a massive weapon that seems to be made of the same twisted wood as the tree itself. As you approach, the skeleton's head turns, empty eye sockets fixing on you with malevolent intent. Treehead Woodfist has noticed you.*
 
 **Initial Encounter:**
 
@@ -1943,7 +1446,7 @@ Before reaching Treehead Woodfist, the party must deal with his minions:
 
 **The Boss Arena:**
 
-Treehead Woodfist stands at the base of the Tree of Inifuss, surrounded by his minions:
+Treehead Woodfist stands at the base of the Tree of Inifuss, surrounded by his undead minions:
 - **Treehead Woodfist** (see stat block below)
 - **1d4 Skeletons** positioned around the tree
 - **1d3 Zombies** emerging from the ground
@@ -1952,21 +1455,27 @@ Treehead Woodfist stands at the base of the Tree of Inifuss, surrounded by his m
 {{pageNumber,auto}}
 
 \page
-artwork here
+
+{{imageMaskEdge5,--offset:20cm,--rotation:0
+  ![Background image](https://i.imgur.com/iMsMHP0.png){position:absolute,bottom:0%,left:-14%,height:100%}
+}}
+
+{{pageNumber,auto}}
+
 \page
 
 {{imageMaskEdge6,--offset:0%,--rotation:180
-  ![](https://i.imgur.com/dza9jAQ.jpeg){height:60%,left:-10%,top:-1%}
+  ![](https://i.imgur.com/QMP0UJa.png){left:-7%,top:-1%}
 }}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 {{monster,frame,wide
 ## Treehead Woodfist
-*Large beast, chaotic evil*
+*Medium undead, chaotic evil*
 ___
 **Armor Class** :: 17 (*natural armor*)  
-**Hit Points** :: 95 (10d10 + 50)  
+**Hit Points** :: 95 (10d8 + 50)  
 **Speed** :: 30 ft.
 ___
 || STR | DEX | CON | INT | WIS | CHA |
@@ -1975,21 +1484,21 @@ ___
 ___
 **Saving Throws** :: Str +8, Con +8  
 **Skills** :: Athletics +8, Intimidation +2  
-**Damage Resistances** :: cold; bludgeoning, piercing, and slashing from nonmagical attacks  
+**Damage Resistances** :: necrotic; bludgeoning, piercing, and slashing from nonmagical attacks  
 **Damage Immunities** :: poison  
-**Condition Immunities** :: poisoned  
+**Condition Immunities** :: charmed, exhaustion, frightened, poisoned  
 **Senses** :: darkvision 60 ft., passive Perception 10  
 **Languages** :: understands Common but can't speak  
 **Challenge** :: 4 (1,100 XP) {{bonus **Proficiency Bonus** +2}}
 ___
 ### Traits
-***Unnatural Endurance.*** When Treehead Woodfist is reduced below half his hit points, he gains 10 temporary hit points.
+***Undead Fortitude.*** If damage reduces Treehead Woodfist to 0 hit points, he must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, Treehead Woodfist drops to 1 hit point instead.  
 :
-***Treebound.*** Treehead Woodfist is bound to the Tree of Inifuss. While within 30 feet of the tree, he has advantage on saving throws and regains 5 hit points at the start of each of his turns.
+***Treebound.*** Treehead Woodfist is bound to the Tree of Inifuss. While within 30 feet of the tree, he has advantage on saving throws and regains 5 hit points at the start of each of his turns.  
 :
-***Poisonous Strike.*** Treehead Woodfist's weapon attacks deal additional poison damage, and creatures hit by his attacks must make a DC 15 Constitution saving throw or be poisoned for 1 minute.
+***Poisonous Strike.*** Treehead Woodfist's weapon attacks deal additional poison damage, and creatures hit by his attacks must make a DC 15 Constitution saving throw or be poisoned for 1 minute.  
 :
-***Summon Minions.*** As a bonus action, Treehead Woodfist can cause 1d3 Skeletons to rise from the ground in unoccupied spaces within 30 feet of him. He can use this ability three times per day.
+***Summon Undead.*** As a bonus action, Treehead Woodfist can cause 1d3 Skeletons to rise from the ground in unoccupied spaces within 30 feet of him. He can use this ability three times per day.  
 ___
 ### Actions
 ***Multiattack.*** Treehead Woodfist makes two *Wooden Club* attacks.  
@@ -2008,7 +1517,7 @@ Treehead Woodfist can take 2 legendary actions, choosing from the options below.
 
 ***Strike.*** Treehead Woodfist makes one Wooden Club attack.
 
-***Command Minions.*** Treehead Woodfist uses his Summon Minions ability.
+***Command Undead.*** Treehead Woodfist uses his Summon Undead ability.
 }}
 
 {{pageNumber,auto}}
@@ -2050,7 +1559,7 @@ Once Treehead Woodfist is defeated, the dark magic protecting the tree fades. A 
 
 The party must return to the Rogue Encampment with the scroll. When they present it to Akara, she examines it carefully.
 
-**Akara:** *"Ah, very good. I have translated the runes on this scroll."* She unrolls the scroll, her fingers tracing the ancient symbols. *"You must find the Cairn Stones and touch them in the order that I have written."* She provides the party with a translated sequence—a specific order in which the stones must be touched. *"The Cairn Stones are located in the Stony Field, somewhere among the broken rocks and twisted earth. They form a circle, ancient and powerful. Rakanishu, a lightning-infused Carver, is often drawn to their energies—if he appears, dispatch him quickly before he disrupts the ritual."*
+**Akara:** *"Ah, very good. I have translated the runes on this scroll."* She unrolls the scroll, her fingers tracing the ancient symbols. *"You must find the Cairn Stones and touch them in the order that I have written."* She provides the party with a translated sequence—a specific order in which the stones must be touched. *"The Cairn Stones are located in the Stony Field, somewhere among the broken rocks and twisted earth. They form a circle, ancient and powerful. But be warned—the stones are guarded. Rakanishu, a lightning-infused Fallen Shaman, protects them. You'll need to defeat him before you can access the stones."*
 }}
 
 {{descriptive,wide
@@ -2060,7 +1569,7 @@ After obtaining Akara's translation, the party must return to the **Stony Field*
 
 **Rakanishu's Encounter:**
 
-As the party approaches the Cairn Stones, they may notice a figure moving among the rocks—a Carver larger and more dangerous than any they've encountered before. This is **Rakanishu**, a Super Unique Carver infused with lightning magic. He and his warband sometimes descend on the stones to ambush travelers, forcing anyone attempting the ritual to fend them off while the portal hums to life. This encounter is optional; the stones function regardless, but defeating Rakanishu grants extra loot and a memorable miniboss fight.
+As the party approaches the Cairn Stones, they'll notice a figure moving among the rocks—a Fallen Shaman larger and more dangerous than any they've encountered before. This is **Rakanishu**, a Super Unique Carver infused with lightning magic. He and his warband guard the stones, preventing anyone from accessing the portal.
 
 **Initial Encounter:**
 - **Rakanishu** (see stat block on next page) stands near the center of the stone circle
@@ -2069,17 +1578,19 @@ As the party approaches the Cairn Stones, they may notice a figure moving among 
 - The warband attacks immediately upon seeing the party
 }}
 
-{{imageMaskEdge6,--offset:0%,--rotation:180
-  ![](https://i.imgur.com/dza9jAQ.jpeg){height:60%,left:-10%,top:-1%}
-}}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+{{pageNumber,auto}}
 
 \page
 
+{{imageMaskEdge6,--offset:0%,--rotation:180
+  ![](https://i.imgur.com/FQWRg1B.png){left:-7%,top:-1%}
+}}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 {{monster,frame,wide
 ## Rakanishu
-*Small fiend (demon, carver), chaotic evil*
+*Small fiend (demon), chaotic evil*
 ___
 **Armor Class** :: 15 (*natural armor*)  
 **Hit Points** :: 65 (10d6 + 30)  
@@ -2101,20 +1612,20 @@ ___
 ### Traits
 ***Lightning Enchanted.*** Rakanishu's weapon attacks deal additional lightning damage. In addition, when Rakanishu takes lightning damage, he can use his reaction to gain resistance to that damage and deal 7 (2d6) lightning damage to each creature within 5 feet of him.  
 :
-***Lightning Nova (Recharge 5–6).*** As an action, Rakanishu creates a burst of lightning energy. Each creature within 15 feet of him must make a DC 14 Dexterity saving throw, taking 14 (4d6) lightning damage on a failed save, or half as much on a success.
+***Shamanic Revivification.*** As an action, Rakanishu can attempt to revive a dead Fallen within 30 feet of him. The Fallen returns to life with 1 hit point and acts immediately on Rakanishu's turn. Rakanishu can use this ability once per turn.  
 :
-***Teleport (3/Day).*** As a bonus action, Rakanishu can teleport up to 30 feet to an unoccupied space he can see.
+***Lightning Nova (Recharge 5–6).*** As an action, Rakanishu creates a burst of lightning energy. Each creature within 15 feet of him must make a DC 14 Dexterity saving throw, taking 14 (4d6) lightning damage on a failed save, or half as much on a success.  
+:
+***Teleport (3/Day).*** As a bonus action, Rakanishu can teleport up to 30 feet to an unoccupied space he can see.  
 ___
 ### Actions
-***Multiattack.*** Rakanishu makes two melee attacks or two ranged attacks.
+***Multiattack.*** Rakanishu makes two melee attacks or two ranged attacks.  
 :
-***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage plus 7 (2d6) lightning damage.
+***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage plus 7 (2d6) lightning damage.  
 :
-***Throwing Spear.*** *Ranged Weapon Attack:* +6 to hit, range 20/60 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage plus 7 (2d6) lightning damage.
+***Lightning Bolt.*** *Ranged Spell Attack:* +6 to hit, range 60 ft., one target. *Hit:* 10 (3d6) lightning damage.  
 :
-***Lightning Bolt.*** *Ranged Spell Attack:* +6 to hit, range 60 ft., one target. *Hit:* 10 (3d6) lightning damage.
-:
-***Summon Fallen (1/Day).*** Rakanishu calls forth 2d4 **Fallen** in unoccupied spaces within 30 feet of him. The Fallen act immediately after Rakanishu in the initiative order and are under his control.
+***Summon Fallen (1/Day).*** Rakanishu calls forth 2d4 **Fallen** in unoccupied spaces within 30 feet of him. The Fallen act immediately after Rakanishu in the initiative order and are under his control.  
 ___
 ### Legendary Actions
 
@@ -2122,9 +1633,9 @@ Rakanishu can take 2 legendary actions, choosing from the options below. Only on
 
 ***Move.*** Rakanishu moves up to his speed without provoking opportunity attacks, or uses his Teleport ability.
 
-***Strike.*** Rakanishu makes one claw attack, Throwing Spear attack, or Lightning Bolt attack.
+***Strike.*** Rakanishu makes one claw attack or Lightning Bolt attack.
 
-***Command Fallen.*** Rakanishu commands all Fallen within 30 feet to move up to their speed and make one attack.
+***Command Fallen.*** Rakanishu uses his Shamanic Revivification trait or commands all Fallen within 30 feet to move up to their speed and make one attack.
 }}
 
 {{pageNumber,auto}}
@@ -2167,12 +1678,13 @@ At low health, Rakanishu becomes reckless:
 - **Lightning Conduits:** If Rakanishu touches the stones, they may crackle with energy (GM can add environmental effects)
 }}
 
+{{pageNumber,auto}}
 \page
 
 {{descriptive,wide
 ##### Opening the Portal:
 
-Once the party secures the clearing—defeating Rakanishu and his warband if they appear—they can focus on the Cairn Stones. Using Akara's translation, they must touch each stone in the correct order. The Game Master should provide the sequence based on Akara's instructions. For a more interactive experience, the GM can require players to follow the translated sequence carefully, with incorrect touches causing minor effects (small sparks, a sense of wrongness) before they get it right.
+Once Rakanishu and his warband are defeated, the party can access the Cairn Stones. Using Akara's translation, they must touch each stone in the correct order. The Game Master should provide the sequence based on Akara's instructions. For a more interactive experience, the GM can require players to follow the translated sequence carefully, with incorrect touches causing minor effects (small sparks, a sense of wrongness) before they get it right.
 
 When touched in the correct order, read or paraphrase:
 
@@ -2209,15 +1721,21 @@ Deckard Cain can be found near the **well** in the center of Tristram. The well 
 
 **Griswold** can be found in or near the old church/cathedral. He is Tristram's former blacksmith, now an undead horror. He stands hammering at an anvil that no longer exists, lost in the memory of his former life. The party may encounter him while searching for Cain, but he is not required to be defeated to rescue Cain.
 
-**Wirt** can be found near his old pen—long dead, his small body slumped beside the ashes of his campfire. He no longer bargains; instead, searching his remains yields **Wirt's Leg** (useful for future rituals) and a stash of gold hidden beneath his corpse. This grim discovery should reinforce how completely Tristram fell.
+**Wirt** may also be found in Tristram—a corpse merchant who sells rare items for exorbitant prices. He's already dead but still conducts business with dark humor. (The GM can include Wirt as an optional encounter if desired.)
 }}
 
 \page
-artwork here
+
+{{imageMaskEdge5,--offset:20cm,--rotation:180
+  ![Background image](https://i.imgur.com/ZVRjWlp.png){position:absolute,bottom:0%,left:-14%,height:100%}
+}}
+
+{{pageNumber,auto}}
+
 \page
 
 {{imageMaskEdge6,--offset:0%,--rotation:180
-  ![](https://i.imgur.com/dza9jAQ.jpeg){height:60%,left:-10%,top:-1%}
+  ![](https://i.imgur.com/oEAiXFx.png){left:-10%,top:-30%}
 }}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -2392,19 +1910,19 @@ Cain establishes himself in the encampment, setting up a small tent near Akara's
 **Encounter Balancing:**
 - Adjust Treehead Woodfist's minion count based on party size (add 1-2 skeletons per party member beyond 4)
 - For smaller parties (2-3), reduce Treehead Woodfist's legendary actions to 1 instead of 2
-- If you include the Rakanishu encounter, adjust his warband based on party size (add 1 Fallen per party member beyond 4)
+- Rakanishu's warband should be adjusted based on party size (add 1 Fallen per party member beyond 4)
 - For smaller parties (2-3), reduce Rakanishu's legendary actions to 1 instead of 2
 - Champion monsters guarding Cain can be adjusted—use 3-4 for a party of 4, add 1-2 per additional party member
 - Griswold is an optional encounter; consider allowing players to bypass him if they're clever (stealth, distraction, etc.)
 - If players struggle, reduce the number of undead in Tristram, or allow Cain to provide some assistance
-- If Rakanishu appears, consider giving players advantage on attacks if they use lightning-resistant tactics or ground him to prevent teleportation
+- Consider giving players advantage on attacks against Rakanishu if they use lightning-resistant tactics or ground him to prevent teleportation
 
 **Teaching Moments:**
 - **Multi-Area Travel:** This quest introduces the concept of traveling through multiple areas to reach an objective, teaching players to prepare for extended journeys
 - **Return to Base:** Players must return to the encampment for translation, introducing the concept of using the encampment as a hub for resupply, information, and quest progression
 - **Puzzle Mechanics:** The Cairn Stones sequence teaches players to follow instructions carefully and solve puzzles through observation and interaction
 - **Portal Magic:** Players learn about portal mechanics and how to use magical items and sequences to access new areas, expanding their understanding of the world's magical properties
-- **Boss Variety:** Treehead Woodfist, optional Rakanishu, and optional Griswold have different combat styles, teaching players to adapt their tactics to different enemy types
+- **Boss Variety:** Treehead Woodfist, Rakanishu, and optional Griswold have different combat styles, teaching players to adapt their tactics to different enemy types
 - **NPC Protection:** Players must protect Cain during the escape from Tristram, introducing the challenges and rewards of protecting a non-combatant during dangerous situations
 - **Resource Management:** This is a long quest with multiple encounters; players must manage spell slots, hit points, and abilities carefully across an extended adventure
 
@@ -2412,7 +1930,7 @@ Cain establishes himself in the encampment, setting up a small tent near Akara's
 - Akara's request shows her wisdom and desperation—she recognizes they need Cain's knowledge
 - Warriv's comment about Cain being "half-mad" adds mystery and tension
 - The translation sequence allows for interaction with Akara and showcases her role as translator/guide
-- If you stage the Rakanishu encounter, his lightning-infused nature provides opportunities for environmental storytelling (lightning storms, crackling stones)
+- Rakanishu's lightning-infused nature provides opportunities for environmental storytelling (lightning storms, crackling stones)
 - Griswold's tragic backstory can be explored through environmental storytelling (optional encounter)
 - Cain's rescue provides opportunities for exposition about the larger threat
 - Other NPCs react to Cain's arrival with hope and curiosity
@@ -2424,7 +1942,7 @@ Cain establishes himself in the encampment, setting up a small tent near Akara's
 ##### Game Master Notes (Continued)
 **Loot Suggestions:**
 - **Treehead Woodfist:** 5d10 gold pieces from his remains, 1d4 potions of healing, rare magic item (30% chance) found among his effects, gem or rune (20% chance) discovered nearby
-- **Rakanishu (optional encounter):** Weapons that deal lightning damage, 5d10 gold pieces, 1d3 potions of healing, rare magic item (25% chance), gem or rune (15% chance)
+- **Rakanishu:** Weapons that deal lightning damage, 5d10 gold pieces, 1d3 potions of healing, rare magic item (25% chance), gem or rune (15% chance)
 - **Champion Monsters (guarding Cain):** Each drops 2d10 gold pieces, 20% chance for a potion of healing, 10% chance for a magic item among their remains
 - **Griswold (optional):** Griswold's Edge (unique longsword—see page XX for full stats), 10d10 gold pieces, 2d4 potions of healing, rare magic item (40% chance), crafting materials suitable for smithing
 - **Tristram Exploration:** 3d10 gold pieces per building thoroughly searched, 1d2 potions of healing found in abandoned homes, chance for magic items (15% per building searched)
@@ -2458,13 +1976,13 @@ Cain establishes himself in the encampment, setting up a small tent near Akara's
 }}
 
 {{descriptive,wide
-##### Discovering the Moldy Tome
+##### Discovering the Forgotten Tower
 
-The party stumbles on the **Moldy Tome** while exploring the Stony Field (see area description). The book sits atop a stone pedestal, its pages fused with age and damp. When opened, runes flare briefly and the following inscription speaks aloud in a hollow whisper:
+The party discovers the **Forgotten Tower** while exploring the Black Marsh (see area description). The tower rises from the marsh like a shattered fang, its stones bleeding tar-black water. As they approach, they may find a **Moldy Tome** lying on the ground near the entrance or discover it inside the tower itself. The book sits upon a stone pedestal or among ruins, its pages fused with age and damp. When opened, runes flare briefly and the following inscription speaks aloud in a hollow whisper:
 
 *"A once-noble Countess was buried alive beneath the tower she had defiled with forbidden rites. Immolated by peasants, yet never slain, she and her treasure remain beneath the Black Marsh, waiting for the brave—or the foolish."*
 
-The tome crumbles into ash after being read, leaving behind a faint ember that points toward the Black Marsh. When the heroes return to camp, the Rogues react quickly.
+The tome crumbles into ash after being read, leaving behind a faint ember that points deeper into the tower. When the heroes return to camp, the Rogues react quickly.
 
 **Charsi:** *"So the stories are true. The Countess and her tower still stand out in the Black Marsh. If you're heading that way, keep an eye out for runes or strange alloys—I can work wonders with that stuff."*
 
@@ -2474,16 +1992,16 @@ The tome crumbles into ash after being read, leaving behind a faint ember that p
 {{descriptive,wide
 ##### Quest Objectives
 
-**Quest Trigger:** Reading the Moldy Tome (Stony Field)
+**Quest Trigger:** Discovering the Forgotten Tower in the Black Marsh (optional quest, can be found at any time)
 
-**Quest Givers:** Lore prompt (Moldy Tome), reinforced by Charsi and Deckard Cain
+**Quest Givers:** Lore prompt (discovery of tower or Moldy Tome found in Black Marsh), reinforced by Charsi and Deckard Cain
 
-**Location Chain:** Rogue Encampment → Stony Field (Moldy Tome site) → Dark Wood/Black Marsh border → Forgotten Tower → Tower Levels 1–5 → Countess’ Lair
+**Location Chain:** Rogue Encampment → Black Marsh → Forgotten Tower → Tower Levels 1–5 → Countess' Lair
 
 **Objectives:**
-- Follow the Moldy Tome’s guidance to locate the Forgotten Tower in the Black Marsh
+- Locate the Forgotten Tower in the Black Marsh (or discover it by finding the Moldy Tome nearby)
 - Descend through five procedurally dangerous levels, neutralizing demonic forces and corrupted Rogues
-- Confront and slay the **Countess** within the lowest chamber
+- Confront and slay the **Countess** within the lowest chamber (Tower Cellar Level 5)
 - Claim the **Runic Cache** and return with whatever intel or materials the Rogues can use
 
 **Completion Rewards:**
@@ -2497,10 +2015,14 @@ The tome crumbles into ash after being read, leaving behind a faint ember that p
 **Estimated Duration:** 3–4 hours (longer if each tower level is fully explored)
 }}
 
+{{pageNumber,auto}}
+
+\page
+
 {{descriptive,wide
 ##### Journey to the Black Marsh
 
-Leaving the Stony Field, the party must navigate the **Dark Wood** or **Cold Plains → Underground Passage → Black Marsh** chain. Emphasize worsening weather, ankle-deep mire, and demonic totems marking the Countess’ territory. Use the Black Marsh encounter table to wear down the party before they even see the tower.
+The party must navigate to the **Black Marsh**—accessible via the **Dark Wood** or through other connecting paths from earlier areas. Emphasize worsening weather, ankle-deep mire, and demonic totems marking the Countess' territory. Use the Black Marsh encounter table to wear down the party before they even see the tower. The Forgotten Tower can be discovered at any point during exploration of the Black Marsh.
 
 When the tower finally comes into view, read or paraphrase:
 
@@ -2543,6 +2065,10 @@ The final chamber is circular, with molten channels forming a pentagram around a
 - **Molten Channels:** Treat as difficult terrain; creatures that start their turn in the channel take 5 (1d10) fire damage
 - **Shadow Balcony:** A raised, broken balcony (20 ft up) from which archers (if any survived) can pester the party
 }}
+
+{{pageNumber,auto}}
+
+\page
 
 {{monster,frame,wide
 ## The Countess
@@ -2593,6 +2119,10 @@ The Countess can take 2 legendary actions, choosing from the options below. Only
 
 ***Rune Flare (Costs 2 Actions).*** The Countess detonates latent runes. Each creature of her choice within 15 feet must succeed on a DC 16 Dexterity saving throw or take 9 (2d8) fire damage and be pushed 10 feet.
 }}
+
+{{pageNumber,auto}}
+
+\page
 
 {{descriptive,wide
 ##### Looting the Runic Vault
@@ -2655,6 +2185,567 @@ Returning to the Rogue Encampment with news of the tower’s cleansing lifts mor
 
 \page
 
+
+{{wide
+# Quest 5: Tools of the Trade
+
+{{imageMaskEdge1,--offset:-33%,--rotation:0
+  ![](https://i.redd.it/1firp67htpd61.png){position:absolute,bottom:0,left:-200px,height:100%,opacity:0.6}
+}}
+
+::::::
+{{wide
+*This quest drags the party through the shattered Monastery complex to steal back the Horadric Malus from The Smith. It blends infiltration, hostage rescue, and a bruising boss fight that sets up the march on Andariel.*
+{color:#C9AD6A,background:#00000090,text-align:center}
+}}
+
+{{descriptive,wide
+##### Charsi's Plea
+
+Returning from the Forgotten Tower, the heroes find Charsi pacing beside her forge, soot-stained ledgers from the Countess’ vault spread across the anvil. The parchment details shipment schedules, demonic alloys, and one line circled over and over: *"Horadric Malus relocated to Barracks forge."* Charsi’s hands shake—not from fear, but from the realization that her teachers’ masterpiece still exists, even if it’s been twisted to serve Andariel.
+
+She explains that the Horadric Malus was the Sisterhood’s sacred hammer, a focus that lets her fold runes into steel, awaken latent sockets, and break the enchantments binding demonic alloys. Without it, she can only patch armor and pray. With it, she can arm the camp for the inevitable push into the Monastery. The quest is personal, but it is also strategic—the final assault on Andariel will fail if the heroes can’t keep pace with the weapons coming out of the corrupted forge.
+}}
+
+{{descriptive,wide
+##### Meeting Charsi
+
+When players speak with Charsi after Quest 4, she addresses them with anxious determination:
+
+**Charsi:** *"The Countess’ ledgers talked about a demon they just call The Smith. He hauled our Horadric Malus back into the Barracks and has been forging weapons for Andariel ever since. If we don’t steal it back, everything we do out there is just patchwork."*
+
+If players ask how to reach the Barracks:
+
+**Charsi:** *"Follow the Tamoe Highland to the Monastery Gate, push through the Outer Cloister, and you’ll smell the forge before you see it. The Barracks connect straight into the Jail—we used to move arms between them. Now they’re crawling with corrupted Rogues and Goatmen enforcers."*
+
+If players probe for tactical advice:
+
+**Charsi:** *"Those ledgers mention alarm gongs on every landing. Move quiet, kill the shamans first, and watch for pressure plates near the armories. If they ring that bell, The Smith will know you’re coming."*
+
+If players ask what she can do with the Malus:
+
+**Charsi:** *"Bring it home and I’ll rework one of your weapons or suits of armor for free. After that, every rune you find turns into something real—sockets, runewords, fire-hardened edges. I swear it."*
+
+**Charsi (Early Return without the Malus):** *"I know it’s a deathtrap. I also know we won’t survive Andariel without that hammer. Catch your breath if you need to, but we have to go back in there."*
+}}
+
+{{descriptive,wide
+##### Other NPCs’ Comments (After Initiating Quest)
+
+**Deckard Cain:** *"The Horadric Malus is more than a craftsperson’s tool. It channels patterns first taught to us by the angels. Beware The Smith—he was a mortal once, but the forge remade him into something that knows only pain."*
+
+**Akara:** *"The Barracks and Jail are soaked in the blood of my sisters. Cleanse that place if you can—free the captives, sanctify the armories, and bring the Malus back to hands that honor it."*
+
+**Kashya:** *"I can spare a scout to guide you through the Tamoe Highland, but once you breach the Cloister you’re on your own. Drop the gate chains or light a green flare if you need extraction. Otherwise, finish the job."*
+
+**Gheed:** *"I hear demons pay top coin for enchanted steel. If you find any... surplus... I know buyers. And if you happen across The Smith’s ledger, I’d pay handsomely for a look."*
+
+**Warriv:** *"The path east is narrower than ever. The Highland cliffs will funnel you straight to the gate—expect ambushes on the ridge, and don’t linger when the bells start ringing."*
+
+**Kashya (Early Return):** *"Every hour that hammer stays in demon hands is another hour they forge blades for our throats. Re-arm and get back in there."*
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{descriptive,wide
+##### Quest Objectives
+
+**Quest Giver:** Charsi (Rogue Encampment)
+
+**Location Chain:** Rogue Encampment → Tamoe Highland → Monastery Gate → Outer Cloister → Barracks → Smith's Forge Hall
+
+**Note:** The Barracks connects to the Jail, but The Smith and the Horadric Malus are located within the Barracks itself, not in the Jail.
+
+**Objective:** Retrieve the Horadric Malus from The Smith so Charsi can restore advanced crafting to the encampment.
+
+**Completion Requirements:**
+- Travel through the Tamoe Highland and breach the Monastery Gate (see page XX for area details)
+- Infiltrate or clear the Outer Cloister to reach the Barracks entrance
+- Navigate the Barracks workshops and adjoining Jail corridors while managing alarms and patrols
+- Defeat The Smith inside the forge hall and recover the Horadric Malus
+- Return the Malus to Charsi in the Rogue Encampment
+
+**Rewards:**
+- 300 XP per character
+- Horadric Malus unlocked: Charsi can now socket items, apply masterwork upgrades, and craft rune-enhanced gear (see below)
+- One free masterwork upgrade or socket per character
+- Access to demonsteel ingots, schematics, and unique loot from The Smith
+- Encampment morale boost: Kashya’s mercenaries gain +1 damage on their first attack in the next quest (optional rule)
+
+**Recommended Party Level:** 5 (after completing The Forgotten Tower)
+
+**Estimated Duration:** 3–4 hours of play (longer if the party sweeps every cell block)
+}}
+
+{{descriptive,wide
+##### The Road to the Monastery
+
+The trek from the Rogue Encampment to the Monastery is longer than any previous excursion. The party must:
+- Cross the **Black Marsh** or loop through the **Dark Wood** to reach the **Tamoe Highland**. Use the Highland encounter table (see page XX) to emphasize exposed ridgelines, goatman ambushes, and bitter winds that impose **DC 13 Constitution saves** every hour or suffer one level of exhaustion (optional).
+- Approach the **Monastery Gate** where corrupted Rogues have re-rigged the ballistae. A **DC 15 Dexterity (Stealth)** check lets the party bypass the gatehouse; failure triggers a volley (3d10 piercing, Dexterity save half) and raises the first alarm tick.
+- Navigate the **Outer Cloister**, now an open-air killing field. Treat each quadrant as difficult terrain filled with collapsed masonry and burning braziers. Secret postern doors (DC 15 Investigation) can drop the party directly into the Barracks mezzanine, rewarding scouting and use of Rogue allies.
+
+Encourage the heroes to secure fallback routes: jamming the gate chains, toppling siege ladders, or leaving chalk symbols for Kashya’s scouts grants advantage on future checks to retreat or bring reinforcements.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{descriptive,wide
+##### Barracks & Jail Crawl
+
+| Segment | Key Features & Hazards | Sample Encounters |
+|:--|:--|:--|
+| **Outer Cloister Entry** | Two-story walkways, arrow slits, alarm gongs on chains (DC 14 Thieves’ Tools to disarm). Difficult terrain from collapsed arches, brazier smoke imposes lightly obscured condition. | 2d4 **Corrupt Rogues** (mix melee/archer), 1 **Goatman Spearman**, 1 **Fallen Shaman** ringing the gong. |
+| **Barracks Workshops** | Rows of weapon racks, quenching troughs that vent scalding steam every other round (Dex save DC 13 or 2d6 fire). Pressure plates (DC 15 Perception) drop portcullises that split the party. | 1 **Corrupt Captain** with 1d4 **Rogue Trainees**, 1 **Gargantuan Beast** chained to the forge. |
+| **Forge Gallery** | Central hall leading to The Smith. Lava channels provide soft cover but deal 1d10 fire to creatures that start their turn adjacent. Cranes swing suspended blades (can be commandeered with DC 14 Strength). | 1 **Corrupt Sorceress**, 2d4 **Skeleton Smelters** (use skeleton stat block with fire damage), environmental hazard wave (falling chimney, etc.). |
+| **Upper Jail (Cells & Kennels)** | Rows of barred cells containing terrified refugees or corrupted prisoners. Unlocking cells (DC 14 Thieves’ Tools) without silencing wailing survivors raises alarm. Healing supplies stashed in infirmary (2d4 potions). | 1 **Dark Archer Warden**, 1d4 **Spike Fiends**, optional **Unique Prisoner** (ally or side quest). |
+| **Deep Cells & Arsenal** | Spiral stair to forge hall, rune-scribed doors, chanting from Hell-forged apprentices. Weapon racks grant +1 weapons for the encounter if claimed. Alarm lever beside the door triggers reinforcements every other round. | 2 **Burning Dead**, 1 **Corrupt Sorceress**, 1 **Hellforge Acolyte** (use acolyte with fire spells). |
+}}
+
+{{descriptive,wide
+##### Optional Goals & Complications
+
+- **Rescue Captives:** Freeing at least three imprisoned Rogues grants the party advantage on one future Stealth or Survival check inside the Monastery. Survivors also deliver intelligence for Quest 6.
+- **Sabotage the Forge:** A **DC 16 Intelligence (Arcana) or Strength (Athletics)** check disables the rune-powered bellows, imposing disadvantage on demon attack rolls for the rest of this quest and reducing Andariel’s reinforcements later.
+- **Secure Supply Caches:** Barracks arsenals hold 2d6 bundles of alchemist’s fire, tanglefoot bags, or holy water. Each cache requires a **DC 13 Investigation** to locate before they’re spirited deeper into the Jail.
+- **Silent Approach:** Tracking alarm ticks creates tension. After three alarms, reinforcements equal to 2d4 Corrupt Rogues arrive each round until the party reaches the forge. Reward clever timing, illusions, or disguises that keep the alarm below that threshold.
+- **Ledger Snatch:** The Smith’s desk contains manifests naming Andariel’s lieutenants. Delivering these to Deckard Cain grants advantage on lore checks in Quest 6 and unlocks bonus downtime rumors.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{descriptive,wide
+##### The Horadric Malus
+
+The Malus is a massive adamant hammer carved with ocular runes. When a hero lifts it from The Smith’s anvil, cold light flashes and every brazier in the forge gutters. Carrying it halves the weight of any nonmagical gear the bearer holds (holy buoyancy) but also makes them shed faint sparks—useful for tracking or dramatic lighting.
+
+**Workshop Benefits (after returning the Malus to Charsi):**
+- **Masterwork Temper (1/character):** Each hero chooses one weapon or suit of armor. Charsi upgrades it to a +1 item or adds a bespoke property (flaming, serrated, radiant, etc.) appropriate to the character’s concept.
+- **Socketcraft:** Charsi can now add one socket to any weapon/armor/shield per downtime week. Filling a socket requires runes or gems (see page XX for rune tables).
+- **Rune Fusion:** Combining at least two runes lets Charsi attempt proto-runewords. Spending 50 gp in materials and succeeding on a **DC 15 Smith’s Tools** check (rolled by the DM) grants an additional minor property.
+- **Commissioned Projects:** Future quests may require special gear (holy water grenades, blessed bolts, etc.). With the Malus, Charsi can craft such items at half cost and in half the downtime, giving the party a tangible edge heading into Quest 6.
+}}
+
+{{descriptive,wide
+##### The Smith Encounter
+
+The forge hall is a vaulted chamber where molten metal pours through rune-lined channels. The Smith stands at the center, chained to the anvil by choice, each swing sending shockwaves across the floor. When the party enters, read or paraphrase:
+
+*“Heat slams into you like a wall. Chains rattle overhead, glowing rivulets of metal trace sigils in the air, and a hulking figure turns to face you. Flesh fused with iron. Eyes like forge coals. In his fist, the Horadric Malus—perverted, yet still holy. The Smith bellows, and the walls answer.”*
+
+**Battlefield Features:**
+- **Molten Channels:** Difficult terrain; creatures that fall prone adjacent to a channel take 7 (2d6) fire damage.
+- **Hanging Chains:** Medium or smaller creatures can swing across the hall (DC 13 Athletics) to avoid lava or reach balconies. The Smith can rip a chain free as a legendary action.
+- **Runic Bellows:** A console near the entrance can be sabotaged (DC 15 Intelligence (Arcana)) to impose disadvantage on The Smith’s fire attacks for the rest of the fight.
+- **Weapon Racks:** Grabbing a blessed glaive or shield grants +1 to attack or AC for the encounter but takes an action.
+
+**Combat Phases:**
+- **Phase 1 – Slam Shock:** The Smith focuses on frontline characters, using Molten Rush to close gaps and knock foes prone. Reinforcement waves of 1d4 Burning Dead pour in every other round if the alarm was triggered.
+- **Phase 2 – Bellows Burst (below 60% HP):** He shatters the Malus’ bindings, causing magma splashes (Dex save DC 15 or 3d8 fire). He also begins hurling Cinderbursts down the length of the forge.
+- **Phase 3 – Enraged Tempest (below 30% HP):** The Smith ignites, gaining temporary hit points and attempting to grapple a character, dragging them toward the anvil for a coup de grâce. Destroying the rune pillars lining the walls (AC 15, 25 HP) ends this frenzy.
+
+Defeating him without destroying the Malus requires called shots (declare nonlethal intent) or a **DC 16 Dexterity (Sleight of Hand)** check at the start of the final blow to wrest the hammer away mid-swing.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{monster,frame,wide
+## The Smith
+*Large fiend (demon), chaotic evil*
+___
+**Armor Class** :: 17 (*hellforged plate*)  
+**Hit Points** :: 152 (16d10 + 64)  
+**Speed** :: 30 ft.
+___
+| STR | DEX | CON | INT | WIS | CHA |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| 23 (+6) | 12 (+1) | 18 (+4) | 9 (−1) | 14 (+2) | 15 (+2) |
+___
+**Saving Throws** :: Str +11, Con +8, Wis +6  
+**Skills** :: Athletics +11, Intimidation +6, Perception +6  
+**Damage Resistances** :: cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks  
+**Damage Immunities** :: poison  
+**Condition Immunities** :: charmed, frightened, poisoned  
+**Senses** :: darkvision 120 ft., passive Perception 16  
+**Languages** :: Common, Infernal  
+**Challenge** :: 7 (2,900 XP) {{bonus **Proficiency Bonus** +3}}
+___
+### Traits
+***Forge-Bound Hide.*** When The Smith takes fire damage, he gains 5 temporary hit points (stacking to a maximum of 20).  
+:
+***Molten Rush.*** When The Smith moves at least 15 feet straight toward a creature and hits it with a Great Maul attack on the same turn, the target must succeed on a DC 16 Strength saving throw or be knocked prone and take an extra 7 (2d6) fire damage.  
+:
+***Unstoppable.*** Difficult terrain doesn’t cost The Smith extra movement, and he can move through the space of a hostile creature that is Medium or smaller.
+
+___
+### Actions
+***Multiattack.*** The Smith makes two *Great Maul* attacks, or one *Great Maul* attack and one *Chain Drag* attack.  
+:
+***Great Maul.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) bludgeoning damage plus 7 (2d6) fire damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone.  
+:
+***Chain Drag (Recharge 5–6).*** The Smith lashes out with a hooked chain. One creature within 20 feet must make a DC 16 Strength saving throw. On a failed save, the creature is pulled up to 15 feet toward The Smith and takes 13 (3d8) slashing damage; on a success, the creature takes half damage and isn’t moved.  
+:
+***Cinderburst (Recharge 5–6).*** The Smith hurls molten slag in a 30-foot cone. Each creature in the area must make a DC 16 Dexterity saving throw, taking 27 (6d8) fire damage on a failed save, or half as much on a success. A creature that fails also catches fire, taking 5 (1d10) fire damage at the start of each of its turns until it or another creature uses an action to douse the flames.  
+:
+***Ignite the Bellows (1/Day).*** The Smith slams the anvil, empowering his forge. He gains 20 temporary hit points and each enemy within 10 feet must succeed on a DC 16 Constitution saving throw or be stunned until the end of their next turn.
+
+___
+### Legendary Actions
+The Smith can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The Smith regains spent legendary actions at the start of his turn.
+
+***Trample.*** The Smith moves up to 10 feet without provoking opportunity attacks.  
+***Backhand.*** The Smith makes one *Great Maul* attack.  
+***Rip Chain (Costs 2 Actions).*** The Smith tears a hanging chain loose. Each creature within 10 feet of that chain must make a DC 16 Dexterity saving throw or take 9 (2d8) bludgeoning damage and be restrained until the start of The Smith’s next turn.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{descriptive,wide
+##### Completion & Rewards
+
+When the party pries the Malus from demon hands, the forge keens like a bell. Flames flicker out, alarms fall silent, and any surviving prisoners bow in stunned relief. Carrying the hammer imposes disadvantage on Stealth checks (it hums audibly), but grants advantage on saving throws against fear effects as long as it is borne openly.
+
+Back in the Rogue Encampment, the reception is immediate:
+
+**Charsi:** *"I can feel the forge breathe again. Lay your gear out—I’ll start with the worst dents and work my way to miracles."*
+
+**Deckard Cain:** *"The Horadrim would be proud. With this tool restored, we can inscribe the runic blessings Andariel fears most."*
+
+**Akara:** *"The Monastery trembles; I can feel it. This is the turning point. Prepare yourselves—the Cathedral will not surrender easily."*
+
+**Kashya:** *"With those weapons, my Rogues might stand a chance in the Cloister halls. Say the word and we march on the Inner Cloister."*
+
+**Gheed:** *"Newly-forged steel floods the market? Music to my ears. If Charsi needs rare reagents, tell her Gheed knows people."*
+
+**Warriv:** *"Hope is a dangerous thing—but I’ll take danger over despair. When you head east, my caravan will be ready."*
+
+**Quest Rewards Recap:**
+- 300 XP per character
+- Horadric Malus returned; each hero receives one free upgrade or socket from Charsi
+- Access to new crafting menus: masterwork tempering, socketing, rune fusion (as described above)
+- Loot from The Smith’s forge: 3d6 x 10 gp in demonsteel bars, 1d4 potions of fire resistance, 25% chance of a unique weapon such as **The Smith’s Brand** (see magic items section)
+- Rescued prisoners provide intelligence that grants advantage on the first skill check made inside the Monastery during Quest 6
+
+With the forge reclaimed, Kashya and Akara formally brief the party on **Quest 6: Sisters to the Slaughter**, the assault on the Inner Cloister, Catacombs, and Andariel herself.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{descriptive,wide
+##### Game Master Notes
+
+**Quest Difficulty:** Hard (attrition-based gauntlet plus a CR 7 boss). Expect 4–6 medium encounters before The Smith.
+
+**Scaling Tips:**
+- Remove one patrol or legendary action for smaller/less-optimized parties.
+- Allow Kashya to loan a Rogue scout (use the *Scout* stat block) if the group lacks stealth or trap skills.
+- For hardened parties, add a second Hellforge Acolyte in the forge hall and increase The Smith’s hit points to 180.
+
+**Teaching Moments:**
+- Highlight infiltration vs. assault by tracking alarm ticks openly.
+- Showcase environmental hazards (lava, chains, pressure plates) to encourage creative tactics.
+- Introduce crafting as a reward loop: success unlocks new downtime options, failure keeps the party under-geared.
+
+**Loot Suggestions:**
+- **The Smith’s Brand:** +1 great maul that deals an extra 1d6 fire damage and casts *heat metal* (1/day).
+- **Runed Shackles:** Restrains a fiend for 1 minute (DC 15 Strength to break); invaluable for Andariel’s lieutenants.
+- **Demonsteel Ingots:** Each ingot counts as 75 gp worth of crafting materials when presented to Charsi.
+
+**Fail Forward:**
+- If the party retreats, increase the alarm level next time; reinforcements arrive sooner and The Smith gains advantage on initiative.
+- If the Malus is damaged, Akara can lead a purification ritual (skill challenge) that delays crafting but still moves the story forward.
+
+**Transition to Quest 6:**
+- Kashya convenes a war council once Charsi begins forging upgraded gear.
+- Akara senses Andariel’s anguish beneath the Cathedral, pointing the heroes toward the Catacombs.
+- Deckard Cain translates manifests recovered from the Barracks, providing tactical intel for the final assault.
+
+Completing Quest 5 should feel like flipping the campaign’s momentum—the heroes finally control the forge, and Sanctuary’s last defenders are ready to strike back.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+(artwork needed for this page.)
+
+{{pageNumber,auto}}
+
+\page
+
+# Quest 6: Sisters to the Slaughter
+
+{{imageMaskEdge1,--offset:-33%,--rotation:0
+  ![](https://i.imgur.com/ODVfHRd.jpeg){position:absolute,bottom:0,left:-160px,height:100%,opacity:0.65}
+}}
+
+:::::::::::::
+{{wide
+*The final push into the Monastery forces the party through ruined cloisters and blood-soaked catacombs to confront Andariel, the Maiden of Anguish. This quest closes Act I and launches the caravan east.*
+{color:#C9AD6A,background:#00000090,text-align:center}
+}}
+
+{{descriptive,wide
+##### War Council
+
+With the Horadric Malus restored, the Rogue Encampment convenes its first true war council since the fall of the Monastery. Kashya spreads hand-sketched floor plans across Charsi’s anvil while Akara places holy sigils at each choke point. Deckard Cain recites everything he remembers about Andariel’s rituals, and Charsi’s newly empowered forge spits sparks that feel like omens.
+
+The plan is simple only on paper: breach the Outer Cloister, secure the Inner Cloister courtyard, descend through Jail Levels 2–3 into the Inner Cloister proper, and then press through the Catacombs until Andariel’s sanctum is breached. Warriv offers his caravan as a mobile infirmary, backing it against the palisade so that wounded Rogues can be dragged away and those bound for Lut Gholein will have a ready transport.
+}}
+
+{{descriptive,wide
+##### Meeting the Leaders
+
+When players report in after Quest 5, run the following exchanges to set tone and stakes:
+
+**Akara:** *"The Maiden of Anguish festers beneath the Cathedral. She feeds on every loss we have suffered. Cleanse the catacombs and sever her link to the Hells. I will consecrate the altar once you are done."*
+
+**Kashya:** *"My scouts will keep the gate open, but we can’t hold it forever. Drop signal flares if you clear a level—we move forward only when you say it’s safe."*
+
+**Charsi:** *"I tempered your weapons to bite deep. Take these distilled oils—coat your blades before you enter the Catacombs and they’ll burn through demon flesh."* *(Each character gains two vials of Holy Oil; as a bonus action, apply to a weapon to add +1d4 radiant damage for 1 minute.)*
+
+**Deckard Cain:** *"Andariel is a creature of torment. Expect illusions, whispers, promises. Steel your minds as well as your bodies. I will be waiting at the gate to identify whatever relics you recover."*
+
+**Warriv:** *"Once she falls, we ride east. My caravan leaves with the dawn—you’ll have seats of honor."*
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{descriptive,wide
+##### Quest Objectives
+
+**Quest Trigger:** Completion of Quest 5 (Tools of the Trade) and briefing with Akara and Kashya
+
+**Quest Givers:** Akara (spiritual mandate), Kashya (military objective), Deckard Cain (lore support)
+
+**Location Chain:** Rogue Encampment → Tamoe Highland → Monastery Gate → Outer Cloister → Jail → Inner Cloister → Cathedral → Catacombs Levels 1–4 → Andariel's Lair (Catacombs Level 4)
+
+**Note:** The Barracks can be accessed from the Outer Cloister, but for Quest 6, players proceed directly through the Jail to reach the Inner Cloister and Cathedral. The Barracks area was already cleared during Quest 5.
+
+**Objective:** Kill Andariel and purge the Catacombs so the Sisterhood can reclaim the Monastery and Sanctuary can breathe again.
+
+**Completion Requirements:**
+- Secure the Outer Cloister so Kashya’s forces can establish a forward camp
+- Clear a path through the Jail and Inner Cloister to reach the Cathedral nave
+- Descend through Catacombs Levels 1–4, neutralizing ritual hotspots and venom vats
+- Defeat Andariel in her lair and consecrate the corrupted altar
+- Return to the Rogue Encampment, report success, and decide whether to travel east with Warriv
+
+**Rewards:**
+- 500 XP per character (plus Andariel’s XP value)
+- Access to Act II (travel to Lut Gholein via Warriv)
+- Unique loot from Andariel’s treasury (see Completion & Rewards)
+- Permanent morale bonus: Rogues at the Encampment gain +2 to attack rolls during any future defense scenes
+- Each character gains a **Favor of the Sisterhood** charm (grants advantage on one saving throw of the player’s choice during Act II)
+
+**Recommended Party Level:** 5–6
+
+**Estimated Duration:** 4–6 hours of play (multi-session finale)
+}}
+
+{{descriptive,wide
+##### Assault Blueprint
+
+The heroes can choose between a full-on assault (loud, fast, overwhelming) or a stealthy infiltration (slow, surgical, dependent on Recon tokens earned in previous quests). Track an **Alarm Meter** as in Quest 5; once it hits 3, Andariel becomes aware of the party and begins corrupting terrain in deeper levels (poison vents activate, reinforcements ripple through). Encourage players to spend downtime prepping traps, holy water, or alliances with rescued Rogues—each meaningful preparation can reduce the initial alarm by 1 or grant advantage on the first encounter of a floor.
+
+- **Outer Cloister:** Ruined courtyard with collapsing colonnades. Treat the area as difficult terrain until players secure it (Skill Challenge: Athletics, Acrobatics, Survival DC 14). Once cleared, Kashya station guards here, giving the party a safe short-rest node.
+- **Jail Levels 2–3:** Narrow corridors filled with torture implements turned into summoning foci. Environmental hazard: screaming walls impose Wisdom saves vs. fright each hour unless sanctified (Religion DC 15).
+- **Inner Cloister & Cathedral:** Sanctified once, now defiled. Desecrated fonts burst with poison if not sealed (Arcana or Medicine DC 14). Choir loft archers (Corrupt Rogues) pin the party unless dealt with quickly.
+- **Catacombs:** Four stacked dungeon levels, each thematically sharper (bones, fungus, slime, obsidian).
+}}
+
+\page
+
+{{descriptive,wide
+##### Catacomb Encounter Ladder
+
+| Level | Features & Hazards | Sample Encounters |
+|:--|:--|:--|
+| **Catacombs 1 – Reliquary** | Flickering braziers, fallen statues, holy relics coated in bile. Desecrated altars impose disadvantage on Wisdom saves until purified. | 1 **Corrupt Zealot Captain**, 2d4 **Skeleton Archers**, 1 **Wraith** phasing between pews. |
+| **Catacombs 2 – Venom Vats** | Pools of green toxin; each round, roll d6 to see if vapors surge (Con save DC 14 or take 2d6 poison). Destroy vats (30 HP each) to weaken Andariel. | 1 **Venom Sorceress**, 2 **Poison Spitters** (use *Giant Spider* template), hazard: rupturing vats. |
+| **Catacombs 3 – Web Galleries** | Ceiling-high webs, cocoons holding prisoners (some alive). Webs count as difficult terrain and restrain on failed Dex save DC 13. | 2d4 **Plague Crawlers**, 1 **Unique Mini-boss: Sister Lycandra** (revenant rogue), plus random captive rescue event. |
+| **Catacombs 4 – The Bearing Crypts** | Pillars carved with screaming faces; runes pulse with green fire. Lair wards empower demons (+2 AC) until four pylons destroyed. | 1 **Pit Lord Echo** (use *Barbed Devil*), 1 **Corrupt High Priestess**, environmental pillar explosions. |
+}}
+
+{{descriptive,wide
+##### Optional Operations
+
+- **Purify Altars:** Each level contains a desecrated altar. Spending 10 minutes and succeeding on a DC 15 Religion check removes a point from the Alarm Meter or grants a d4 Inspiration die usable in the Catacombs.
+- **Rescue Survivors:** Cocoons and cells contain surviving Rogues, artisans, or townsfolk. Freeing at least five grants the party a permanent +1 bonus to Persuasion checks with Sisterhood NPCs in future acts.
+- **Disable Venom Vats:** Destroying vats on Catacombs 2 reduces Andariel’s Poison Nova damage by 1d6 per vat.
+- **Secure War Spoils:** Locked reliquaries hold scrolls, holy water, and unique arrows. For every two reliquaries opened (Dex DC 14 or knock spell), Charsi can craft an additional masterwork upgrade during Act II downtime.
+- **Scout Exit Routes:** A DC 15 Survival check per level identifies safe retreat paths. If the party needs to withdraw, they gain advantage on initiative while fleeing and avoid getting trapped by collapsing tunnels.
+}}
+
+{{descriptive,wide
+##### Andariel’s Sanctum
+
+The final chamber is a cavernous cistern beneath the Cathedral. Webs stretch between obsidian columns. Rivers of poison drip from the ceiling into blood-filled fonts. Four rune-lit braziers empower Andariel; each can be extinguished with holy water or a DC 15 Athletics check to topple it (deals 3d6 fire damage to adjacent creatures). The floor forms a sigil-channel; crossing the lines without neutralizing them deals 1d6 psychic damage per square.
+
+Read or paraphrase:
+
+*"The air itself tastes bitter. Green vapors coil around a towering silhouette—four arms, barbed legs, a crown of horns slick with venom. Her voice is a whisper across your skin: 'Anguish will teach you obedience.' The braziers flare, and the Maiden of Anguish strikes."*
+}}
+
+\page
+
+{{monster,frame,wide
+## Andariel, Maiden of Anguish
+*Large fiend (demon), chaotic evil*
+___
+**Armor Class** :: 19 (*chitinous hide*)  
+**Hit Points** :: 230 (20d10 + 120)  
+**Speed** :: 40 ft., climb 30 ft.
+___
+| STR | DEX | CON | INT | WIS | CHA |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| 22 (+6) | 18 (+4) | 22 (+6) | 16 (+3) | 16 (+3) | 20 (+5) |
+___
+**Saving Throws** :: Dex +9, Con +11, Wis +8, Cha +10  
+**Skills** :: Insight +8, Intimidation +10, Perception +8, Religion +8  
+**Damage Resistances** :: cold, fire, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks  
+**Damage Immunities** :: poison  
+**Condition Immunities** :: charmed, frightened, poisoned  
+**Senses** :: truesight 60 ft., darkvision 120 ft., passive Perception 18  
+**Languages** :: Abyssal, Common, telepathy 120 ft.  
+**Challenge** :: 11 (7,200 XP) {{bonus **Proficiency Bonus** +4}}
+___
+### Traits
+***Aura of Anguish.*** Creatures that start their turn within 20 feet of Andariel must succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened until the end of their turn. A creature that succeeds is immune to the aura for 24 hours.  
+:
+***Spider Queen.*** Andariel can move through webs without impediment and climb difficult surfaces, including upside down, without needing to make an ability check.  
+:
+***Venomous Blood.*** When a creature within 5 feet hits Andariel with a melee attack, it takes 5 (1d10) poison damage.  
+:
+***Limited Magic Resistance.*** Andariel has advantage on saving throws against spells, and she forces disadvantage on concentration checks triggered by her damage.
+
+___
+### Actions
+***Multiattack.*** Andariel makes two *Poison Lance* attacks or one *Poison Lance* attack and one *Tail Impale*.  
+:
+***Poison Lance.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8 + 6) piercing damage plus 14 (4d6) poison damage, and the target must succeed on a DC 17 Constitution saving throw or become poisoned for 1 minute. While poisoned this way, the target also takes 7 (2d6) poison damage at the start of each of its turns. The target can repeat the save at the end of each of its turns, ending the effect on a success.  
+:
+***Tail Impale.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 13 (2d6 + 6) piercing damage plus 9 (2d8) psychic damage, and the target must succeed on a DC 17 Strength saving throw or be restrained (escape DC 17).  
+:
+***Poison Nova (Recharge 5–6).*** Andariel releases a 40-foot-radius burst of toxic mist. Each creature in the area must make a DC 17 Constitution saving throw, taking 35 (10d6) poison damage on a failed save, or half as much on a success. Creatures that fail are also poisoned until the end of their next turn.  
+:
+***Summon Tormented (1/Day).*** Andariel summons 1d4 *Tormented Souls* (use Wraith stat block) in unoccupied spaces within 30 feet. The souls act on her initiative, immediately after her turn.
+
+___
+### Legendary Actions
+Andariel can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. She regains spent legendary actions at the start of her turn.
+
+***Anguished Step.*** Andariel moves up to half her speed without provoking opportunity attacks.  
+***Venom Spray.*** Andariel targets one creature she can see within 30 feet; the target must succeed on a DC 17 Dexterity saving throw or take 9 (2d8) poison damage and be coated in venom, granting advantage to the next attack against it before Andariel’s next turn.  
+***Tail Whip (Costs 2 Actions).*** Andariel makes one *Tail Impale* attack.  
+***Agony Pulse (Costs 3 Actions).*** Each creature of her choice within 20 feet must succeed on a DC 17 Wisdom saving throw or take 11 (2d10) psychic damage and be pushed 10 feet.
+
+___
+### Lair Actions
+On initiative count 20 (losing initiative ties), Andariel can use one of the following lair actions while in her chamber:
+1. **Poison Jets.** Two vents erupt, targeting up to two creatures within 60 feet. Each must make a DC 17 Dexterity saving throw, taking 10 (3d6) poison damage on a failure, or half on a success.  
+2. **Web Snare.** Sticky webs shoot from the ceiling, forcing each creature of Andariel’s choice within 30 feet to make a DC 16 Strength saving throw or be restrained until the end of its next turn.  
+3. **Torment Echo.** Whispering voices fill the lair. Creatures that fail a DC 15 Wisdom saving throw cannot benefit from temporary hit points until the next round.
+}}
+
+\page
+
+{{descriptive,wide
+##### Combat Phases & Tactics
+
+**Phase 1 – Anguish Rising (Full HP to 150 HP):**
+- Andariel controls space with Poison Lance reach, pushing intruders into poisonous rivulets.
+- She focuses on spellcasters and healers, forcing concentration checks via Tail Impale.
+- Braziers grant her +2 AC and resistance to radiant damage until extinguished.
+
+**Phase 2 – Venom Flood (150 HP to 70 HP):**
+- Poison Nova recharges faster (roll with advantage) if at least one venom vat remains intact.
+- Tormented Souls harass backliners; destroying a soul weakens the aura for a round.
+- Web Snare lair action triggers automatically every other round unless the party burned the webs earlier (torch, alchemist’s fire, etc.).
+
+**Phase 3 – Desperation (70 HP and below):**
+- Andariel gains advantage on attacks against frightened targets.
+- She uses Anguished Step to reposition after each legendary Tail Whip, dragging heroes into acid pools.
+- If reduced to 0 HP while at least one braizer is active, she instead explodes into toxic mist, dropping to 1 HP and immediately using Poison Nova (this can happen only once).
+
+**Tactical Advice:**
+- Encourage players to coordinate: extinguish braziers, destroy pylons, and use holy water to suppress Aura of Anguish (grants advantage vs. the aura for 1 round).
+- Remind them that the Alarm Meter influences reinforcement waves; high alarm might add extra Tormented Souls each round.
+}}
+
+{{descriptive,wide
+##### Completion & Rewards
+
+When Andariel dies, her body collapses into ash and tar. The braziers gutter out, and the catacombs’ oppressive pressure releases in a roar of wind. Akara arrives with a contingent of Rogues to sanctify the altar—if the party purified altars earlier, the ritual completes in minutes; otherwise it becomes a longer downtime scene (opportunity for roleplay and skill checks).
+
+**Loot Suggestions:**
+- **Rogue’s Vengeance (Unique Bow):** +1 longbow; once per short rest, its wielder can add 2d6 poison or radiant damage to a hit.
+- **Veil of Anguish (Crown):** Grants resistance to psychic damage and advantage on saving throws against frightened, but imposes disadvantage on Wisdom (Insight) checks while worn.
+- **Blood of the Maiden (Potion):** As *heroism* spell plus immunity to poison for 1 hour.
+- Treasure hoard worth 1,000 gp in gold, gems, and relics suitable for Act II trade; roll twice on the Magic Item Table F for additional rewards.
+
+**NPC Reactions:**
+- **Akara:** *"Your courage has restored the Sisterhood’s heart. We will keep this ground holy in your absence."*
+- **Kashya:** *"Andariel’s head will hang above our gate, a warning to every demon that still breathes."*
+- **Charsi:** *"With the forge and the catacombs cleansed, we can start rebuilding. I’ll keep crafting while you’re gone."*
+- **Deckard Cain:** *"Sanctuary endures another day. Now we must face what lies beyond the desert."*
+- **Warriv:** *"Pack your belongings. The caravan rolls at dawn."*
+}}
+
+{{descriptive,wide
+##### Epilogue: Warriv’s Caravan
+
+After a night of solemn celebration, Warriv assembles the caravan at the Encampment gate. Wagons creak under the weight of salvaged weapons, rescued refugees, and the hopes of an entire region. Run the following beats:
+
+- **Farewell Feast:** Rogues share smoked venison and watered wine. Each NPC offers a final toast or personal request (Akara asks the party to send word if they find surviving sisters in the East; Charsi begs for exotic metals; Kashya promises to hold the Monastery).
+- **Warriv’s Oath:** *"The road to Lut Gholein is long, treacherous, and full of stories. While you ride with me, you ride under my protection. Once we reach the jewel of the desert, your war continues—just with new enemies."*
+- **Travel Hook:** The caravan departs at sunrise. Describe the party looking back at the Rogue Encampment, now lit with fresh braziers and hopeful banners, before turning east toward the deserts. End Act I here, or fast-forward to the Lut Gholein docking area to open Act II.
+}}
+
+\page
+
+{{descriptive,wide
+##### Game Master Notes
+
+**Quest Difficulty:** Deadly. Expect multiple long rests across safe nodes or return trips to camp.
+
+**Scaling Tips:**
+- For weaker parties, reduce Poison Nova damage (8d6) and remove one lair action option.
+- For veteran tables, add scripted reinforcements every 3 rounds (1d4 Corrupt Zealots) and increase Andariel’s HP to 260.
+- Allow players to leverage previous side quests—freed prisoners, captured intel, or alliances can negate certain hazards entirely.
+
+**Teaching Moments:**
+- **Resource Exhaustion:** Long dungeon gauntlets test rationing of spells, hit dice, and consumables.
+- **Environmental Combat:** Braziers, poison vats, and webs emphasize objective-based fights.
+- **Narrative Payoff:** This quest should resolve NPC arcs (Charsi’s guilt, Kashya’s leadership, Akara’s faith) while seeding Act II mysteries.
+
+**Failure States:**
+- If the party retreats, Andariel fortifies the catacombs (new traps, higher alarm). Provide story consequences: more refugees die, Kashya loses scouts, etc., but keep the quest winnable.
+- If Andariel escapes (she can plane shift at 25 HP if the GM wishes), she becomes a recurring nemesis in Act II+.
+
+**Transition to Act II:**
+- Warriv’s caravan takes 10 days to reach Lut Gholein. Use the journey for downtime scenes, travel encounters, or Act II foreshadowing (visions from Deckard, rogue desert scouts, rumors of Tal Rasha).
+- Begin Act II with the caravan cresting the dunes and the glittering city coming into view, or with the party already in Lut Gholein’s bazaar receiving their next hook.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
 {{partCover}}
 
 # III
@@ -2669,7 +2760,7 @@ Returning to the Rogue Encampment with news of the tower’s cleansing lifts mor
 \page
 
 {{imageMaskEdge8,--offset:20%,--rotation:180
-  ![](https://i.imgur.com/9bJTXoA.png){height:80%,left:0px,bottom:40%}
+  ![](https://i.imgur.com/9bJTXoA.png){height:80%,left:-1%,bottom:40%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -2707,7 +2798,7 @@ Weather adds to the oppressive atmosphere. Mist clings to the low ground in the 
 \page
 
 {{imageMaskEdge8,--offset:20%,--rotation:180
-  ![](https://i.imgur.com/eXkwojL.png){height:80%,left:0%,bottom:48%}
+  ![](https://i.imgur.com/eXkwojL.png){height:80%,left:-1%,bottom:48%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -2735,7 +2826,7 @@ Sound behaves strangely here—whispers echo from impossible directions, footfal
 | 15-16 | 2d4 **Fallen** with 1 **Fallen Shaman** and 1 **Zombie** |
 | 17 | **Corpsefire** (unique zombie boss, see page XX) with 2d3 **Zombies** |
 | 18 | Ambush! 2d4 **Fallen** appear from side passages (surprise round if party fails DC 14 Perception) |
-| 19 | Hidden cache (DC 16 Investigation to find: 3d10 gold, 1d4 health potions, 1 gem, 15% chance magic item) |
+| 19 | Hidden cache (DC 16 Investigation to find: 3d10 gold, 1d4 potions of healing, 1 gem, 15% chance magic item) |
 | 20 | **Corpsefire** (unique zombie boss, see page XX) with 2d4 **Fallen** and 1 **Fallen Shaman** |
 
 *See page XX for monster stat blocks. See page XX for Quest 1 details.*
@@ -2749,7 +2840,7 @@ Sound behaves strangely here—whispers echo from impossible directions, footfal
 <!-- Begin writing area info pages here. -->
 
 {{imageMaskEdge7,--offset:10%,--rotation:180
-  ![](https://i.imgur.com/gVW3YTl.png){height:80%,left:0%,bottom:40%}
+  ![](https://i.imgur.com/gVW3YTl.png){height:80%,left:-1%,bottom:40%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -2776,7 +2867,12 @@ The cold here is more than just weather—it feels intentional, malicious. Even 
 | 11–12 | 1d3 **Corrupt Rogues** (melee) patrolling on foot (see page XX). |
 | 13–14 | 1d3 **Spike Fiends** darting between rocks and ice (see page XX). |
 | 15–16 | Mixed patrol: 1d3 **Fallen**, 1 **Fallen Shaman**, and 1 **Corrupt Rogue Archer** working together. |
-| 17 | Bishibosh’s warband: **Bishibosh** (Fallen Shaman, see page XX) with 2d4 **Fallen**. |
+| 17 | Bishibosh's warband: **Bishibosh** (Fallen Shaman, see page XX) with 2d4 **Fallen**. |
+| 18 | Ambush! 1d4 **Fallen** and 1d2 **Corrupt Rogues** attack from behind rocks or frozen ground (surprise round if party fails DC 14 Perception). |
+| 19 | Abandoned campsite (2d10 gold, 1d4 potions of healing, 25% chance magic item). |
+| 20 | Hidden cache (DC 15 Investigation to find: 3d10 gold, 1 gem, 15% chance magic item). |
+
+*See page XX for monster stat blocks. See page XX for area details.*
 }}
 
 {{pageNumber,auto}}
@@ -2784,7 +2880,7 @@ The cold here is more than just weather—it feels intentional, malicious. Even 
 \page
 
 {{imageMaskEdge5,--offset:-10%,--rotation:180
-  ![](https://i.imgur.com/oa1zUA8.png){height:80%,left:0%,bottom:20%}
+  ![](https://i.imgur.com/oa1zUA8.png){height:80%,left:-1%,bottom:20%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -2807,7 +2903,7 @@ Sound behaves strangely here, echoing in ways that defy physics and logic. A whi
 \page
 
 {{imageMaskEdge6,--offset:-6%,--rotation:180
-  ![](https://i.imgur.com/AY7omps.png){height:100%,left:0%,top:-16%}
+  ![](https://i.imgur.com/AY7omps.png){height:100%,left:-1%,top:-16%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -2823,6 +2919,26 @@ The Burial Grounds are a testament to the dead who rest uneasily beneath Sanctua
 The layout of the grounds tells a story of gradual corruption. The older graves, those farthest from whatever corruption first touched this place, still stand relatively intact, their markers weathered but whole. But the closer you get to the center, the more pronounced the damage becomes. Graves have been torn open, their contents removed or transformed. The earth around them is churned and disturbed, as if something has been digging its way out from below. Statues of angels and guardians have been defaced or toppled, their faces scratched away or their forms twisted into parodies of protection.
 
 Time seems to move differently here. The light, what little there is, feels wrong—too dim during the day, too bright at night when the moon touches the broken stones. The silence is not the peaceful quiet of a resting place but something else entirely—a watchful, hungry silence that suggests something is waiting just beneath the surface. Those who walk these grounds often feel as though they're being watched from the corner of their eye, but when they turn, there's nothing there—nothing visible, at least. The Burial Grounds have become a place where the boundary between life and death has been blurred, and where the dead no longer stay dead.
+}}
+
+{{descriptive,wide
+**Burial Grounds Encounter Table** *(Roll 1d20 once per hour of exploration or when entering a new section of the cemetery)*
+
+| d20 | Encounter |
+|:---:|:----------|
+| 1–2 | No encounter (an eerie silence hangs over the disturbed graves). |
+| 3–5 | 1d4 **Skeletons** (see page XX) rise from open graves. |
+| 6–8 | 1d3 **Skeleton Archers** (see page XX) positioned among the headstones. |
+| 9–10 | 1d3 **Zombies** (see page XX) shambling between the graves. |
+| 11–12 | 1d2 **Skeleton Mages** (see page XX) casting spells from behind monuments. |
+| 13–14 | Mixed undead: 1d3 **Skeletons** and 1d2 **Zombies**. |
+| 15–16 | Undead patrol: 1d2 **Skeleton Archers** and 1d3 **Skeletons** working together. |
+| 17 | **Blood Raven** (corrupted rogue boss, see page XX) with 2d4 **Zombies** and 1d3 **Skeleton Archers** in the inner cemetery. |
+| 18 | Ambush! 2d4 **Skeletons** burst from multiple graves simultaneously (surprise round if party fails DC 14 Perception). |
+| 19 | Hidden grave cache (DC 16 Investigation to find: 4d10 gold, 1d4 potions of healing, 1 gem, 20% chance magic item). |
+| 20 | **Blood Raven** (corrupted rogue boss, see page XX) spotted in the distance, surrounded by her undead army. |
+
+*See page XX for monster stat blocks. See page XX for Quest 2 details.*
 }}
 
 {{pageNumber,auto}}
@@ -2853,7 +2969,7 @@ Light behaves strangely within these walls. What should be shadows cast by torch
 \page
 
 {{imageMaskEdge8,--offset:-8%,--rotation:180
-  ![](https://i.imgur.com/UO2d6Ep.png){width:101%,left:0%,bottom:30%}
+  ![](https://i.imgur.com/UO2d6Ep.png){width:101%,left:-1%,bottom:30%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -2876,7 +2992,7 @@ The deeper you venture into the Crypt, the more the normal rules of reality seem
 \page
 
 {{imageMaskEdge7,--offset:-7%,--rotation:180
-  ![](https://i.imgur.com/BuRZNk5.png){height:101%,left:0%,bottom:0%}
+  ![](https://i.imgur.com/BuRZNk5.png){height:101%,left:-1%,bottom:0%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -2894,12 +3010,32 @@ The rocks that dominate the landscape are arranged in patterns that suggest inte
 The wind that sweeps across the Stony Field carries with it more than just cold and dust. It brings sounds that shouldn't exist—whispers that might be voices, scrapes that might be claws on stone, thumps that might be footsteps. The stone formations act like natural amplifiers, making distant sounds seem close and close sounds seem distant. The field is a place of confusion, where direction becomes meaningless and every rock looks the same. Those who enter often find themselves going in circles, returning to places they've already passed without realizing they've doubled back. The Stony Field doesn't just hide threats—it hides itself, making navigation nearly impossible for those who don't know its secrets.
 }}
 
+{{descriptive,wide
+**Stony Field Encounter Table** *(Roll 1d20 once per hour of travel or when entering a new section of the field)*
+
+| d20 | Encounter |
+|:---:|:----------|
+| 1–4 | No encounter (the wind howls through the stones, but nothing approaches). |
+| 5–7 | 1d4+2 **Fallen** (see page XX). |
+| 8–9 | 2d4 **Fallen** with 1 **Fallen Shaman** (see page XX). |
+| 10–11 | 1d3 **Corrupt Rogues** (melee) patrolling the rocks (see page XX). |
+| 12–13 | 1d2 **Corrupt Rogue Archers** on elevated positions (see page XX). |
+| 14–15 | Mixed patrol: 1d3 **Fallen**, 1 **Fallen Shaman**, and 1 **Corrupt Rogue Archer** working together. |
+| 16 | **Rakanishu**'s warband: **Rakanishu** (Fallen Shaman, see page XX) with 2d4 **Fallen** and 1d2 **Fallen Shamans**. |
+| 17 | Ambush! 1d4 **Corrupt Rogues** and 1d2 **Corrupt Rogue Archers** attack from behind rocks (surprise round if party fails DC 14 Perception). |
+| 18 | Hidden cache among the rocks (DC 16 Investigation to find: 3d10 gold, 1d4 potions of healing, 1 gem, 15% chance magic item). |
+| 19 | The **Cairn Stones** come into view—an ancient stone circle that pulses with latent magic. |
+| 20 | Abandoned campsite (2d10 gold, 1d4 potions of healing, 25% chance magic item, possible Moldy Tome for Quest 4). |
+
+*See page XX for monster stat blocks. See page XX for Quest 3 details.*
+}}
+
 {{pageNumber,auto}}
 
 \page
 
 {{imageMaskEdge2,--offset:-8%,--rotation:180
-  ![](https://i.imgur.com/Qynievw.png){width:102%,left:0%,top:-1%}
+  ![](https://i.imgur.com/Qynievw.png){width:102%,left:-1%,top:-1%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -2963,12 +3099,31 @@ Navigation through the Dark Wood is nearly impossible. The paths that exist are 
 The corruption in the Dark Wood goes beyond simple physical change. The very nature of the forest seems to have been perverted, turning it from a place of life into something that exists in opposition to life. Animals avoid the area, their absence creating an unnatural silence that is broken only by sounds that shouldn't exist—the scrape of branches that move when there's no wind, the rustle of leaves that suggests something moving just out of sight, the whisper of voices that might be the wind or might be something else entirely. The Dark Wood doesn't just hide threats—it is a threat, a living thing that watches and waits and hungers.
 }}
 
+{{descriptive,wide
+**Dark Wood Encounter Table** *(Roll 1d20 once per hour of travel or when entering a new section of the wood)*
+
+| d20 | Encounter |
+|:---:|:----------|
+| 1–3 | No encounter (the forest is unnervingly quiet, but nothing moves). |
+| 4–6 | 1d3 **Skeletons** (see page XX) emerge from the undergrowth. |
+| 7–9 | 1d2 **Zombies** (see page XX) shamble between the trees. |
+| 10–12 | 1d2 **Skeleton Archers** (see page XX) positioned among the branches. |
+| 13–14 | Mixed undead: 1d3 **Skeletons** and 1d2 **Zombies**. |
+| 15–16 | 1d2 **Giant Spiders** (see page XX) lurking in webs between trees. |
+| 17 | **Treehead Woodfist** (unique skeleton boss, see page XX) with 1d4 **Skeletons** and 1d2 **Zombies** near the Tree of Inifuss. |
+| 18 | Ambush! 2d3 **Skeletons** burst from the ground or hidden places (surprise round if party fails DC 14 Perception). |
+| 19 | Hidden grove with treasure (DC 16 Investigation to find: 3d10 gold, 1d4 potions of healing, 1 gem, 20% chance magic item). |
+| 20 | The **Tree of Inifuss** comes into view—a massive, gnarled tree marked with ancient runes, guarded by Treehead Woodfist. |
+
+*See page XX for monster stat blocks. See page XX for Quest 3 details.*
+}}
+
 {{pageNumber,auto}}
 
 \page
 
 {{imageMaskEdge7,--offset:-4%,--rotation:180
-  ![](https://i.imgur.com/1NzNVDr.png){height:100%,left:0%,bottom:10%}
+  ![](https://i.imgur.com/1NzNVDr.png){height:100%,left:-1%,bottom:10%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -2988,12 +3143,32 @@ The terrain of the Black Marsh is actively hostile. What looks like solid ground
 The mist that clings to the marsh seems to move with purpose, coiling around obstacles and pooling in low areas in ways that suggest intelligence rather than natural weather patterns. Visibility is poor even during the day, and at night the mist becomes so thick that it's impossible to see more than a few feet ahead. Sounds are distorted by the water and mist, making it difficult to judge distance or direction. The marsh feels like a place where the normal rules of reality don't apply, where up and down become meaningless concepts and where the distinction between solid ground and open water becomes dangerously blurred. The Black Marsh doesn't just hide dangers—it creates them, transforming the landscape itself into a weapon against those who dare to enter.
 }}
 
+{{descriptive,wide
+**Black Marsh Encounter Table** *(Roll 1d20 once per hour of travel or when entering a new section of the marsh)*
+
+| d20 | Encounter |
+|:---:|:----------|
+| 1–3 | No encounter (the mist swirls, but nothing emerges from the murk). |
+| 4–6 | 1d4+1 **Corrupt Rogues** (see page XX) patrolling the marsh. |
+| 7–9 | 1d3 **Corrupt Rogue Archers** (see page XX) positioned on higher ground or dead trees. |
+| 10–11 | 1d2 **Corrupt Rogue Spearwomen** (see page XX) wading through the swamp. |
+| 12–13 | 1d4 **Blood Hawks** (see page XX) circling overhead. |
+| 14–15 | 1 **Blood Hawk Nest** (see page XX) with 1d3 **Blood Hawks**. |
+| 16 | 1d2 **Wraiths** (see page XX) phasing through the mist. |
+| 17 | Mixed patrol: 1d3 **Corrupt Rogues**, 1 **Corrupt Rogue Archer**, and 1d2 **Blood Hawks**. |
+| 18 | The **Forgotten Tower** comes into view—a crumbling stone spire rising from the marsh. |
+| 19 | Hidden cache in sunken ruins (DC 16 Investigation to find: 4d10 gold, 1d4 potions of healing, 1 gem, 25% chance magic item, possible Moldy Tome for Quest 4). |
+| 20 | Ambush! 2d4 **Corrupt Rogues** and 1d3 **Blood Hawks** attack from multiple directions (surprise round if party fails DC 15 Perception). |
+
+*See page XX for monster stat blocks. See page XX for Quest 4 details.*
+}}
+
 {{pageNumber,auto}}
 
 \page
 
 {{imageMaskEdge1,--offset:-6%,--rotation:180
-  ![](https://i.imgur.com/lcGisH5.png){height:101%,left:0%,bottom:0%}
+  ![](https://i.imgur.com/lcGisH5.png){height:101%,left:-1%,bottom:0%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -3039,7 +3214,7 @@ The deeper you descend, the more the Hole reveals its true nature. The air grows
 \page
 
 {{imageMaskEdge7,--offset:-7%,--rotation:180
-  ![](https://i.imgur.com/ibQFsl7.png){height:101%,left:0%,bottom:0%}
+  ![](https://i.imgur.com/ibQFsl7.png){height:101%,left:-1%,bottom:0%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -3055,6 +3230,27 @@ The Tamoe Highland is an elevated region where the ground rises and the air grow
 The elevation of the highland creates a sense of isolation that goes beyond mere physical separation. The paths that wind up to the highland are steep and treacherous, forcing travelers to move slowly and carefully. Once you reach the top, the wind hits you with full force, making it difficult to stand upright and nearly impossible to hear anything else. The rocky outcroppings provide some shelter, but they also create blind spots and hiding places where threats can wait unseen. The ground itself is unstable in places, with loose rocks and sudden drops that can catch the unwary.
 
 The view from the highland is both a blessing and a curse. You can see for miles in every direction, giving you advance warning of approaching threats or changes in the landscape. But what you see is a world in pain—corruption spreading like a disease, ruins marking where civilization once stood, and the undeniable evidence that the darkness is winning. The highland offers perspective, but that perspective is one of despair. Those who stand here often find themselves overwhelmed by the scope of the destruction, by the knowledge that what they're seeing is just a small part of a larger horror. The Tamoe Highland doesn't just show you the landscape—it shows you the truth, and sometimes the truth is more than you can bear.
+}}
+
+{{descriptive,wide
+**Tamoe Highland Encounter Table** *(Roll 1d20 once per hour of travel or when entering a new section of the highland)*
+
+| d20 | Encounter |
+|:---:|:----------|
+| 1–3 | No encounter (the wind howls across the exposed ridges, but nothing moves). |
+| 4–6 | 1d4+1 **Corrupt Rogues** (see page XX) patrolling the high ground. |
+| 7–8 | 1d3 **Corrupt Rogue Archers** (see page XX) positioned on rocky outcroppings. |
+| 9–10 | 1d2 **Corrupt Rogue Spearwomen** (see page XX) blocking a narrow pass. |
+| 11–12 | 1d3 **Goatmen** (see page XX) charging down a slope. |
+| 13–14 | Mixed patrol: 1d3 **Corrupt Rogues**, 1 **Corrupt Rogue Archer**, and 1 **Goatman** working together. |
+| 15 | Ambush! 1d4 **Corrupt Rogues** and 1d2 **Goatmen** attack from behind rocks (surprise round if party fails DC 15 Perception). |
+| 16 | **Gargantuan Beast** (see page XX) blocking the path, with 1d2 **Goatmen** nearby. |
+| 17 | The **Monastery Gate** comes into view in the distance—a massive entrance that has been breached. |
+| 18 | Hidden cache in a cave or crevice (DC 16 Investigation to find: 4d10 gold, 1d4 potions of healing, 1 gem, 25% chance magic item). |
+| 19 | Abandoned watchtower (2d10 gold, 1d3 potions of healing, possible map or intel, 30% chance magic item). |
+| 20 | Elite patrol: 1d3 **Corrupt Rogues**, 1 **Corrupt Rogue Archer**, 1 **Corrupt Rogue Spearwoman**, and 1 **Goatman** working as a coordinated unit. |
+
+*See page XX for monster stat blocks. See page XX for area details.*
 }}
 
 {{pageNumber,auto}}
@@ -3108,7 +3304,7 @@ Passing through the gate feels like crossing a threshold in more ways than one. 
 \page
 
 {{imageMaskEdge1,--offset:-5%,--rotation:180
-  ![](https://i.imgur.com/9mmnV4t.png){height:80%,left:0%,bottom:30%}
+  ![](https://i.imgur.com/9mmnV4t.png){height:80%,left:-1%,bottom:30%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -3177,7 +3373,7 @@ The deeper you go into the Jail, the worse it becomes. The cells become smaller,
 \page
 
 {{imageMaskEdge3,--offset:-5%,--rotation:180
-  ![](https://i.imgur.com/NtJWaZ0.png){height:80%,left:0%,bottom:25%}
+  ![](https://i.imgur.com/NtJWaZ0.png){height:80%,left:-1%,bottom:25%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -3200,7 +3396,7 @@ The power that once flowed through the Inner Cloister has been corrupted, twiste
 \page
 
 {{imageMaskEdge7,--offset:-2%,--rotation:180
-  ![](https://i.imgur.com/fn8zMt9.png){height:80%,left:0%,bottom:30%}
+  ![](https://i.imgur.com/fn8zMt9.png){height:80%,left:-1%,bottom:30%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -3259,7 +3455,7 @@ The deeper you go into the Catacombs, the more you realize that you're not just 
 
 \page
 {{imageMaskCorner37,--offsetX:-45%,--offsetY:55%,--rotation:80
-  ![](https://i.imgur.com/qu7Vc4U.png){width:80%,top:0px,right:200px}
+  ![](https://i.imgur.com/qu7Vc4U.png){width:80%,top:-1%,right:200px}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -3422,9 +3618,8 @@ ___
 
 \page
 
-
 {{imageMaskEdge8,--offset:-10%,--rotation:180
-  ![](https://i.imgur.com/QU6VJyo.png){height:81%,left:0%,bottom:20%}
+  ![](https://i.imgur.com/QU6VJyo.png){height:81%,left:-1%,bottom:20%}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -3473,14 +3668,11 @@ ___
 {{pageNumber,auto}}
 
 \page
-
 {{imageMaskEdge2,--offset:0%,--rotation:180
   ![](https://i.imgur.com/NguoTA2.png){height:61%,top:-1%,left:-10%}
 }}
 <!-- Use --offset to shift the mask away from page center (can use cm instead of %)
      Use --rotation to set rotation angle in degrees. -->
-
-
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -4246,6 +4438,338 @@ ___
 
 \page
 
+{{monster,frame,wide
+## Treehead Woodfist
+*Medium undead, chaotic evil*
+___
+**Armor Class** :: 17 (*natural armor*)  
+**Hit Points** :: 95 (10d8 + 50)  
+**Speed** :: 30 ft.
+___
+|| STR | DEX | CON | INT | WIS | CHA |
+||:--:|:--:|:--:|:--:|:--:|:--:|
+|| 20 (+5) | 12 (+1) | 20 (+5) | 8 (-1) | 10 (+0) | 8 (-1) |
+___
+**Saving Throws** :: Str +8, Con +8  
+**Skills** :: Athletics +8, Intimidation +2  
+**Damage Resistances** :: necrotic; bludgeoning, piercing, and slashing from nonmagical attacks  
+**Damage Immunities** :: poison  
+**Condition Immunities** :: charmed, exhaustion, frightened, poisoned  
+**Senses** :: darkvision 60 ft., passive Perception 10  
+**Languages** :: understands Common but can't speak  
+**Challenge** :: 4 (1,100 XP) {{bonus **Proficiency Bonus** +2}}
+___
+### Traits
+***Undead Fortitude.*** If damage reduces Treehead Woodfist to 0 hit points, he must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, Treehead Woodfist drops to 1 hit point instead.  
+:
+***Treebound.*** Treehead Woodfist is bound to the Tree of Inifuss. While within 30 feet of the tree, he has advantage on saving throws and regains 5 hit points at the start of each of his turns.  
+:
+***Poisonous Strike.*** Treehead Woodfist's weapon attacks deal additional poison damage, and creatures hit by his attacks must make a DC 15 Constitution saving throw or be poisoned for 1 minute.  
+:
+***Summon Undead.*** As a bonus action, Treehead Woodfist can cause 1d3 Skeletons to rise from the ground in unoccupied spaces within 30 feet of him. He can use this ability three times per day.  
+___
+### Actions
+***Multiattack.*** Treehead Woodfist makes two *Wooden Club* attacks.  
+:
+***Wooden Club.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) bludgeoning damage plus 7 (2d6) poison damage.  
+:
+***Sweeping Strike (Recharge 5–6).*** Treehead Woodfist makes a wide sweeping attack with his club. Each creature within 10 feet of him must make a DC 16 Dexterity saving throw, taking 18 (4d6 + 5) bludgeoning damage plus 7 (2d6) poison damage on a failed save, or half as much on a success.  
+:
+***Ground Slam (Recharge 6).*** Treehead Woodfist slams his club into the ground, creating a shockwave. Each creature within 15 feet of him must make a DC 16 Strength saving throw or be knocked prone and take 14 (4d6) bludgeoning damage.  
+___
+### Legendary Actions
+
+Treehead Woodfist can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Treehead Woodfist regains spent legendary actions at the start of his turn.
+
+***Move.*** Treehead Woodfist moves up to his speed without provoking opportunity attacks.
+
+***Strike.*** Treehead Woodfist makes one Wooden Club attack.
+
+***Command Undead.*** Treehead Woodfist uses his Summon Undead ability.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{monster,frame,wide
+## Rakanishu
+*Small fiend (demon), chaotic evil*
+___
+**Armor Class** :: 15 (*natural armor*)  
+**Hit Points** :: 65 (10d6 + 30)  
+**Speed** :: 30 ft.
+___
+|| STR | DEX | CON | INT | WIS | CHA |
+||:--:|:--:|:--:|:--:|:--:|:--:|
+|| 14 (+2) | 16 (+3) | 16 (+3) | 10 (+0) | 12 (+1) | 8 (-1) |
+___
+**Saving Throws** :: Dex +6, Con +6  
+**Skills** :: Perception +4, Stealth +6  
+**Damage Resistances** :: lightning; bludgeoning, piercing, and slashing from nonmagical attacks  
+**Damage Immunities** :: fire, poison  
+**Condition Immunities** :: charmed, frightened, poisoned  
+**Senses** :: darkvision 60 ft., passive Perception 14  
+**Languages** :: Abyssal, understands Common but can't speak  
+**Challenge** :: 3 (700 XP) {{bonus **Proficiency Bonus** +2}}
+___
+### Traits
+***Lightning Enchanted.*** Rakanishu's weapon attacks deal additional lightning damage. In addition, when Rakanishu takes lightning damage, he can use his reaction to gain resistance to that damage and deal 7 (2d6) lightning damage to each creature within 5 feet of him.  
+:
+***Shamanic Revivification.*** As an action, Rakanishu can attempt to revive a dead Fallen within 30 feet of him. The Fallen returns to life with 1 hit point and acts immediately on Rakanishu's turn. Rakanishu can use this ability once per turn.  
+:
+***Lightning Nova (Recharge 5–6).*** As an action, Rakanishu creates a burst of lightning energy. Each creature within 15 feet of him must make a DC 14 Dexterity saving throw, taking 14 (4d6) lightning damage on a failed save, or half as much on a success.  
+:
+***Teleport (3/Day).*** As a bonus action, Rakanishu can teleport up to 30 feet to an unoccupied space he can see.  
+___
+### Actions
+***Multiattack.*** Rakanishu makes two melee attacks or two ranged attacks.  
+:
+***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage plus 7 (2d6) lightning damage.  
+:
+***Lightning Bolt.*** *Ranged Spell Attack:* +6 to hit, range 60 ft., one target. *Hit:* 10 (3d6) lightning damage.  
+:
+***Summon Fallen (1/Day).*** Rakanishu calls forth 2d4 **Fallen** in unoccupied spaces within 30 feet of him. The Fallen act immediately after Rakanishu in the initiative order and are under his control.  
+___
+### Legendary Actions
+
+Rakanishu can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Rakanishu regains spent legendary actions at the start of his turn.
+
+***Move.*** Rakanishu moves up to his speed without provoking opportunity attacks, or uses his Teleport ability.
+
+***Strike.*** Rakanishu makes one claw attack or Lightning Bolt attack.
+
+***Command Fallen.*** Rakanishu uses his Shamanic Revivification trait or commands all Fallen within 30 feet to move up to their speed and make one attack.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{monster,frame,wide
+## Griswold
+*Medium undead, chaotic evil*
+___
+**Armor Class** :: 18 (*natural armor, shield*)  
+**Hit Points** :: 112 (15d8 + 45)  
+**Speed** :: 30 ft.
+___
+|| STR | DEX | CON | INT | WIS | CHA |
+||:--:|:--:|:--:|:--:|:--:|:--:|
+|| 20 (+5) | 10 (+0) | 16 (+3) | 8 (-1) | 12 (+1) | 6 (-2) |
+___
+**Saving Throws** :: Str +9, Con +7  
+**Skills** :: Athletics +9, Intimidation +1  
+**Damage Resistances** :: necrotic; bludgeoning, piercing, and slashing from nonmagical attacks  
+**Damage Immunities** :: poison  
+**Condition Immunities** :: charmed, exhaustion, frightened, poisoned  
+**Senses** :: darkvision 60 ft., passive Perception 11  
+**Languages** :: understands Common but can't speak  
+**Challenge** :: 5 (1,800 XP) {{bonus **Proficiency Bonus** +3}}
+___
+### Traits
+***Undead Fortitude.*** If damage reduces Griswold to 0 hit points, he must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, Griswold drops to 1 hit point instead.  
+:
+***Memories of the Forge.*** Griswold remembers fragments of his former life. When he reduces a creature to 0 hit points, he can use a bonus action to raise that creature as a **Zombie** at the start of his next turn. The zombie appears in the space where the creature died and is under Griswold's control. He can control up to 6 zombies in this way.  
+:
+***Master Blacksmith.*** Griswold's hammer attacks ignore resistance to bludgeoning damage and deal double damage to objects and structures.  
+:
+***Corrupted Aura.*** Creatures within 10 feet of Griswold have disadvantage on saving throws against being frightened.  
+___
+### Actions
+***Multiattack.*** Griswold makes two *Warhammer* attacks.  
+:
+***Warhammer.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.  
+:
+***Thunderous Strike (Recharge 5–6).*** Griswold slams his hammer into the ground, creating a shockwave. Each creature within 15 feet of him must make a DC 16 Constitution saving throw, taking 21 (6d6) thunder damage on a failed save, or half as much on a success. Creatures that fail are also deafened until the end of their next turn.  
+:
+***Summon Undead (1/Day).*** Griswold raises 2d4 **Zombies** from the ground in unoccupied spaces within 30 feet of him. The zombies act immediately after Griswold in the initiative order and are under his control.  
+___
+### Legendary Actions
+
+Griswold can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Griswold regains spent legendary actions at the start of his turn.
+
+***Move.*** Griswold moves up to his speed without provoking opportunity attacks.
+
+***Strike.*** Griswold makes one Warhammer attack.
+
+***Command Undead.*** Griswold uses his Memories of the Forge trait to raise a fallen creature as a zombie (if available).
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{monster,frame,wide
+## The Countess
+*Medium undead (tiefling), lawful evil*
+___
+**Armor Class** :: 18 (*Runic Ward*)  
+**Hit Points** :: 120 (16d8 + 48)  
+**Speed** :: 30 ft.
+___
+|| STR | DEX | CON | INT | WIS | CHA |
+||:--:|:--:|:--:|:--:|:--:|:--:|
+|| 14 (+2) | 18 (+4) | 16 (+3) | 16 (+3) | 14 (+2) | 18 (+4) |
+___
+**Saving Throws** :: Dex +8, Wis +6, Cha +8  
+**Skills** :: Arcana +7, Insight +6, Perception +6, Stealth +8  
+**Damage Resistances** :: cold, fire, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks  
+**Damage Immunities** :: poison  
+**Condition Immunities** :: charmed, frightened, poisoned  
+**Senses** :: darkvision 120 ft., passive Perception 16  
+**Languages** :: Common, Infernal, Abyssal  
+**Challenge** :: 6 (2,300 XP) {{bonus **Proficiency Bonus** +3}}
+___
+### Traits
+***Infernal Rune Mastery.*** The Countess adds +2 to spell attack rolls and save DCs while at least one rune pillar stands. Additionally, when she casts a spell that deals fire damage, she can change it to cold or lightning damage.
+
+***Rune-Linked Teleport.*** As a bonus action, the Countess can teleport up to 30 feet to another rune inscribed surface she can see.
+
+***Blood for Fire.*** When the Countess scores a critical hit, the target takes an extra 7 (2d6) fire damage and must succeed on a DC 15 Wisdom saving throw or be frightened of her until the end of their next turn.
+___
+### Actions
+***Multiattack.*** The Countess makes two *Rune Dagger* attacks or casts a spell and makes one *Rune Dagger* attack.  
+:
+***Rune Dagger.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d6 + 5) piercing damage plus 10 (3d6) fire damage.  
+:
+***Runic Bolt.*** *Ranged Spell Attack:* +8 to hit, range 90 ft., one target. *Hit:* 13 (3d8) cold or lightning damage.  
+:
+***Hellfire Torrent (Recharge 5–6).*** The Countess unleashes a 30-foot-long, 5-foot-wide line of searing flame. Each creature in the line must make a DC 16 Dexterity saving throw, taking 27 (6d8) fire damage on a failed save, or half as much on a success. Creatures that fail ignite (5 fire damage at the start of their turns until they take an action to extinguish the flames).
+___
+### Bonus Actions
+***Rune Ward (2/Day).*** The Countess gains 20 temporary hit points and advantage on saving throws until the start of her next turn.
+___
+### Legendary Actions
+The Countess can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The Countess regains spent legendary actions at the start of her turn.
+
+***Quick Step.*** The Countess moves up to half her speed without provoking opportunity attacks.
+
+***Runic Lash.*** The Countess makes one Rune Dagger attack.
+
+***Rune Flare (Costs 2 Actions).*** The Countess detonates latent runes. Each creature of her choice within 15 feet must succeed on a DC 16 Dexterity saving throw or take 9 (2d8) fire damage and be pushed 10 feet.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{monster,frame,wide
+## The Smith
+*Large fiend (demon), chaotic evil*
+___
+**Armor Class** :: 17 (*hellforged plate*)  
+**Hit Points** :: 152 (16d10 + 64)  
+**Speed** :: 30 ft.
+___
+|| STR | DEX | CON | INT | WIS | CHA |
+||:--:|:--:|:--:|:--:|:--:|:--:|
+|| 23 (+6) | 12 (+1) | 18 (+4) | 9 (−1) | 14 (+2) | 15 (+2) |
+___
+**Saving Throws** :: Str +11, Con +8, Wis +6  
+**Skills** :: Athletics +11, Intimidation +6, Perception +6  
+**Damage Resistances** :: cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks  
+**Damage Immunities** :: poison  
+**Condition Immunities** :: charmed, frightened, poisoned  
+**Senses** :: darkvision 120 ft., passive Perception 16  
+**Languages** :: Common, Infernal  
+**Challenge** :: 7 (2,900 XP) {{bonus **Proficiency Bonus** +3}}
+___
+### Traits
+***Forge-Bound Hide.*** When The Smith takes fire damage, he gains 5 temporary hit points (stacking to a maximum of 20).  
+:
+***Molten Rush.*** When The Smith moves at least 15 feet straight toward a creature and hits it with a Great Maul attack on the same turn, the target must succeed on a DC 16 Strength saving throw or be knocked prone and take an extra 7 (2d6) fire damage.  
+:
+***Unstoppable.*** Difficult terrain doesn't cost The Smith extra movement, and he can move through the space of a hostile creature that is Medium or smaller.
+
+___
+### Actions
+***Multiattack.*** The Smith makes two *Great Maul* attacks, or one *Great Maul* attack and one *Chain Drag* attack.  
+:
+***Great Maul.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) bludgeoning damage plus 7 (2d6) fire damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone.  
+:
+***Chain Drag (Recharge 5–6).*** The Smith lashes out with a hooked chain. One creature within 20 feet must make a DC 16 Strength saving throw. On a failed save, the creature is pulled up to 15 feet toward The Smith and takes 13 (3d8) slashing damage; on a success, the creature takes half damage and isn't moved.  
+:
+***Cinderburst (Recharge 5–6).*** The Smith hurls molten slag in a 30-foot cone. Each creature in the area must make a DC 16 Dexterity saving throw, taking 27 (6d8) fire damage on a failed save, or half as much on a success. A creature that fails also catches fire, taking 5 (1d10) fire damage at the start of each of its turns until it or another creature uses an action to douse the flames.  
+:
+***Ignite the Bellows (1/Day).*** The Smith slams the anvil, empowering his forge. He gains 20 temporary hit points and each enemy within 10 feet must succeed on a DC 16 Constitution saving throw or be stunned until the end of their next turn.
+
+___
+### Legendary Actions
+The Smith can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The Smith regains spent legendary actions at the start of his turn.
+
+***Trample.*** The Smith moves up to 10 feet without provoking opportunity attacks.  
+***Backhand.*** The Smith makes one *Great Maul* attack.  
+***Rip Chain (Costs 2 Actions).*** The Smith tears a hanging chain loose. Each creature within 10 feet of that chain must make a DC 16 Dexterity saving throw or take 9 (2d8) bludgeoning damage and be restrained until the start of The Smith's next turn.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{monster,frame,wide
+## Andariel, Maiden of Anguish
+*Large fiend (demon), chaotic evil*
+___
+**Armor Class** :: 19 (*chitinous hide*)  
+**Hit Points** :: 230 (20d10 + 120)  
+**Speed** :: 40 ft., climb 30 ft.
+___
+|| STR | DEX | CON | INT | WIS | CHA |
+||:--:|:--:|:--:|:--:|:--:|:--:|
+|| 22 (+6) | 18 (+4) | 22 (+6) | 16 (+3) | 16 (+3) | 20 (+5) |
+___
+**Saving Throws** :: Dex +9, Con +11, Wis +8, Cha +10  
+**Skills** :: Insight +8, Intimidation +10, Perception +8, Religion +8  
+**Damage Resistances** :: cold, fire, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks  
+**Damage Immunities** :: poison  
+**Condition Immunities** :: charmed, frightened, poisoned  
+**Senses** :: truesight 60 ft., darkvision 120 ft., passive Perception 18  
+**Languages** :: Abyssal, Common, telepathy 120 ft.  
+**Challenge** :: 11 (7,200 XP) {{bonus **Proficiency Bonus** +4}}
+___
+### Traits
+***Aura of Anguish.*** Creatures that start their turn within 20 feet of Andariel must succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened until the end of their turn. A creature that succeeds is immune to the aura for 24 hours.  
+:
+***Spider Queen.*** Andariel can move through webs without impediment and climb difficult surfaces, including upside down, without needing to make an ability check.  
+:
+***Venomous Blood.*** When a creature within 5 feet hits Andariel with a melee attack, it takes 5 (1d10) poison damage.  
+:
+***Limited Magic Resistance.*** Andariel has advantage on saving throws against spells, and she forces disadvantage on concentration checks triggered by her damage.
+
+___
+### Actions
+***Multiattack.*** Andariel makes two *Poison Lance* attacks or one *Poison Lance* attack and one *Tail Impale*.  
+:
+***Poison Lance.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8 + 6) piercing damage plus 14 (4d6) poison damage, and the target must succeed on a DC 17 Constitution saving throw or become poisoned for 1 minute. While poisoned this way, the target also takes 7 (2d6) poison damage at the start of each of its turns. The target can repeat the save at the end of each of its turns, ending the effect on a success.  
+:
+***Tail Impale.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 13 (2d6 + 6) piercing damage plus 9 (2d8) psychic damage, and the target must succeed on a DC 17 Strength saving throw or be restrained (escape DC 17).  
+:
+***Poison Nova (Recharge 5–6).*** Andariel releases a 40-foot-radius burst of toxic mist. Each creature in the area must make a DC 17 Constitution saving throw, taking 35 (10d6) poison damage on a failed save, or half as much on a success. Creatures that fail are also poisoned until the end of their next turn.  
+:
+***Summon Tormented (1/Day).*** Andariel summons 1d4 *Tormented Souls* (use Wraith stat block) in unoccupied spaces within 30 feet. The souls act on her initiative, immediately after her turn.
+
+___
+### Legendary Actions
+Andariel can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. She regains spent legendary actions at the start of her turn.
+
+***Anguished Step.*** Andariel moves up to half her speed without provoking opportunity attacks.  
+***Venom Spray.*** Andariel targets one creature she can see within 30 feet; the target must succeed on a DC 17 Dexterity saving throw or take 9 (2d8) poison damage and be coated in venom, granting advantage to the next attack against it before Andariel's next turn.  
+***Tail Whip (Costs 2 Actions).*** Andariel makes one *Tail Impale* attack.  
+***Agony Pulse (Costs 3 Actions).*** Each creature of her choice within 20 feet must succeed on a DC 17 Wisdom saving throw or take 11 (2d10) psychic damage and be pushed 10 feet.
+
+___
+### Lair Actions
+On initiative count 20 (losing initiative ties), Andariel can use one of the following lair actions while in her chamber:
+1. **Poison Jets.** Two vents erupt, targeting up to two creatures within 60 feet. Each must make a DC 17 Dexterity saving throw, taking 10 (3d6) poison damage on a failure, or half on a success.  
+2. **Web Snare.** Sticky webs shoot from the ceiling, forcing each creature of Andariel's choice within 30 feet to make a DC 16 Strength saving throw or be restrained until the end of its next turn.  
+3. **Torment Echo.** Whispering voices fill the lair. Creatures that fail a DC 15 Wisdom saving throw cannot benefit from temporary hit points until the next round.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
 {{partCover}}
 
 # V
@@ -4507,6 +5031,3 @@ For use with the D&D 5e role-playing ruleset — and for the daring souls who wo
 </div>
 
 ![background image](https://www.candb.com/site/candb/images/artwork/Diablo-Battle_Diablo_Blizzard-Entertainment.jpg){position:absolute,bottom:0,left:0,height:100%}
-
-
-![logo](https://media.discordapp.net/attachments/872662229743444009/1438503796593524816/Diablo_II_2000_logo.png?ex=691918cf&is=6917c74f&hm=07cbe4929e21257cd963f13f305b5a8188276c8928346ff22863c51c83a7b03d&=&format=webp&quality=lossless) {width:450px,position:absolute,left:185px,top:0px}
