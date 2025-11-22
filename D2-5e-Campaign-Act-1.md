@@ -2188,6 +2188,7 @@ Returning to the Rogue Encampment with news of the tower’s cleansing lifts mor
 
 {{wide
 # Quest 5: Tools of the Trade
+}}
 
 {{imageMaskEdge1,--offset:-33%,--rotation:0
   ![](https://i.redd.it/1firp67htpd61.png){position:absolute,bottom:0,left:-200px,height:100%,opacity:0.6}
